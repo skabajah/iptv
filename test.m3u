@@ -14,10 +14,24 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="General",Al Mamlaka TV (1080p)
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 
+#EXTINF:-1 tvg-id="LBCI"  tvg-logo="https://www.lbcgroup.tv/images/logo-default.png" group-title="General",LBCI
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1897.m3u8
+#EXTINF:-1 tvg-id="OTV" tvg-logo="https://pbs.twimg.com/profile_images/1268796709410344965/fk4QcwYW_400x400.jpg" group-title="General",OTV
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="MTV Lebanon" tvg-logo="https://pbs.twimg.com/profile_images/1217009489158733830/ACg50HnC_400x400.jpg" group-title="General",MTV Lebanon
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=mtv
+#EXTINF:-1 tvg-id="OneTVLebanon.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="Music",One TV Lebanon (1080p)
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="NBN.lb" tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="General",NBN (540p)
+https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC (720p)  
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 tvg-id="Al-Nahar" tvg-logo="https://pbs.twimg.com/profile_images/1435576535403085826/g0Mnrz3V_400x400.jpg" group-title="General",Al-Nahar
 http://62.182.82.104/Al_Nahar_Tv/tracks-v1a1/mono.m3u8?token=test
+
 
 #EXTINF:-1 tvg-id="MBC1.us" tvg-logo="https://i.imgur.com/aiqEXrk.png" group-title="MBC",MBC 1 (1080p)
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
@@ -43,6 +57,7 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="General",SBC (1080p)  
 https://edge.taghtia.com/sa/1.m3u8
 
+
 #EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="Rotana",Rotana+ (1080p)
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="Rotana Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" group-title="General",Rotana Music
@@ -56,16 +71,6 @@ https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/4e7420225751cb2d25d185bd3
 #EXTINF:-1 tvg-id="Rotana Cinema SA" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Cinema SA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="OTV" tvg-logo="https://pbs.twimg.com/profile_images/1268796709410344965/fk4QcwYW_400x400.jpg" group-title="General",OTV
-http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="MTV Lebanon" tvg-logo="https://pbs.twimg.com/profile_images/1217009489158733830/ACg50HnC_400x400.jpg" group-title="General",MTV Lebanon
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=mtv&token=86c4c86d6650888e5e854c440063b1d8
-#EXTINF:-1 tvg-id="OneTVLebanon.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="Music",One TV Lebanon (1080p)
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="NBN.lb" tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="General",NBN (540p)
-https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
-#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
 
@@ -93,17 +98,16 @@ https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="DMC"  tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="General",DMC
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=DMC&token=86c4c86d6650888e5e854c440063b1d8
+#EXTINF:-1 tvg-id="DMC"  tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="Test",DMC
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=DMC 
 
-#EXTINF:-1 tvg-id="ON"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/1200px-ON_logo.png" group-title="General",ON Drama
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=ondrama&token=86c4c86d6650888e5e854c440063b1d8
+#EXTINF:-1 tvg-id="ON"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/1200px-ON_logo.png" group-title="Test",ON Drama
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=ondrama 
 
-#EXTINF:-1 tvg-id="Hayat"  tvg-logo="https://www.egypttoday.com/siteimages/Larg/10616.jpg" group-title="General",Hayat Drama
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=hayat-serie&token=86c4c86d6650888e5e854c440063b1d8
+#EXTINF:-1 tvg-id="Hayat"  tvg-logo="https://www.egypttoday.com/siteimages/Larg/10616.jpg" group-title="Test",Hayat Drama
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=hayat-serie 
 
-#EXTINF:-1 tvg-id="LBCI"  tvg-logo="https://www.lbcgroup.tv/images/logo-default.png" group-title="General",LBCI
-http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1897.m3u8
+
 
 
  
