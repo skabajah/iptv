@@ -82,7 +82,7 @@ https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Arabic (1080p)
 https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live. .net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic (1080p)
 https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT Arabic (1080p)  
@@ -93,4 +93,9 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="OneTVLebanon.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="Music",One TV Lebanon (1080p)
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
+
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",ON E 4K
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10326?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DMC 4K
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10327?checkedby:iptvcat.net
 
