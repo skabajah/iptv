@@ -1,6 +1,5 @@
 #EXTM3U
-
-
+#PLAYLIST:Arabic TV (Selected)
 
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="General",PSC (1080p)
 https://pbc.furrera.ps/palestinehd/index.m3u8
@@ -94,8 +93,5 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",ON E 4K
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10326?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",DMC 4K
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10327?checkedby:iptvcat.net
-
+#EXTINF:0 tvg-id="test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/320px-Test-Logo.svg.png" group-title="Test",Test
+blob:http://www.freeintertv.com/3acf5571-08cb-4c96-b625-f1b0e64dfad6
