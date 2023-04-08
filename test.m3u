@@ -107,11 +107,7 @@ http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=ondrama
 #EXTINF:-1 tvg-id="Hayat"  tvg-logo="https://www.egypttoday.com/siteimages/Larg/10616.jpg" group-title="Test",Hayat Drama
 http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=hayat-serie 
 
-#EXTINF:-1 tvg-id="Test"  tvg-logo="test" group-title="Test",Test
-https://www.youtube.com/channel/ZbqyTyS1o0M/live
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://foofootv.com/tv/x/?id=mtv
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=mtv&token=6095ce67b72077a377a0873cea7c1377 
+ #EXTVLCOPT:http-referrer=http://foofootv.com/tv/x/?id=mtv
 
