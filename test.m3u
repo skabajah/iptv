@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Arabic TV (Selected)
+
+#EXTM3U x-tvg-url="http://m3u4u.com/epg/5z3ende7d4hrvp46yqpk"
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=en&channel_id=51372,https://epg.pw/api/epg.xml?lang=en&channel_id=51661"
 
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="General",PSC (1080p)
