@@ -22,7 +22,8 @@ http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="OneTVLebanon.lb" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="General",One TV Lebanon (1080p)
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Aljadeed.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="General",Al-Jadeed
+https://epg.pw/stream/ee151bbbfd76331bf1d74f4b5141ce05c265db80ad0950bc7d887e27bd853aed.ctv
 
 #EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC (720p)  
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
@@ -95,5 +96,3 @@ https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
  
-#EXTINF:-1 tvg-id="AlQaheraWalNas.eg" tvg-logo="https://arabic-media.com/img/stn/src/alkaherawalnas.jpg" group-title="General",AlQahera Wal Nas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681000445/ei/nbMxZNiKIIzi8wTy4YmQDQ/ip/69.140.212.229/id/ZbqyTyS1o0M.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMJriRdl45Kw46nQMdixuNK07lIBjAv6BM3F7OpBPIuqAiBA7syR5YfSeFxWJlwlqJSPNzvCWhADGmuSZ2m_qFtdRg%3D%3D/file/index.m3u8
