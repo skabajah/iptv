@@ -6,9 +6,9 @@
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-logo="https://i.imgur.com/ztIqhIe.png" group-title="General",MusawaChannel (1080p) 
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 tvg-id="Roya" tvg-logo="https://pbs.twimg.com/profile_images/1566836452356497412/4gSioHLL_400x400.jpg" group-title="General",Roya
+#EXTINF:-1 tvg-id="Roya" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya
 https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d&ce=3
-#EXTINF:-1 tvg-id="Jordan" tvg-logo="https://pbs.twimg.com/profile_images/1543487307575169026/bt0Yihlj_400x400.jpg" group-title="General",Jordan
+#EXTINF:-1 tvg-id="Jordan" tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="General",Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="AmmanTV.jo" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="General",Amman TV (720p)
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
