@@ -41,6 +41,8 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Jadeed" tvg-logo="https://www.aljadeed.tv/images/logo.svg" group-title="General" ,Al-Jadeed
 https://epg.pw/stream/ee151bbbfd76331bf1d74f4b5141ce05c265db80ad0950bc7d887e27bd853aed.ctv
+http://192.168.86.243:8000/m3u8?channel_name=Aljadeed
+
 
 #EXTINF:-1 tvg-name="Dubai TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115551_dark_360w_270h.png" group-title="General" ,Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
