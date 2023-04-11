@@ -27,6 +27,9 @@ http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=elabalad&token=aedb49d525
 http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=DMC&token=aedb49d525bb81e14edc78bca2ea5772
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlQahera Wal Nas" tvg-logo="https://arabic-media.com/img/stn/src/alkaherawalnas.jpg" group-title="General" tvg-shift="-4",AlQahera Wal Nas
 http://192.168.86.243:8000/m3u8?channel_name=AlQaheraWalNas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/384px-ON_logo.png" group-title="General" tvg-shift="-4",ON Tv
+http://192.168.86.243:8000/m3u8?channel_name=ON
+
 
 #EXTINF:-1 tvg-id="LBCInternational.us" tvg-name="LBCI" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png" group-title="General" tvg-shift="-4",LBCI
 http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1897.m3u8
