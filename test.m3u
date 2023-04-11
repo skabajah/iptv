@@ -26,8 +26,10 @@ https://epg.pw/stream/ee151bbbfd76331bf1d74f4b5141ce05c265db80ad0950bc7d887e27bd
 
 #EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC 
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
-#EXTINF:-1 tvg-id="Al-Nahar" tvg-logo="https://pbs.twimg.com/profile_images/1435576535403085826/g0Mnrz3V_400x400.jpg" group-title="General",Al-Nahar
+#EXTINF:-1 tvg-id="Al-Nahar" tvg-logo="https://i.imgur.com/DHYq4kS.jpeg" group-title="General",Al-Nahar
 http://62.182.82.104/Al_Nahar_Tv/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Al-Nahar_Drama" tvg-logo="https://i.imgur.com/r0hXezQ.jpeg" group-title="General",Al-Nahar Drama
+http://62.182.82.104/Al_Nahar_Drama/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="MBC1.us" tvg-logo="https://i.imgur.com/aiqEXrk.png" group-title="General",MBC 1 
