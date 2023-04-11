@@ -30,7 +30,10 @@ https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 http://62.182.82.104/Al_Nahar_Tv/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="Al-Nahar_Drama" tvg-logo="https://i.imgur.com/r0hXezQ.jpeg" group-title="General",Al-Nahar Drama
 http://62.182.82.104/Al_Nahar_Drama/tracks-v1a1/mono.m3u8?token=test
-
+#EXTINF:-1 tvg-id="Sada.eg"  tvg-logo="https://i.imgur.com/1kFRl87.jpeg" group-title="General",Sada Albald
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=elabalad&token=aedb49d525bb81e14edc78bca2ea5772
+#EXTINF:-1 tvg-id="DMC.eg"  tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="General",DMC
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=DMC&token=aedb49d525bb81e14edc78bca2ea5772
 
 #EXTINF:-1 tvg-id="MBC1.us" tvg-logo="https://i.imgur.com/aiqEXrk.png" group-title="General",MBC 1 
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
@@ -38,12 +41,8 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png" group-title="General",MBC 5 
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-
-
 #EXTINF:-1 tvg-id="MBCMASR.us" tvg-name="MBC Masr" tvg-logo="https://i.imgur.com/lMNtYqf.png" group-title="General" tvg-shift="-4",MBC Masr
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
-
-
 #EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/Qh8455q.png" group-title="General",MBC Masr 2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="https://i.imgur.com/5CtT0ck.png" group-title="General",MBC Iraq 
@@ -59,6 +58,7 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="General",SBC 
 https://edge.taghtia.com/sa/1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="General",Rotana+ 
