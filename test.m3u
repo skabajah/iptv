@@ -104,4 +104,4 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
  
 #EXTINF:-1 tvg-id="AlQaheraWalNas.eg" tvg-logo="https://arabic-media.com/img/stn/src/alkaherawalnas.jpg" group-title="General",AlQahera Wal Nas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681072230/ei/BcwyZPqoO5XZhgag4K3IDg/ip/69.140.212.229/id/ZbqyTyS1o0M.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMItuxQUOYksMyVVK9hGwunp6emant5ONTY7z40pj5LgAiEA7tjJIQMiODErjGaYin0PGZ2Xd50GDDe500seWcmFAAY%3D/file/index.m3u8
+http://192.168.86.243:8000/m3u8?channel_name=AlQaheraWalNas
