@@ -16,14 +16,12 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 # eg 
 #EXTINF:-1 tvg-name="CBC" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General" ,CBC
-# https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 http://192.168.86.243:8000/m3u8?channel_name=cbc
 
 #EXTINF:-1 tvg-name="CBC Drama" tvg-logo="https://i.imgur.com/nOtLL7M.jpg" group-title="General" ,CBC Drama
 http://62.182.82.104/CBC_Drama/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-name="AlNahar" tvg-logo="https://i.imgur.com/DHYq4kS.jpeg" group-title="General" ,AlNahar
-# http://62.182.82.104/Al_Nahar_Tv/tracks-v1a1/mono.m3u8?token=test
 http://192.168.86.243:8000/m3u8?channel_name=nahar
 
 #EXTINF:-1 tvg-name="Al-Nahar Drama" tvg-logo="https://i.imgur.com/r0hXezQ.jpeg" group-title="General" ,Al-Nahar Drama
