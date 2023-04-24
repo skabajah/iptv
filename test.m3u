@@ -16,13 +16,13 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 # eg 
 #EXTINF:-1 tvg-name="CBC" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General" ,CBC
-http://192.168.86.243:8000/m3u8?channel_name=cbc
+https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 
 #EXTINF:-1 tvg-name="CBC Drama" tvg-logo="https://i.imgur.com/nOtLL7M.jpg" group-title="General" ,CBC Drama
 http://62.182.82.104/CBC_Drama/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-name="AlNahar" tvg-logo="https://i.imgur.com/DHYq4kS.jpeg" group-title="General" ,AlNahar
-http://192.168.86.243:8000/m3u8?channel_name=nahar
+http://62.182.82.104/Al_Nahar_Tv/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-name="Al-Nahar Drama" tvg-logo="https://i.imgur.com/r0hXezQ.jpeg" group-title="General" ,Al-Nahar Drama
 http://62.182.82.104/Al_Nahar_Drama/tracks-v1a1/mono.m3u8?token=test
@@ -30,13 +30,7 @@ http://62.182.82.104/Al_Nahar_Drama/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-name="AlQahera Wal Nas" tvg-logo="https://arabic-media.com/img/stn/src/alkaherawalnas.jpg" group-title="General" ,AlQahera Wal Nas
 http://192.168.86.243:8000/m3u8?channel_name=AlQaheraWalNas
 
-# token change daily 
-#EXTINF:-1 tvg-name="Sada Al-Bald" tvg-logo="https://i.imgur.com/1kFRl87.jpeg" group-title="General" ,Sada Al-Bald
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=elabalad&token=65e64fa89bb5bbbc5ed448cf9830f9fd
-#EXTINF:-1 tvg-name="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="General" ,DMC
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=DMC&token=65e64fa89bb5bbbc5ed448cf9830f9fd
-#EXTINF:-1 tvg-name="ON Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/384px-ON_logo.png" group-title="General" ,ON Tv
-http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=onlive&token=65e64fa89bb5bbbc5ed448cf9830f9fd
+
 
 # lb 
 #EXTINF:-1 tvg-name="LBCI" tvg-logo="https://www.lbcgroup.tv/images/logo-default.png" group-title="General" ,LBCI
@@ -110,3 +104,11 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_ar
 #EXTINF:-1 tvg-name="DW Arabic" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="General" ,DW Arabic
 https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
  
+ 
+# TEST token change daily 
+#EXTINF:-1 tvg-name="Sada Al-Bald" tvg-logo="https://i.imgur.com/1kFRl87.jpeg" group-title="General" ,Sada Al-Bald
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=elabalad&token=65e64fa89bb5bbbc5ed448cf9830f9fd
+#EXTINF:-1 tvg-name="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="General" ,DMC
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=DMC&token=65e64fa89bb5bbbc5ed448cf9830f9fd
+#EXTINF:-1 tvg-name="ON Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/384px-ON_logo.png" group-title="General" ,ON Tv
+http://foofootv.com/tv/live/foo/foofa/playlist.m3u8?ch=onlive&token=65e64fa89bb5bbbc5ed448cf9830f9fd
