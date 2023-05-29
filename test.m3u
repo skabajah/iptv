@@ -31,7 +31,7 @@ http://62.182.82.104/Al_Nahar_Drama/tracks-v1a1/mono.m3u8?token=test
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 
 # lb
-#EXTINF:-1 tvg-name="OTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/320px-OTV_%28logo%29.svg.png" group-title="General" ,OTV
+#EXTINF:-1 tvg-name="OTV" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="General" ,OTV
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-name="MTV Lebanon" tvg-logo="https://pbs.twimg.com/profile_images/1217009489158733830/ACg50HnC_400x400.jpg" group-title="General" ,MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
@@ -61,7 +61,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 #EXTINF:-1 tvg-name="MBC Masr 2" tvg-logo="https://i.imgur.com/Qh8455q.png" group-title="General" ,MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:1 tvg-name="MBC Plus" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="General", MBC Plus
+#EXTINF:1 tvg-name="MBC Drama Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/240px-MBC_Drama_Plus_TV_Channel_Logo.png" group-title="General", MBC Drama Plus
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 # rotana
@@ -105,25 +105,25 @@ https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 # us
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/320px-Aljazeera_eng.svg.png" group-title="General" ,Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-name="CNN.us" tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-original-hd-png-transparent-22.png" group-title="General" ,CNN USA 
+#EXTINF:-1 tvg-name="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="General" ,CNN USA 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CBSNews.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/cbs-news/cbs-news-icon-filled-256.webp?v=1685175421627" group-title="General", CBSN
+#EXTINF:-1 tvg-name="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/800px-CBS_News.svg.png" group-title="General", CBSN
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/178e3cad-980b-40bc-b94f-587dcba66c8f:CHS/variant/f3c61e3c5d923b324006bfcbb7466a9f/bandwidth/2545312.m3u8
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://logospng.org/download/bloomberg/logo-bloomberg-256.png" group-title="General", Bloomberg TV
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="General", Bloomberg TV
 https://dai.google.com/linear/hls/pa/event/PwTJe4aZRvSBjbWY7_VSzA/stream/03df80f7-f11e-4949-88a1-2a8c7db0278f:CHS/variant/ba9542af47a8524e66aeafceb2575c3d/bandwidth/1200000.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV Plus" tvg-logo="https://logospng.org/download/bloomberg/logo-bloomberg-256.png" group-title="General", Bloomberg TV Plus
+#EXTINF:-1 tvg-name="Bloomberg TV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="General", Bloomberg TV Plus
 https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/37ecdd0a-a5a9-4c1b-883d-67380bb427f8:CHS/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8
-#EXTINF:-1 tvg-name="Y Finance" tvg-logo="https://i0.wp.com/www.csat.ai/wp-content/uploads/2021/05/Yahoo-Fin-logo.png?w=1060&ssl=1" group-title="General", Yahoo Finance
+#EXTINF:-1 tvg-name="Y Finance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yahoo%21_Finance_logo_2021.png/320px-Yahoo%21_Finance_logo_2021.png" group-title="General", Yahoo Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="AmericasTestKitchen.us" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1493878987/uzdoms44haqzwwfnau58.png" group-title="General", America's Test Kitchen
+#EXTINF:-1 tvg-name="AmericasTestKitchen.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/America%27s_Test_Kitchen_Logo_New.svg/512px-America%27s_Test_Kitchen_Logo_New.svg.png" group-title="General", America's Test Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 # local
-#EXTINF:-1 tvg-name="CBS WUSA.us" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/44/ab/dd44ab45-391f-0d0a-cd31-5c7643fc09c1/AppIcon-1x_U007emarketing-0-4-85-220.png/256x256bb.jpg" group-title="General",CBS (WUSA)
+#EXTINF:-1 tvg-name="CBS WUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" group-title="General",CBS (WUSA)
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 #EXTINF:-1 tvg-name="NBC WRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="General",NBC 4  (WTTG)
 https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
-#EXTINF:-1 tvg-name="FOX WTTG.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/WTTG1.svg/revision/latest/scale-to-width-down/200?cb=20210723113215" group-title="General", FOX 5  (WTTG)
+#EXTINF:-1 tvg-name="FOX WTTG.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fts-washington-dc-a.svg/320px-Fts-washington-dc-a.svg.png" group-title="General", FOX 5  (WTTG)
 https://cf-edge.video.fox/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/csm/live/524161544.m3u8;jsessionid=44FCC0C79BDE162FC3866CC463EECC9F.csm-e-cefoxause1live416-0e2ade1e36efb91de.tls1.yospace.com?CMCD=sid=581fab0f-afdc-474e-82c1-303d87d3155f&ad_env=1&_fw_ae=nomvpd&_fw_did=5f1212fd-704e-487e-aab0-5329b7739dda&_fw_is_lat=0&_fw_nielsen_app_id=P027ABBD2-2A8C-4738-943F-2F9D7937EA62&_fw_us_privacy=1---&_fw_vcid2=516429%3A5f1212fd-704e-487e-aab0-5329b7739dda&ad=fw_prod&ad.csid=foxnow%2Fwebdesktop%2Flive%2Ffox&ad.flags=+slcb+sltp+qtcb+emcr+fbad+dtrd+vicb&ad.prof=516429%3Ayospace_foxnow_webdesktop_live&cdn=cf&exp=1685331995&fnl-affiliate=WTTG&fs-affiliate=WTTG&traceid=watch-1f7120b5003a545b&yo.ac=true&yo.lpa=dur&yo.pdt=sync&yo.ug=20001&yo.aas=true&yo.pk=true&ss.exp=20230529094536&ss.sig=3d2e79766e4eece3dd6a3fb02623067242493691&yo.up=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&yo.ap=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&externalId=wttg
 #EXTINF:-1 tvg-name="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="General", ABC News New York NY (WABC-TV) 
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
