@@ -98,28 +98,32 @@ https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-name="France 24 Arabic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87346_dark_360w_270h.png" group-title="General" ,France 24 Arabic
 https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-name="BBC Arabic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64329_dark_360w_270h.png" group-title="General" ,BBC Arabic
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="DW Arabic" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="General" ,DW Arabic
 https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 
-# news en
+# us
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/320px-Aljazeera_eng.svg.png" group-title="General" ,Al Jazeera English
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-name="CNN.us" tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-original-hd-png-transparent-22.png" group-title="General" ,CNN USA 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CBSNews.us", CBSN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
-#EXTINF:-1 tvg-name="Bloomberg", Bloomberg TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=54ff7ba69222cb1c2624c584&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=224&terminate=false&userId=
-#EXTINF:-1 tvg-name="AmericasTestKitchen.us", America's Test Kitchen
+#EXTINF:-1 tvg-name="CBSNews.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/cbs-news/cbs-news-icon-filled-256.webp?v=1685175421627" group-title="General", CBSN
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/178e3cad-980b-40bc-b94f-587dcba66c8f:CHS/variant/f3c61e3c5d923b324006bfcbb7466a9f/bandwidth/2545312.m3u8
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://logospng.org/download/bloomberg/logo-bloomberg-256.png" group-title="General", Bloomberg TV
+https://dai.google.com/linear/hls/pa/event/PwTJe4aZRvSBjbWY7_VSzA/stream/03df80f7-f11e-4949-88a1-2a8c7db0278f:CHS/variant/ba9542af47a8524e66aeafceb2575c3d/bandwidth/1200000.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV Plus" tvg-logo="https://logospng.org/download/bloomberg/logo-bloomberg-256.png" group-title="General", Bloomberg TV Plus
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/37ecdd0a-a5a9-4c1b-883d-67380bb427f8:CHS/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8
+#EXTINF:-1 tvg-name="Y Finance" tvg-logo="https://i0.wp.com/www.csat.ai/wp-content/uploads/2021/05/Yahoo-Fin-logo.png?w=1060&ssl=1" group-title="General", Yahoo Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="AmericasTestKitchen.us" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1493878987/uzdoms44haqzwwfnau58.png" group-title="General", America's Test Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="CBS WUSA.us",CBS 9 Washington DC (WUSA)
-https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 
 # local
-#EXTINF:-1 tvg-name="NBC WRC.us",NBC 4 Washington DC (WTTG)
-https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/bcb65c0b-79dc-435a-bf48-a1117484a32b/3.m3u8
-#EXTINF:-1 tvg-name="FOX WTTG.us",FOX 5 Washington DC (WTTG)
-https://dcs-live-ue1.mp.lura.live/server/play/50ZElMBFVlmQuo7G/rendition.m3u8?track=video-3&anvsid=m177618713-n3f3055fb61826e6cf1550d51739c0f22&ts=1685325881&anvtrid=5e7ee9a0f517ed4c4e8f80b2a21a1c95
-#EXTINF:-1 tvg-name="ABC WJLA.us", ABC 7 Washington DC (WJLA)
-https://content-ausc1.uplynk.com/3cb116b1979d438482e08b2ed6c091d1/g.m3u8?tc=1&exp=1685412410&rn=234073&ct=a&cid=3cb116b1979d438482e08b2ed6c091d1&sig=4c13f1e4bc79543732d6d95690ab6158f26d59bcb376ce66d7ac68bcd788aaf9&pbs=d0a43510ba10490782aa5ee7a80c62ee
+#EXTINF:-1 tvg-name="CBS WUSA.us" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/44/ab/dd44ab45-391f-0d0a-cd31-5c7643fc09c1/AppIcon-1x_U007emarketing-0-4-85-220.png/256x256bb.jpg" group-title="General",CBS (WUSA)
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
+#EXTINF:-1 tvg-name="NBC WRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="General",NBC 4  (WTTG)
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
+#EXTINF:-1 tvg-name="FOX WTTG.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/WTTG1.svg/revision/latest/scale-to-width-down/200?cb=20210723113215" group-title="General", FOX 5  (WTTG)
+https://cf-edge.video.fox/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/csm/live/524161544.m3u8;jsessionid=44FCC0C79BDE162FC3866CC463EECC9F.csm-e-cefoxause1live416-0e2ade1e36efb91de.tls1.yospace.com?CMCD=sid=581fab0f-afdc-474e-82c1-303d87d3155f&ad_env=1&_fw_ae=nomvpd&_fw_did=5f1212fd-704e-487e-aab0-5329b7739dda&_fw_is_lat=0&_fw_nielsen_app_id=P027ABBD2-2A8C-4738-943F-2F9D7937EA62&_fw_us_privacy=1---&_fw_vcid2=516429%3A5f1212fd-704e-487e-aab0-5329b7739dda&ad=fw_prod&ad.csid=foxnow%2Fwebdesktop%2Flive%2Ffox&ad.flags=+slcb+sltp+qtcb+emcr+fbad+dtrd+vicb&ad.prof=516429%3Ayospace_foxnow_webdesktop_live&cdn=cf&exp=1685331995&fnl-affiliate=WTTG&fs-affiliate=WTTG&traceid=watch-1f7120b5003a545b&yo.ac=true&yo.lpa=dur&yo.pdt=sync&yo.ug=20001&yo.aas=true&yo.pk=true&ss.exp=20230529094536&ss.sig=3d2e79766e4eece3dd6a3fb02623067242493691&yo.up=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&yo.ap=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&externalId=wttg
+#EXTINF:-1 tvg-name="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="General", ABC News New York NY (WABC-TV) 
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
