@@ -79,9 +79,9 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/bb20f06deb32b5161cd66405a37c08a2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="# rotana", Rotana Comedy
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="# rotana", Rotana Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="# rotana", Rotana Cinema EG
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/4e7420225751cb2d25d185bd3f12723a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/1289_1.png" group-title="# rotana", Rotana Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/1289_1.png" group-title="# rotana", Rotana Cinema SA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" group-title="# rotana", Rotana Music
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/09a2d4d3e01adfb90635502287f05809.m3u8
@@ -116,7 +116,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.csat.ai/wp-content/uploads/2021/05/Yahoo-Fin-logo.png" group-title="# en news", Yahoo Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2017/01/bloomberg-television.jpg" group-title="# en news", Bloomberg
-https://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8 
+https://dai.google.com/linear/hls/pa/event/PwTJe4aZRvSBjbWY7_VSzA/stream/c6cf5f1e-34cd-44d0-802a-a8eea09cbfb9:TUL/master.m3u8
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="# en news", BloombergTV+
 https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="# en news", CBSN
@@ -141,20 +141,3 @@ https://cf-edge.video.fox/7743b1eacc62b922e8acd73211d81232be7727a1.2023052909453
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# us local", NBC 11
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/RuPaul%27s_Drag_Race_Logo.svg/799px-RuPaul%27s_Drag_Race_Logo.svg.png" group-title="# RuPaul", RuPaul
-https://evowebnlc.projechtowsh.monster/aes/63AeaqMWc6lmbtqEfiBO5A/1686207904/storage6/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E1-1632004932/89143325c864b65f1f32f098d51a7471.mp4/index.m3u8
-https://evowebnla.projechtowsh.monster/aes/mFo-QyuSczOaDPSAJaCSgw/1686205459/storage5/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E2-1631953669/b5d6fd092c83ade4ccb7725f296d575e.mp4/index.m3u8
-https://evowebnlb.projechtowsh.monster/aes/qCf0Ld1c67g0zqZlDEiASQ/1686207804/storage6/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E3-1630994978/96f6ec49dd388126653a44f4651ed9e9.mp4/index.m3u8
-https://evowebnla.projechtowsh.monster/aes/BIiAmrSoniqnf6n2RelmNg/1686207927/storage2/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E4-1630956192/22e75564602bc92fd616d25a2892420a.mp4/index.m3u8
-https://evowebnla.projechtowsh.monster/aes/k5pckJZU67oFwpVbAGhS3Q/1686208002/storage5/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E5-1630926911/e7955f6fe44af27cc97df91d34833a9e.mp4/index.m3u8
-https://evowebnlc.projechtowsh.monster/aes/rvuc5zv1PvJht2BfKxlKiA/1686208013/storage6/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E6-1630894062/b37e4c3f3b870cf18c1c66bbc24b2915.mp4/index.m3u8
-https://evowebnla.projechtowsh.monster/aes/bRbrntSkaYJ1Y3vuow-N4g/1686208023/storage1/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E7-1630861283/a18e134dae467d5e53607ac2c644f550.mp4/index.m3u8
-https://evowebnla.projechtowsh.monster/aes/iFKiKsmUSuFTTwG-9Xt5zw/1686208034/storage2/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E8-1630693220/457bca3485c57e555d20af59b472c936.mp4/index.m3u8
-
-
-
-
-
-
