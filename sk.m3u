@@ -141,3 +141,16 @@ https://cf-edge.video.fox/7743b1eacc62b922e8acd73211d81232be7727a1.2023052909453
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# us local", NBC 11
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
+
+#EXTINF:-1 , ogg
+https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/viper.ogg 
+#EXTINF:-1 , mp3
+https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/viper.mp3 
+#EXTINF:-1 , webm
+https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/rabbit320.webm
+#EXTINF:-1 , mp4
+https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/rabbit320.mp4
+
+
+#EXTINF:700 , mp4-700
+https://mdn.github.io/learning-area/html/multimedia-and-embedding/video-and-audio-content/rabbit320.mp4
