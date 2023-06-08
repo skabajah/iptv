@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="# jo", PSC
@@ -12,7 +13,7 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/J/Jordan_TV-logo-381E4F559C-seeklogo.com.png" group-title="# jo", Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="# jo", AlMamlaka
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="# jo", Al Mamlaka
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="# jo", Amman
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
@@ -34,11 +35,11 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png" group-title="# lb", OTV
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="# lb", MTVLebanon
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="# lb", MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="# music", OneTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="# music", MTV One
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="# music", NogoumFM
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
@@ -62,7 +63,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc-maser.png" group-title="# mbc", MBC Masr
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_23.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh8455q.png" group-title="# mbc", MBC Masr2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh8455q.png" group-title="# mbc", MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc-drama-plus.png" group-title="# mbc", MBC Drama+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
@@ -78,27 +79,27 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/bb20f06deb32b5161cd66405a37c08a2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="# rotana", Rotana Comedy
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="# rotana", Rotana Cinema EG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="# rotana", Rotana Cinema
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/4e7420225751cb2d25d185bd3f12723a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/1289_1.png" group-title="# rotana", Rotana Cinema SA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/1289_1.png" group-title="# rotana", Rotana Cinema
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" group-title="# rotana", Rotana Music
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/09a2d4d3e01adfb90635502287f05809.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/al-jazeera.png" group-title="# ar news", Al Jazeera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/al-jazeera.png" group-title="# ar news", Jazeera
 https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="# ar news", Al Jazeera Mubasher
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="# ar news", Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ARABIYA.png" group-title="# ar news", Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="# ar news", AlSharq Bloomberg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="# ar news", Sharq Bloomberg
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="# ar news", SkyNews
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="# ar news", CNBC
 https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/FRA.png" group-title="# ar news", France24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/FRA.png" group-title="# ar news", France 24
 https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/BBCARAB.png" group-title="# ar news", BBC
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
@@ -106,29 +107,29 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2021/11/al-jazeera-logo-vector.png" group-title="# en news", Al Jazeera En
+#EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2021/11/al-jazeera-logo-vector.png" group-title="# en news", Jazeera En
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="# en news", CBSN
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2017/01/bloomberg-television.jpg" group-title="# en news", BloombergTV
-https://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8 
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="# en news", BloombergTV+
-https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="# en news", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2021/03/Untitled-design-74.png" group-title="# en news", NBC Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.csat.ai/wp-content/uploads/2021/05/Yahoo-Fin-logo.png" group-title="# en news", Yahoo Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2017/01/bloomberg-television.jpg" group-title="# en news", Bloomberg
+https://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8 
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="# en news", BloombergTV+
+https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="# en news", CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.wendel.com/wp-content/uploads/2020/07/atk-logo.jpg" group-title="# logo", Test Kitchen
+#EXTINF:-1 tvg-logo="https://www.wendel.com/wp-content/uploads/2020/07/atk-logo.jpg" group-title="# pluto", Test Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1598733259357261842/hQS9ZTHp_400x400.jpg" group-title="# logo", Logo
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1598733259357261842/hQS9ZTHp_400x400.jpg" group-title="# pluto", Logo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/f/fc/TV_Land1.jpg" group-title="# logo", TVLand Sitcoms
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/f/fc/TV_Land1.jpg" group-title="# pluto", TV Land Sitcoms
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="# logo", Comedy Central
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="# pluto", Comedy Central
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 
 
@@ -140,6 +141,20 @@ https://cf-edge.video.fox/7743b1eacc62b922e8acd73211d81232be7727a1.2023052909453
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# us local", NBC 11
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
- 
-#EXTINF:-1 , RuPaul
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/RuPaul%27s_Drag_Race_Logo.svg/799px-RuPaul%27s_Drag_Race_Logo.svg.png" group-title="# RuPaul", RuPaul
+https://evowebnlc.projechtowsh.monster/aes/63AeaqMWc6lmbtqEfiBO5A/1686207904/storage6/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E1-1632004932/89143325c864b65f1f32f098d51a7471.mp4/index.m3u8
 https://evowebnla.projechtowsh.monster/aes/mFo-QyuSczOaDPSAJaCSgw/1686205459/storage5/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E2-1631953669/b5d6fd092c83ade4ccb7725f296d575e.mp4/index.m3u8
+https://evowebnlb.projechtowsh.monster/aes/qCf0Ld1c67g0zqZlDEiASQ/1686207804/storage6/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E3-1630994978/96f6ec49dd388126653a44f4651ed9e9.mp4/index.m3u8
+https://evowebnla.projechtowsh.monster/aes/BIiAmrSoniqnf6n2RelmNg/1686207927/storage2/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E4-1630956192/22e75564602bc92fd616d25a2892420a.mp4/index.m3u8
+https://evowebnla.projechtowsh.monster/aes/k5pckJZU67oFwpVbAGhS3Q/1686208002/storage5/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E5-1630926911/e7955f6fe44af27cc97df91d34833a9e.mp4/index.m3u8
+https://evowebnlc.projechtowsh.monster/aes/rvuc5zv1PvJht2BfKxlKiA/1686208013/storage6/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E6-1630894062/b37e4c3f3b870cf18c1c66bbc24b2915.mp4/index.m3u8
+https://evowebnla.projechtowsh.monster/aes/bRbrntSkaYJ1Y3vuow-N4g/1686208023/storage1/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E7-1630861283/a18e134dae467d5e53607ac2c644f550.mp4/index.m3u8
+https://evowebnla.projechtowsh.monster/aes/iFKiKsmUSuFTTwG-9Xt5zw/1686208034/storage2/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E8-1630693220/457bca3485c57e555d20af59b472c936.mp4/index.m3u8
+
+
+
+
+
+
