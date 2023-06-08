@@ -20,17 +20,17 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="# eg", CBC
 http://62.182.82.104/CBC/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOtLL7M.jpg" group-title="# eg", CBCDrama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOtLL7M.jpg" group-title="# eg", CBC Drama
 http://62.182.82.104/CBC_Drama/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DHYq4kS.jpeg" group-title="# eg", AlNahar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHYq4kS.jpeg" group-title="# eg", Nahar
 http://62.182.82.104/Al_Nahar_Tv/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0hXezQ.jpeg" group-title="# eg", AlNaharDrama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0hXezQ.jpeg" group-title="# eg", Nahar Drama
 http://62.182.82.104/Al_Nahar_Drama/tracks-v1a1/mono.m3u8?token=test
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="# lb", SyriaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="# lb", Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="# lb", LanaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="# lb", Lana
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png" group-title="# lb", OTV
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
@@ -46,9 +46,9 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/images/dubaitv.jpg" group-title="# ae", DubaiTV
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/images/dubaitv.jpg" group-title="# ae", Dubai
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Abu-Dhabi-TV-Logo.png" group-title="# ae", AbuDhabi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Abu-Dhabi-TV-Logo.png" group-title="# ae", Abu Dhabi
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 
 
@@ -90,7 +90,7 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/09a2d4d3e01adfb90635502287
 https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="# ar news", Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ARABIYA.png" group-title="# ar news", AlArabiya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ARABIYA.png" group-title="# ar news", Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="# ar news", AlSharq Bloomberg
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
@@ -141,3 +141,5 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# us local", NBC 11
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
  
+#EXTINF:-1 , RuPaul
+https://evowebnla.projechtowsh.monster/aes/mFo-QyuSczOaDPSAJaCSgw/1686205459/storage5/shows/14192040-rupauls-drag-race-down-under-2021/26288-S1-E2-1631953669/b5d6fd092c83ade4ccb7725f296d575e.mp4/index.m3u8
