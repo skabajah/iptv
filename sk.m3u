@@ -110,17 +110,17 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Euronews._2016_alternative_logo.png" group-title="# en news", EuroNews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="# en news", EuroNews
 https://ythls.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2021/11/al-jazeera-logo-vector.png" group-title="# en news", Jazeera En
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="# en news", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2021/03/Untitled-design-74.png" group-title="# en news", NBC Now
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/thumbnail.jpg" group-title="# en news", NBC Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.csat.ai/wp-content/uploads/2021/05/Yahoo-Fin-logo.png" group-title="# en news", Yahoo Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2017/01/bloomberg-television.jpg" group-title="# en news", Bloomberg
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg" group-title="# en news", Bloomberg
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="# en news", BloombergTV+
 https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
@@ -130,19 +130,25 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wendel.com/wp-content/uploads/2020/07/atk-logo.jpg" group-title="# pluto", Test Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1598733259357261842/hQS9ZTHp_400x400.jpg" group-title="# pluto", Logo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/thumbnail.jpg" group-title="# pluto", Logo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/f/fc/TV_Land1.jpg" group-title="# pluto", TV Land Sitcoms
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/thumbnail.jpg" group-title="# pluto", TV Land Sitcoms
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="# pluto", Comedy Central
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/thumbnail.jpg" group-title="# pluto", More Sitcom
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/thumbnail.jpg" group-title="# pluto", Comedy Central
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/thumbnail.jpg" group-title="# pluto", Paramount Picks
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/thumbnail.jpg" group-title="# pluto", Stand Up
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" group-title="# us local", CBS 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# us local", NBC 4
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951181&ads.asnw=169843&ads.afid=348208756&ads.sfid=17135549&ads.csid=xumo_desktopweb_NBCNWAS_ssai_cro&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_vcid2=512116:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB12-3&ads._fw_content_genre=Local%20News&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.8.12&ads.appName=xumo&ads.xumo_contentId=3830&ads.xumo_contentName=NBCNWAS&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fts-washington-dc-a.svg/320px-Fts-washington-dc-a.svg.png" group-title="# us local", FOX 5
 https://cf-edge.video.fox/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/csm/live/524161544.m3u8;jsessionid=44FCC0C79BDE162FC3866CC463EECC9F.csm-e-cefoxause1live416-0e2ade1e36efb91de.tls1.yospace.com?CMCD=sid=581fab0f-afdc-474e-82c1-303d87d3155f&ad_env=1&_fw_ae=nomvpd&_fw_did=5f1212fd-704e-487e-aab0-5329b7739dda&_fw_is_lat=0&_fw_nielsen_app_id=P027ABBD2-2A8C-4738-943F-2F9D7937EA62&_fw_us_privacy=1---&_fw_vcid2=516429%3A5f1212fd-704e-487e-aab0-5329b7739dda&ad=fw_prod&ad.csid=foxnow%2Fwebdesktop%2Flive%2Ffox&ad.flags=+slcb+sltp+qtcb+emcr+fbad+dtrd+vicb&ad.prof=516429%3Ayospace_foxnow_webdesktop_live&cdn=cf&exp=1685331995&fnl-affiliate=WTTG&fs-affiliate=WTTG&traceid=watch-1f7120b5003a545b&yo.ac=true&yo.lpa=dur&yo.pdt=sync&yo.ug=20001&yo.aas=true&yo.pk=true&ss.exp=20230529094536&ss.sig=3d2e79766e4eece3dd6a3fb02623067242493691&yo.up=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&yo.ap=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&externalId=wttg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="# us local", ABC 7
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# us local", NBC 11
-https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8 
