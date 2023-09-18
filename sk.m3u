@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.wendel.com/wp-content/uploads/2020/07/atk-logo.jpg" group-title="# en", Test Kitchen
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/551095924756213760/XVcoObBF_400x400.jpeg" group-title="# en", Test Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/thumbnail.jpg" group-title="# en", Logo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -17,16 +17,12 @@ https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640193013818388480/zQRJBHDe_400x400.png" group-title="# en", TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1628116695213834240/gru7hiBw_400x400.png" group-title="# en", TNT
+#EXTINF:-1 tvg-logo="https://www.tntdrama.com/themes/custom/ten_theme/images/tnt_logo_white.png" group-title="# en", TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" group-title="# en", CBS 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# en", NBC 4
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951181&ads.asnw=169843&ads.afid=348208756&ads.sfid=17135549&ads.csid=xumo_desktopweb_NBCNWAS_ssai_cro&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_vcid2=512116:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB12-3&ads._fw_content_genre=Local%20News&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.8.12&ads.appName=xumo&ads.xumo_contentId=3830&ads.xumo_contentName=NBCNWAS&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fts-washington-dc-a.svg/320px-Fts-washington-dc-a.svg.png" group-title="# en", FOX 5
-https://cf-edge.video.fox/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/csm/live/524161544.m3u8;jsessionid=44FCC0C79BDE162FC3866CC463EECC9F.csm-e-cefoxause1live416-0e2ade1e36efb91de.tls1.yospace.com?CMCD=sid=581fab0f-afdc-474e-82c1-303d87d3155f&ad_env=1&_fw_ae=nomvpd&_fw_did=5f1212fd-704e-487e-aab0-5329b7739dda&_fw_is_lat=0&_fw_nielsen_app_id=P027ABBD2-2A8C-4738-943F-2F9D7937EA62&_fw_us_privacy=1---&_fw_vcid2=516429%3A5f1212fd-704e-487e-aab0-5329b7739dda&ad=fw_prod&ad.csid=foxnow%2Fwebdesktop%2Flive%2Ffox&ad.flags=+slcb+sltp+qtcb+emcr+fbad+dtrd+vicb&ad.prof=516429%3Ayospace_foxnow_webdesktop_live&cdn=cf&exp=1685331995&fnl-affiliate=WTTG&fs-affiliate=WTTG&traceid=watch-1f7120b5003a545b&yo.ac=true&yo.lpa=dur&yo.pdt=sync&yo.ug=20001&yo.aas=true&yo.pk=true&ss.exp=20230529094536&ss.sig=3d2e79766e4eece3dd6a3fb02623067242493691&yo.up=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&yo.ap=/7743b1eacc62b922e8acd73211d81232be7727a1.20230529094536/fast/&externalId=wttg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="# en", ABC 7
-https://content-ausw1-up-1.uplynk.com/ccdb141fb2954898829710e723ae8600/g.m3u8?pbs=9e7e588dd36c4cf9ad08d4f17786f19a
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="# en", CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg" group-title="# en", Bloomberg
@@ -35,10 +31,6 @@ http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.csat.ai/wp-content/uploads/2021/05/Yahoo-Fin-logo.png" group-title="# en", Yahoo Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605211963096801282/3flU1i5o_400x400.jpg" group-title="# en", ABC News
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ABC-News.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/thumbnail.jpg" group-title="# en", NBC Now
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="# en", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="# en", EuroNews
@@ -59,7 +51,7 @@ https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="# ar", Roya
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/J/Jordan_TV-logo-381E4F559C-seeklogo.com.png" group-title="# ar", Jordan
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543487307575169026/bt0Yihlj_400x400.jpg" group-title="# ar", Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="# ar", Al Mamlaka
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
@@ -67,18 +59,14 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="# ar", Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="# ar", Lana
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/1341_1.png" group-title="# ar", LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png" group-title="# ar", OTV
-http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png" group-title="# ar", NBN
-https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="# ar", MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1 SA
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1 US
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snkewG1.png" group-title="# ar", MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc5.png" group-title="# ar", MBC 5
@@ -86,7 +74,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5CtT0ck.png" group-title="# ar", MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc-maser.png" group-title="# ar", MBC Masr
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_23.m3u8
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qh8455q.png" group-title="# ar", MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc-drama.png" group-title="# ar", MBC Drama
@@ -127,8 +115,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="# ar", SkyNews (ar)
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="# ar", CNBC (ar)
-https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWwKuX3LJ1VWKgcIYnbMzDC-QK1Nisrn-ruc2DyX_6XqG)/dm/3/x7zjeht/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/BBCARAB.png" group-title="# ar", BBC (ar)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="# ar", DW (ar)
