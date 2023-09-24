@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/551095924756213760/XVcoObBF_400x400.jpeg" group-title="# en", Test Kitchen
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/thumbnail.jpg" group-title="# en", Logo
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/thumbnail.jpg" group-title="# en", TV Land Sitcoms
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/thumbnail.jpg" group-title="# en", More Sitcom
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/thumbnail.jpg" group-title="# en", Comedy Central
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/thumbnail.jpg" group-title="# en", Stand Up
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/830129040979734528/o7_l1DxQ_400x400.jpg" group-title="# en", Comedy Dynamic
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1271084530816909313/3BxC9BoD_400x400.jpg" group-title="# en", IFC
@@ -24,7 +24,7 @@ https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# en", NBC 4
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951181&ads.asnw=169843&ads.afid=348208756&ads.sfid=17135549&ads.csid=xumo_desktopweb_NBCNWAS_ssai_cro&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_vcid2=512116:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB12-3&ads._fw_content_genre=Local%20News&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.8.12&ads.appName=xumo&ads.xumo_contentId=3830&ads.xumo_contentName=NBCNWAS&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cbs-news8651.jpg" group-title="# en", CBSN
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/fd386184-cb86-444e-9df7-375479eb2c05:CHS/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg" group-title="# en", Bloomberg
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png" group-title="# en", BloombergTV+
@@ -35,26 +35,22 @@ https://yahoo-vizio.amagi.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="# en", EuroNews
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Euronews.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1583214318719475713/rP1UOXbz_400x400.jpg" group-title="# en", CNBC Doc
-https://ythls.onrender.com/video/9NyxcX3rhQs.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1617534752109592576/3TOzkRyu_400x400.png" group-title="# en", BBC US
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2021/11/al-jazeera-logo-vector.png" group-title="# en", Jazeera (en)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1583214318719475713/rP1UOXbz_400x400.jpg" group-title="# en", CNBC Doc
+https://ythls.onrender.com/video/9NyxcX3rhQs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="# ar", PSC
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ztIqhIe.png" group-title="# ar", Musawa
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" group-title="# ar", Makan
-https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hala_tv_il.png" group-title="# ar", HalaTV
-https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="# ar", Roya
-https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543487307575169026/bt0Yihlj_400x400.jpg" group-title="# ar", Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="# ar", Al Mamlaka
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="# ar", Roya
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="# ar", Amman
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="# ar", Syria
@@ -64,7 +60,7 @@ https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="# ar", MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1 SA
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1 US
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snkewG1.png" group-title="# ar", MBC 4
@@ -104,18 +100,18 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="# ar", CBC
 https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/images/dubaitv.jpg" group-title="# ar", Dubai
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/images/dubaione.jpg" group-title="# ar", Dubai One
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Abu-Dhabi-TV-Logo.png" group-title="# ar", Abu Dhabi
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/al-jazeera.png" group-title="# ar", Al Jazeera
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ARABIYA.png" group-title="# ar", Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="# ar", Bloomberg (ar)
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="# ar", SkyNews (ar)
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/BBCARAB.png" group-title="# ar", BBC (ar)
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="# ar", DW (ar)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
