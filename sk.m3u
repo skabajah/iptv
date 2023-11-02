@@ -55,8 +55,8 @@ https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="# ar", Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/1341_1.png" group-title="# ar", LBC
-https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-150x150.png" group-title="# ar", LTV
+https://eitc3.secure2.footprint.net/hls/m3u8/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="# ar", MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1 SA
