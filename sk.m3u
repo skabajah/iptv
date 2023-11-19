@@ -23,6 +23,10 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="# ar", LBCI
 https://tv.ipslow.com/tv487_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=11598d05e76cb33c29e60cf350c83702ef9d94c4-aed2b33ba7042ce817c690c4e554c252-1700424759-1700413959
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/otv_lb.jpg" group-title="# ar", OTV
+https://tv.ipslow.com/tv487_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=fb05eefd117ea8386ee44c420837f60d35803ded-6538d70adb7094c5917f3af762d35487-1700425885-1700415085
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="# ar", alJadeed الجديد
+https://tv.ipslow.com/tv487_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=d3128ca9f87e54ee4381007c3cdee932d409739d-fac470a217c35050389210b0310816a5-1700426044-1700415244
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="# ar", SBC
 https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1
