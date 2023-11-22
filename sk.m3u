@@ -15,6 +15,8 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://l-television.com/LTV/wp-content/uploads/2021/07/LTV-final-logo-150x150.png" group-title="# ar", LTV لنا
 https://eitc3.secure2.footprint.net/hls/m3u8/720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="# ar", alJadeed الجديد
+https://vsd104.mycdn.me/hls/5542783617610.m3u8/sig/0xY12Q3I134/expires/1700761234904/srcIp/69.140.212.229/urls/45.136.22.39/clientType/0/srcAg/SAFARI_MAC/mid/6914443779658/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="# ar", MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="# ar", MTV One
