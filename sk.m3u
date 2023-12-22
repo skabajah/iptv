@@ -44,9 +44,9 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/al-jazeera.png" group-title="# ar", alJazeera الجزيرة
 https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ARABIYA.png" group-title="# ar", alArabiya العربية
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_720p_chunks.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="# ar", Bloomberg الشرق
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberg_720p_chunks_dvr.m3u8
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="# ar", SkyNews سكاي نيوز
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="# ar", DW دوتش
@@ -66,11 +66,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5637d31f3
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/thumbnail.jpg" group-title="# en", Comedy Central
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/830129040979734528/o7_l1DxQ_400x400.jpg" group-title="# en", Comedy Dynamic
-https://comedydynamics-wurl.cinedigm.com/playlist720P.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4ac7d5dd-5ac4-4621-80bd-97aa1d04df79/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" group-title="# en", CBS 9
-https://livevideo.tegnadigital.com/wusa/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/8a4e1340-6ec2-44d3-96c7-0e2c4b22f582/1.m3u8
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="# en", NBC 4
-https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/a92e76ad-8aae-4f07-a2df-c53f6dbb940a/1.m3u8
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951181&ads.asnw=169843&ads.afid=348208756&ads.sfid=17135549&ads.csid=xumo_desktopweb_NBCNWAS_ssai_cro&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=dpid:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_vcid2=512116:986b072f-cd90-fc4a-805d-f79d334fa822&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB12-3&ads._fw_content_genre=Local%20News&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.8.12&ads.appName=xumo&ads.xumo_contentId=3830&ads.xumo_contentName=NBCNWAS&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 #EXTINF:-1 tvg-logo="https://www.cbsstore.com/cdn/shop/products/CBSN-LOGO-100011-FR-RO_620x.png" group-title="# en", CBSN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg" group-title="# en", Bloomberg
