@@ -34,7 +34,7 @@ https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qh8455q.png" group-title="# ar", MBC مصر 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="# ar", SBC
-https://edge.taghtia.com/sa/1.m3u8
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="# ar", Nogoum نجوم
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8He6Lca.png" group-title="# ar", Arabica
