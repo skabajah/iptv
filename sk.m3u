@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="# ar", PSC فلسطين
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="# ar", PSC فلسطين
 https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" group-title="# ar", Makan مكان
 https://makan.media.kan.org.il/hls/live/2024680-b/2024680/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543487307575169026/bt0Yihlj_400x400.jpg" group-title="# ar", Jordan الاردن
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="# ar", Mamlaka المملكة
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Al-Mamlaka_TV_logo.png" group-title="# ar", Mamlaka المملكة
 https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="# ar", Roya رؤيا
 https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8
@@ -17,31 +17,31 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="# ar", MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/primary/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="# ar", MTV One
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png" group-title="# ar", MTV One
 https://live.3cd.io/v1/broadcast/one/primary/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="# ar", MBC 1 US
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snkewG1.png" group-title="# ar", MBC 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png" group-title="# ar", MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc5.png" group-title="# ar", MBC 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/296px-5_MBC.webp.png" group-title="# ar", MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5CtT0ck.png" group-title="# ar", MBC العراق 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/560px-MBC_Iraq.svg.png" group-title="# ar", MBC العراق 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc-maser.png" group-title="# ar", MBC مصر
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="# ar", MBC مصر
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh8455q.png" group-title="# ar", MBC مصر 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="# ar", MBC مصر 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="# ar", SBC
+#EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="# ar", SBC
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="# ar", Nogoum نجوم
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8He6Lca.png" group-title="# ar", Arabica
+#EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png" group-title="# ar", Arabica
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="# ar", Panorama بانوراما
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/al-jazeera.png" group-title="# ar", alJazeera الجزيرة
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="# ar", alJazeera الجزيرة
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="# ar", Bloomberg الشرق
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8
