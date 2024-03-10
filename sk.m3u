@@ -34,11 +34,11 @@ https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="# ar", MBC مصر 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="# ar", SBC
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="# ar", Dubai دبي
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dubaione-logo.png/480px-Dubaione-logo.png" group-title="# ar", Dubai One
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Abu-Dhabi-TV-Logo.png" group-title="# ar", Abu Dhabi
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://sba.net.ae/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png" group-title="# ar", Sharja الشارقة
@@ -48,7 +48,7 @@ https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="# ar", Al-Nahar النهار
 https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="# ar", Nogoum نجوم
-https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_1.m3u8
+https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png" group-title="# ar", Arabica
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aghani_aghani_lb_tv.png" group-title="# ar", Aghani
