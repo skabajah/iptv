@@ -43,7 +43,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618437134723215360/hk7cC3RS_400x400.jpg" group-title="# ar", Kahera القاهرة والناس
 https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%D8%B5%D8%AF%D9%89_%D8%A7%D9%84%D8%A8%D9%84%D8%AF.jpg/480px-%D8%B5%D8%AF%D9%89_%D8%A7%D9%84%D8%A8%D9%84%D8%AF.jpg" group-title="# ar", Sada صدى البلد
+#EXTINF:-1 tvg-logo="https://www.elbalad.news/themes/elbalad/assets/images/logo-d.png" group-title="# ar", Sada صدى البلد
 https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CsMF1ygkIDU-jrTjIqxZZ8w20xqjyW7rrEJG6wJlk9nun7A4KF2QZpeDBOHG6gd6nIgQYiXNyHat5GywwyAzbaGVNxSLOCfNCYiFrkAHBiVpF-wTVXuc1T_A8guZ5PqLatjxbMk9Bw0W6-xjCHpujSTiaVL04qULCl7rMAqYzTSRTB84vs8Uqfs7c437qCw9FskKI_rdVM7LaZ19vHZ5exT7GnARvKv_BfqPnonyJUdA8w8qplnZbWYUR_-1DtT2nt-ah-Y1vKcPqVLxaMBGf1j36WlDLc7a7FEd0zMQOJCt__7oC06kVeZ_aI0L7wyMICwbA_hCL53udA7uZDguCrlM2RSnZidiNSfZBsJplQ4HcVWHZayCyppGn-T03YqJwqXvqLWUdB_EHt2BQJO6bmvPc_zPeVuBDvVRdd-cakoDUpcN9ClDuO0YGYVYWPACTYUv-RED3Es7LKr6b4KHIoyFm6C8B0lQP72KBT_J47xPgLfwpw8EkG3k8peiNtNces4Rw2C-i-oqK8DusBFH6uJFGNljUzZn0xxq8u4wzB5KwV5WP6gk5Y6RQqkYFQKgtxvLMUIiK_iFRvlFGAWQPs4jXvQPXb5X5JFJKM5GPnZqZNWsJseUlWMDCRcmBVhb38JbL6fEKvdmLggnD1T2mJTtTbfYJVZPO416Vmw_CIVR_59WE5G3jlTH3xItVn-aYjeDfkK-6n2KqHc4Bc8jn5oL-wgVBSfmZk1MXoz_Xrnrh6zw6g-gXKDYPdzBsZdeki0jb-Szfiolm2-VTU6rYNQdhzFexu8Xmwqc2lhZm3rSI-zyi739GoX5dQzd3N437UKz6pzVuyGglr7qaQhseZZRPLX_0d5zRcVxiTauP15gKLu9vAYLcNlF2-EMWt4ZZ_RmgaSz_IWj-0gY_OZOIt9h4iC6qgmU_XXqcS9Rxe0bvRmBkKQaDCSl_D6wOybcZvCKoiABKgl1cy1lYXN0LTEwtAc.m3u8
 #EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="# ar", SBC سعودية
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
@@ -75,7 +75,7 @@ https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" group-title="# ar",  TRT عربي
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="# ar", RT عربي 
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="# ar", France24 فرانس
 https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
@@ -141,11 +141,11 @@ http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/104
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="# stream", Rotana سينما
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/106
-#EXTINF:-1 tvg-logo="https://imgur.com/IlT8U6S" group-title="# stream", Rotana كوميدي
+#EXTINF:-1 tvg-logo="https://imgur.com/IlT8U6S.png" group-title="# stream", Rotana كوميدي
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/109
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b1piasb.png" group-title="# stream", Rotana أفلام
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/3216
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%D8%B5%D8%AF%D9%89_%D8%A7%D9%84%D8%A8%D9%84%D8%AF.jpg/480px-%D8%B5%D8%AF%D9%89_%D8%A7%D9%84%D8%A8%D9%84%D8%AF.jpg" group-title="# stream", Sada صدى البلد
+#EXTINF:-1 tvg-logo="https://www.elbalad.news/themes/elbalad/assets/images/logo-d.png" group-title="# stream", Sada صدى البلد
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/495
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" group-title="# stream", CBC مصر
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/502
@@ -162,7 +162,7 @@ http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/506
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/on-sqr-2.png" group-title="# stream", ON E مصر
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/508
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/alhayah-sqr-2.png" group-title="# stream", Hayat الحياة
-http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/938
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/509
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="# stream", Lana لنا
 http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/2009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="# stream", LBC Rotana
