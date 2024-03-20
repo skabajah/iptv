@@ -33,36 +33,32 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="# ar", MBC مصر 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="# ar", SBC
-https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="# ar", Al-Nahar النهار
+https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc-drama.png" group-title="# ar", MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mbc-drama-plus.png" group-title="# ar", MBC Drama+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="# ar", Dubai دبي
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dubaione-logo.png/480px-Dubaione-logo.png" group-title="# ar", Dubai One
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Abu-Dhabi-TV-Logo.png" group-title="# ar", Abu Dhabi
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://sba.net.ae/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png" group-title="# ar", Sharja الشارقة
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cv2O0Cj.png" group-title="# ar", Extra Live
-https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="# ar", Al-Nahar النهار
-https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="# ar", SBC
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="# ar", Nogoum نجوم
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png" group-title="# ar", Arabica
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aghani_aghani_lb_tv.png" group-title="# ar", Aghani
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="# ar", Panorama بانوراما
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="# ar", alJazeera الجزيرة
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="# ar", الشرق Bloomberg
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Asharq_Discovery.svg" group-title="# ar", الشرق Discovery
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://www.abouther.com/sites/default/files/2023/09/01/al_shareq_logo.jpg" group-title="# ar", الشرق  Documentary
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" group-title="# ar",  TRT-News
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="# ar", SkyNews سكاي نيوز
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="# ar", DW دوتش
@@ -101,3 +97,61 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2021/11/al-jazeera-logo-vector.png" group-title="# en", Jazeera (en)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/FTF.png" group-title="# stream", FATAFEAT
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/25
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg" group-title="# stream",  MBC 2
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/846
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg" group-title="# stream",  MBC Action
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/853
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg" group-title="# stream",  MBC Max
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/854
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="# stream", OSN AFLAM
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/161
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="# stream", OSN MUSALSALAT
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/4027
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="# stream", OSN Boxoffice
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/973
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_1.jpg" group-title="# stream",  ART Aflam 1
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/997
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_2.jpg" group-title="# stream",  ART Aflam 2
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/102
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_cinema.jpg" group-title="# stream",  ART Cinema
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/103
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat.jpg" group-title="# stream",  ART Hekayat 1
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/104
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat2.jpg" group-title="# stream",  ART Hekayat 2
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/105
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg" group-title="# stream", Rotana Cinema
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/106
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_comedy.jpg" group-title="# stream",  Rotana Comedy
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/109
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg" group-title="# stream",  Rotana Aflam
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/3216
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_tv.jpg" group-title="# stream",  Sada Elbabad
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/495
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/cbc.jpg" group-title="# stream", CBC
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/502
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg" group-title="# stream", CBC Drama
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/500
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dmc_live.jpg" group-title="# stream", DMC
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/503
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alnaharlive.jpg" group-title="# stream", AlNahar
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/504
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alnaharlive.jpg" group-title="# stream",  ALNahar Drama
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/505
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/on_drama.jpg" group-title="# stream",  ON Drama
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/506
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ontveg.jpg" group-title="# stream",  ON E
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/508
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_tv.jpg" group-title="# stream", EL-HAYAT
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/938
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/lana_syria.jpg" group-title="# stream",  LANA TV
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/2009
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/lbc.jpg" group-title="# stream", LBC Rotana
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/3025
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="# stream", LBCI
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/3028
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg" group-title="# stream", AL JADEED
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/3038
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/otv_lb.jpg" group-title="# stream", OTV
+http://ugeen.live:8080/Ugeen_VIPkM7oZw/9p6RfA/3040
