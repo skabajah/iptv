@@ -111,7 +111,7 @@ https://yahoo-vizio.amagi.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="# en", EuroNews
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2021/11/al-jazeera-logo-vector.png" group-title="# en", Jazeera (en)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg" group-title="# en", Jazeera (en)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="# stream", LBCI لبنان
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1160
@@ -123,7 +123,7 @@ http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1165
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1239
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbalad2.png" group-title="# stream", Sada صدى 2
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1237
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbaladdrama.png" group-title="# stream", Sada صدى Drama
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1227_1.png" group-title="# stream", Sada صدى Drama
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1238
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" group-title="# stream", CBC مصر
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1220
@@ -131,9 +131,9 @@ http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1220
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1225
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/dmcdrama.png" group-title="# stream", Drama DMC مصر
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1224
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="# stream", AlNahar النهار
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png" group-title="# stream", AlNahar النهار
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1221
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="# stream", AlNahar النهار دراما
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/AL_NAHAR_DRAMA_NEW_LOGO.png" group-title="# stream", AlNahar النهار دراما
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1222
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/800px-EL_MEHWAR_TV.png" group-title="# stream", Mehwar المحور
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1228
@@ -141,21 +141,21 @@ http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1228
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1226
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/11/on-drama-sqr-3-2.png" group-title="# stream", ON دراما
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1234
-#EXTINF:-1 tvg-logo="https://www.artonline.tv/images/tvthrillers/hikayat1a.jpg" group-title="# stream", ART حكايات 1
-http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1336
-#EXTINF:-1 tvg-logo="https://www.artonline.tv/images/tvthrillers/hikayat2a.jpg" group-title="# stream", ART حكايات 2
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1122_1.png" group-title="# stream", ART حكايات 1
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1337
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/1/1f/20211030140950%21Rotana_Cinema_EG_New.png" group-title="# stream", Rotana سينما
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1182_1.png" group-title="# stream", ART حكايات 2
+http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1336
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1289_1.png" group-title="# stream", Rotana سينما
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1187
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotana_Comedy_Logo.png/280px-Rotana_Comedy_Logo.png" group-title="# stream", Rotana كوميدي
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1188
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/f/fe/20220123165536%21Rotana_Drama_New_Logo.png" group-title="# stream", Rotana دراما
+#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1147_1.png" group-title="# stream", Rotana دراما
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1183
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" group-title="# stream", Rotana موسيقى
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1189
 #EXTINF:-1 tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" group-title="# stream", Rotana كليب
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1185
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mazzika.png" group-title="# stream", Mazzika مزيكا
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062012/mazzika.1.png" group-title="# stream", Mazzika مزيكا
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1213
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="# stream", Hala هلا
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/571
