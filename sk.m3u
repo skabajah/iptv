@@ -37,8 +37,6 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="# ar", MBC دراما+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AL_NAHAR_TV_NEW_LOGO.png/512px-AL_NAHAR_TV_NEW_LOGO.png" group-title="# ar", AlNahar النهار
-https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618437134723215360/hk7cC3RS_400x400.jpg" group-title="# ar", Kahera القاهرة والناس
 https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="# ar", SBC سعودية
