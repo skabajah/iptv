@@ -107,7 +107,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg" channel-number="54" group-title="# en", Jazeera (en)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1341_1.png" channel-number="55" group-title="# stream", LBC
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_lbc.jpg" channel-number="55" group-title="# stream", LBC
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1160
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" channel-number="56" group-title="# stream", LBCI لبنان
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1161
@@ -117,7 +117,7 @@ http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1165
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1239
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbalad2.png" channel-number="59" group-title="# stream", Sada صدى 2
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1237
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1227_1.png" channel-number="60" group-title="# stream", Sada صدى Drama
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_drama.jpg" channel-number="60" group-title="# stream", Sada صدى Drama
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1238
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" channel-number="61" group-title="# stream", CBC مصر
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1220
@@ -135,15 +135,15 @@ http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1228
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1226
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/11/on-drama-sqr-3-2.png" channel-number="68" group-title="# stream", ON دراما
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1234
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1122_1.png" channel-number="69" group-title="# stream", ART حكايات 1
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat.jpg" channel-number="69" group-title="# stream", ART حكايات 1
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1337
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1182_1.png" channel-number="70" group-title="# stream", ART حكايات 2
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat2.jpg" channel-number="70" group-title="# stream", ART حكايات 2
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1336
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1289_1.png" channel-number="71" group-title="# stream", Rotana سينما
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" channel-number="71" group-title="# stream", Rotana سينما
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1187
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotana_Comedy_Logo.png/280px-Rotana_Comedy_Logo.png" channel-number="72" group-title="# stream", Rotana كوميدي
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1188
-#EXTINF:-1 tvg-logo="https://media0039.elcinema.com/tvguide/1147_1.png" channel-number="73" group-title="# stream", Rotana دراما
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" channel-number="73" group-title="# stream", Rotana دراما
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1183
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" channel-number="74" group-title="# stream", Rotana موسيقى
 http://173.212.193.243:8080/mo3ad7Hgy3/mo3ad7Hgy3/1189
