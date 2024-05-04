@@ -108,46 +108,46 @@ https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg" channel-number="316" group-title="# en", 316>Jazeera (en)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_lbc.jpg" channel-number="200" group-title="# stream", 200>LBC
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1160
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1160
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" channel-number="201" group-title="# stream", 201>LBCI لبنان
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1161
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1161
 #EXTINF:-1 tvg-logo="https://i.imgur.com/toxFMeY.png" channel-number="202" group-title="# stream", 202>OTV لبنان
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1165
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1165
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbaladdrama.png" channel-number="203" group-title="# stream", 203>Sada صدى البلد
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1239
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1239
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbalad2.png" channel-number="204" group-title="# stream", 204>Sada صدى 2
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1237
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1237
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_drama.jpg" channel-number="205" group-title="# stream", 205>Sada صدى Drama
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1238
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1238
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" channel-number="206" group-title="# stream", 206>CBC مصر
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1220
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1220
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/dmc-logo-sqr-2.png" channel-number="207" group-title="# stream", 207>DMC مصر
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1225
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1225
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/dmcdrama.png" channel-number="208" group-title="# stream", 208>Drama DMC مصر
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1224
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1224
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png" channel-number="209" group-title="# stream", 209>AlNahar النهار
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1221
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1221
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/AL_NAHAR_DRAMA_NEW_LOGO.png" channel-number="210" group-title="# stream", 210>AlNahar النهار دراما
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1222
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1222
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/800px-EL_MEHWAR_TV.png" channel-number="211" group-title="# stream", 211>Mehwar المحور
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1228
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1228
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/on-sqr-2.png" channel-number="212" group-title="# stream", 212>ON E مصر
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1226
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1226
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/11/on-drama-sqr-3-2.png" channel-number="213" group-title="# stream", 213>ON دراما
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1234
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1234
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat.jpg" channel-number="214" group-title="# stream", 214>ART حكايات 1
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1337
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1337
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat2.jpg" channel-number="215" group-title="# stream", 215>ART حكايات 2
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1336
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1336
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" channel-number="216" group-title="# stream", 216>Rotana سينما
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1187
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1187
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotana_Comedy_Logo.png/280px-Rotana_Comedy_Logo.png" channel-number="217" group-title="# stream", 217>Rotana كوميدي
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1188
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1188
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" channel-number="218" group-title="# stream", 218>Rotana دراما
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1183
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1183
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" channel-number="219" group-title="# stream", 219>Rotana موسيقى
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1189
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1189
 #EXTINF:-1 tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" channel-number="220" group-title="# stream", 220>Rotana كليب
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1185
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1185
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062012/mazzika.1.png" channel-number="221" group-title="# stream", 221>Mazzika مزيكا
-http://173.212.193.243:8080/mo3ad6DlY33/mo3ad6DlY33/1213
+http://173.212.193.243:8080/mo3ad70A3g/mo3ad70A3g/1213
