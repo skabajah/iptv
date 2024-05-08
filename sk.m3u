@@ -144,6 +144,6 @@ https://yahoo-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" channel-number="315" group-title="# en", 315>CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" channel-number="316" group-title="# en", 316>EuroNews
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
+https://live-c.cf.dmcdn.net/sec2(NsMWjsoLW2wr5jGwZRGq8y-TsvbqiGdE-e3o7_nTJbrHdYhkm3CtvXN9WoySjGR3zcqxfAyQljomIKV0xp3RClKvflkK1Kp79NY1yWnHTPU)/dm/3/x2j4h4m/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg" channel-number="317" group-title="# en", 317>Jazeera (en)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
