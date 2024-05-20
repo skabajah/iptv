@@ -37,38 +37,24 @@ https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6HSfNg.png" channel-number="119" group-title="# ar", 119>Aghani أغاني
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" channel-number="120" group-title="# ar", 120>Lana لنا
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jl9Uw8N.png" channel-number="121" group-title="# ar", 121>AlAan الآن
-https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" channel-number="122" group-title="# ar", 122>MBC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" channel-number="120" group-title="# ar", 120>MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" channel-number="123" group-title="# ar", 123>MBC 1 US
-https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png" channel-number="124" group-title="# ar", 124>MBC 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png" channel-number="121" group-title="# ar", 121>MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/296px-5_MBC.webp.png" channel-number="125" group-title="# ar", 125>MBC 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/296px-5_MBC.webp.png" channel-number="122" group-title="# ar", 122>MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/560px-MBC_Iraq.svg.png" channel-number="126" group-title="# ar", 126>MBC العراق
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/560px-MBC_Iraq.svg.png" channel-number="123" group-title="# ar", 123>MBC العراق
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" channel-number="127" group-title="# ar", 127>MBC مصر
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" channel-number="124" group-title="# ar", 124>MBC مصر
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" channel-number="128" group-title="# ar", 128>MBC مصر US
-https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" channel-number="129" group-title="# ar", 129>MBC مصر 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" channel-number="125" group-title="# ar", 125>MBC مصر 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" channel-number="130" group-title="# ar", 130>MBC دراما
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" channel-number="126" group-title="# ar", 126>MBC دراما
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" channel-number="131" group-title="# ar", 131>MBC دراما+
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" channel-number="132" group-title="# ar", 132>SBC سعودية
+#EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" channel-number="127" group-title="# ar", 127>SBC سعودية
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Abu-Dhabi-TV-Logo.png" channel-number="133" group-title="# ar", 133>Abu Dhabi أبو ظبي
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" channel-number="134" group-title="# ar", 134>Dubai دبي
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" channel-number="128" group-title="# ar", 128>Dubai دبي
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dubaione-logo.png/480px-Dubaione-logo.png" channel-number="135" group-title="# ar", 135>Dubai One
-https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062012/mazzika.1.png" channel-number="201" group-title="# stream", 201>Mazzika مزيكا
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1213
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" channel-number="202" group-title="# stream", 202>LBCI لبنان
@@ -97,21 +83,17 @@ http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1228
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1226
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/11/on-drama-sqr-3-2.png" channel-number="214" group-title="# stream", 214>ON دراما
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1234
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat.jpg" channel-number="215" group-title="# stream", 215>ART حكايات 1
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1337
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_hekayat2.jpg" channel-number="216" group-title="# stream", 216>ART حكايات 2
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1336
-#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_lbc.jpg" channel-number="217" group-title="# stream", 217>LBC
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_lbc.jpg" channel-number="215" group-title="# stream", 215>LBC
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1160
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" channel-number="218" group-title="# stream", 218>Rotana سينما
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" channel-number="216" group-title="# stream", 216>Rotana سينما
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1187
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotana_Comedy_Logo.png/280px-Rotana_Comedy_Logo.png" channel-number="219" group-title="# stream", 219>Rotana كوميدي
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotana_Comedy_Logo.png/280px-Rotana_Comedy_Logo.png" channel-number="217" group-title="# stream", 217>Rotana كوميدي
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1188
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" channel-number="220" group-title="# stream", 220>Rotana دراما
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" channel-number="218" group-title="# stream", 218>Rotana دراما
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1183
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" channel-number="221" group-title="# stream", 221>Rotana موسيقى
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" channel-number="219" group-title="# stream", 219>Rotana موسيقى
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1189
-#EXTINF:-1 tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" channel-number="222" group-title="# stream", 222>Rotana كليب
+#EXTINF:-1 tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" channel-number="220" group-title="# stream", 220>Rotana كليب
 http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1185
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" channel-number="301" group-title="# en", 301>Test Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
@@ -149,7 +131,9 @@ https://lnc-nbc-news-now.tubi.video/master.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" channel-number="318" group-title="# en", 318>CNN.com
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" channel-number="319" group-title="# en", 319>EuroNews
-https://live-c.cf.dmcdn.net/sec2(NsMWjsoLW2wr5jGwZRGq8y-TsvbqiGdE-e3o7_nTJbrHdYhkm3CtvXN9WoySjGR3zcqxfAyQljomIKV0xp3RClKvflkK1Kp79NY1yWnHTPU)/dm/3/x2j4h4m/s/live-1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg" channel-number="320" group-title="# en", 320>Jazeera (en)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2583/images/logod.jpg" channel-number="319" group-title="# en", 319>SkyNews
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" channel-number="320" group-title="# en", 320>BBC News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg" channel-number="321" group-title="# en", 321>Jazeera (en)
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
