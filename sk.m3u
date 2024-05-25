@@ -24,15 +24,15 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" channel-number="206" group-title="# levant", 206>Syria سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" channel-number="207" group-title="# levant", 207>LBCI لبنان
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1161
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1161
 #EXTINF:-1 tvg-logo="https://i.imgur.com/toxFMeY.png" channel-number="208" group-title="# levant", 208>OTV لبنان
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1165
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1165
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" channel-number="209" group-title="# levant", 209>MTV لبنان
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png" channel-number="301" group-title="# ar music", 301>MTV One
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062012/mazzika.1.png" channel-number="302" group-title="# ar music", 302>Mazzika مزيكا
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1213
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1213
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" channel-number="303" group-title="# ar music", 303>Nogoum نجوم
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png" channel-number="304" group-title="# ar music", 304>Arabica ارابيكا
@@ -40,31 +40,31 @@ http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6HSfNg.png" channel-number="305" group-title="# ar music", 305>Aghani أغاني
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" channel-number="306" group-title="# ar music", 306>Rotana موسيقى
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1189
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1189
 #EXTINF:-1 tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" channel-number="307" group-title="# ar music", 307>Rotana كليب
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1185
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1185
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" channel-number="401" group-title="# egypt", 401>CBC مصر
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1220
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1220
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/dmc-logo-sqr-2.png" channel-number="402" group-title="# egypt", 402>DMC مصر
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1225
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1225
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/dmcdrama.png" channel-number="403" group-title="# egypt", 403>Drama DMC مصر
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1224
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1224
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png" channel-number="404" group-title="# egypt", 404>AlNahar النهار
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1221
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1221
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/AL_NAHAR_DRAMA_NEW_LOGO.png" channel-number="405" group-title="# egypt", 405>AlNahar النهار دراما
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1222
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1222
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbaladdrama.png" channel-number="406" group-title="# egypt", 406>Sada صدى البلد
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1239
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1239
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbalad2.png" channel-number="407" group-title="# egypt", 407>Sada صدى 2
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1237
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1237
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_drama.jpg" channel-number="408" group-title="# egypt", 408>Sada صدى Drama
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1238
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1238
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/800px-EL_MEHWAR_TV.png" channel-number="409" group-title="# egypt", 409>Mehwar المحور
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1228
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1228
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/on-sqr-2.png" channel-number="410" group-title="# egypt", 410>ON E مصر
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1226
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1226
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/11/on-drama-sqr-3-2.png" channel-number="411" group-title="# egypt", 411>ON دراما
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1234
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" channel-number="412" group-title="# egypt", 412>MBC مصر
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" channel-number="413" group-title="# egypt", 413>MBC مصر 2
@@ -76,13 +76,13 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" channel-number="503" group-title="# gulf", 503>MBC دراما
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" channel-number="504" group-title="# gulf", 504>Rotana سينما
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1187
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1187
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotana_Comedy_Logo.png/280px-Rotana_Comedy_Logo.png" channel-number="505" group-title="# gulf", 505>Rotana كوميدي
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1188
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1188
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" channel-number="506" group-title="# gulf", 506>Rotana دراما
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1183
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1183
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_lbc.jpg" channel-number="507" group-title="# gulf", 507>LBC
-http://173.212.193.243:8080/mo3adG56f3A/mo3adG56f3A/1160
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1160
 #EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" channel-number="508" group-title="# gulf", 508>SBC سعودية
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" channel-number="509" group-title="# gulf", 509>Dubai دبي
