@@ -7,9 +7,7 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" channel-number="104" group-title="1) ar news", 104>TRT عربي
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" channel-number="105" group-title="1) ar news", 105>RT عربي
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YMqWEe4.png" channel-number="106" group-title="1) ar news", 106>AlAraby العربي
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMqWEe4.png" channel-number="105" group-title="1) ar news", 105>AlAraby العربي
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" channel-number="201" group-title="2) levant", 201>PSC فلسطين
 https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
