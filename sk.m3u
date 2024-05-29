@@ -9,23 +9,23 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMqWEe4.png" channel-number="105" group-title="1) AKHBAR", 105) Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" channel-number="201" group-title="2) SHAM", 201) PSC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" channel-number="201" group-title="2) LEVANT", 201) PSC
 https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XozB5N.png" channel-number="202" group-title="2) SHAM", 202) Jordan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XozB5N.png" channel-number="202" group-title="2) LEVANT", 202) Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Al-Mamlaka_TV_logo.png" channel-number="203" group-title="2) SHAM", 203) Al Mamlaka
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Al-Mamlaka_TV_logo.png" channel-number="203" group-title="2) LEVANT", 203) Al Mamlaka
 https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" channel-number="204" group-title="2) SHAM", 204) Roya
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" channel-number="204" group-title="2) LEVANT", 204) Roya
 https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" channel-number="205" group-title="2) SHAM", 205) Amman
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" channel-number="205" group-title="2) LEVANT", 205) Amman
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" channel-number="206" group-title="2) SHAM", 206) Syria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" channel-number="206" group-title="2) LEVANT", 206) Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" channel-number="207" group-title="2) SHAM", 207) LBCI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" channel-number="207" group-title="2) LEVANT", 207) LBCI
 http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1161
-#EXTINF:-1 tvg-logo="https://i.imgur.com/toxFMeY.png" channel-number="208" group-title="2) SHAM", 208) OTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/toxFMeY.png" channel-number="208" group-title="2) LEVANT", 208) OTV
 http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1165
-#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" channel-number="209" group-title="2) SHAM", 209) MTV
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" channel-number="209" group-title="2) LEVANT", 209) MTV
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png" channel-number="301" group-title="3) MUSIC", 301) MTV One
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
@@ -53,8 +53,6 @@ http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1228
 http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1226
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" channel-number="407" group-title="4) EGYPT", 407) MBC Egypt
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" channel-number="408" group-title="4) EGYPT", 408) MBC Egypt 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_drama.jpg" channel-number="501" group-title="5) DRAMA", 501) Sada
 http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1238
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/dmcdrama.png" channel-number="502" group-title="5) DRAMA", 502) DMC Drama
@@ -79,19 +77,25 @@ https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/thumbnail.jpg" channel-number="702" group-title="7) US", 702) Logo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/thumbnail.jpg" channel-number="703" group-title="7) US", 703) TV Land Sitcoms
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/25_bdcc2a32830f8a38611e16ce8e57e1b3.png" channel-number="705" group-title="7) US", 705) Revry One
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/11_24c6d63e0c5159aeebe748b77567b84f.png" channel-number="703" group-title="7) US", 703) Revry 2
+https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/27_d74d6c1854395d32f716469fbc3856ff.png" channel-number="704" group-title="7) US", 704) Revry News
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/thumbnail.jpg" channel-number="706" group-title="7) US", 706) TV Land Sitcoms
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/thumbnail.jpg" channel-number="704" group-title="7) US", 704) More Sitcom
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/thumbnail.jpg" channel-number="707" group-title="7) US", 707) More Sitcom
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640193013818388480/zQRJBHDe_400x400.png" channel-number="705" group-title="7) US", 705) TBS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640193013818388480/zQRJBHDe_400x400.png" channel-number="708" group-title="7) US", 708) TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" channel-number="706" group-title="7) US", 706) TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" channel-number="709" group-title="7) US", 709) TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/thumbnail.jpg" channel-number="707" group-title="7) US", 707) Comedy Central
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/thumbnail.jpg" channel-number="710" group-title="7) US", 710) Comedy Central
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/830129040979734528/o7_l1DxQ_400x400.jpg" channel-number="708" group-title="7) US", 708) Comedy Dynamic
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/830129040979734528/o7_l1DxQ_400x400.jpg" channel-number="711" group-title="7) US", 711) Comedy Dynamic
 https://dbrb49pjoymg4.cloudfront.net/10001/99991190/hls/index.m3u8?ads.xumo_channelId=99991190&ads._fw_ifa_type=dpid&ads._fw_did=73fdd4f5-38b8-da0a-f8c3-6459b9b174a4&ads.amznappId=%5BAMZN_APP_ID%5D&ads.lat=%5BLAT%5D&ads.lon=%5BLON%5D&ads.os=%5BOS%5D&ads.osv=%5BOS_VERSION%5D&ads.asnw=&ads.caid=ComedyDynamics&ads.csid=xumo_desktopweb_ComedyDynamics_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Comedy&ads._fw_content_category=IAB1-7&ads._fw_content_language=en&ads._fw_content_genre=Comedy&ads._fw_content_rating=TV-PG&ads.xumo_contentId=127&ads.xumo_contentName=ComedyDynamics&ads.xumo_providerId=127&ads.xumo_providerName=ComedyDynamics&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991190&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.12.2&ads._fw_app_bundle=&ads._fw_app_store_url=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/thumbnail.jpg" channel-number="709" group-title="7) US", 709) Stand Up
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/thumbnail.jpg" channel-number="712" group-title="7) US", 712) Stand Up
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" channel-number="801" group-title="8) NEWS", 801) CBS 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
@@ -105,7 +109,7 @@ http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 https://lnc-nbc-news-now.tubi.video/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" channel-number="806" group-title="8) NEWS", 806) CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" channel-number="807" group-title="8) NEWS", 807) CNN.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" channel-number="807" group-title="8) NEWS", 807) CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2583/images/logod.jpg" channel-number="808" group-title="8) NEWS", 808) SkyNews
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
