@@ -20,15 +20,15 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png" channel-number="205" group-title="2) LEVANT", 205) Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" channel-number="206" group-title="2) LEVANT", 206) LBCI
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1161
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1161
 #EXTINF:-1 tvg-logo="https://i.imgur.com/toxFMeY.png" channel-number="207" group-title="2) LEVANT", 207) OTV
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1165
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1165
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" channel-number="208" group-title="2) LEVANT", 208) MTV
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png" channel-number="301" group-title="3) MUSIC", 301) MTV One
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062012/mazzika.1.png" channel-number="302" group-title="3) MUSIC", 302) Mazzika
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1213
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1213
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" channel-number="303" group-title="3) MUSIC", 303) Nogoum
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png" channel-number="304" group-title="3) MUSIC", 304) Arabica
@@ -36,31 +36,31 @@ http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6HSfNg.png" channel-number="305" group-title="3) MUSIC", 305) Aghani
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" channel-number="306" group-title="3) MUSIC", 306) Rotana Clip
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1185
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1185
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" channel-number="401" group-title="4) EGYPT", 401) CBC
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1220
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1220
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/dmc-logo-sqr-2.png" channel-number="402" group-title="4) EGYPT", 402) DMC
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1225
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1225
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png" channel-number="403" group-title="4) EGYPT", 403) Nahar
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1221
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1221
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/sadaelbaladdrama.png" channel-number="404" group-title="4) EGYPT", 404) Sada
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1239
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/800px-EL_MEHWAR_TV.png" channel-number="405" group-title="4) EGYPT", 405) Mehwar
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1228
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1228
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/on-sqr-2.png" channel-number="406" group-title="4) EGYPT", 406) ON E
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1226
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1226
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" channel-number="407" group-title="4) EGYPT", 407) MBC Egypt
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_drama.jpg" channel-number="501" group-title="5) DRAMA", 501) Sada
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1238
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1238
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/dmcdrama.png" channel-number="502" group-title="5) DRAMA", 502) DMC Drama
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1224
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1224
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/AL_NAHAR_DRAMA_NEW_LOGO.png" channel-number="503" group-title="5) DRAMA", 503) Nahar Drama
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1222
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1222
 #EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/11/on-drama-sqr-3-2.png" channel-number="504" group-title="5) DRAMA", 504) ON Drama
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1234
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" channel-number="505" group-title="5) DRAMA", 505) Rotana Drama
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1183
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1183
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" channel-number="506" group-title="5) DRAMA", 506) MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" channel-number="601" group-title="6) GULF", 601) MBC 1
