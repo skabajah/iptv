@@ -44,16 +44,19 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:0,302) Mazzika
 #EXTGRP:3-MUSIC
 http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1213
-#EXTINF:0,303) Nogoum
+#EXTINF:0,303) Free Tv
+#EXTGRP:3-MUSIC
+http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1211
+#EXTINF:0,304) Nogoum
 #EXTGRP:3-MUSIC
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
-#EXTINF:0,304) Arabica
+#EXTINF:0,305) Arabica
 #EXTGRP:3-MUSIC
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
-#EXTINF:0,305) Aghani
+#EXTINF:0,306) Aghani
 #EXTGRP:3-MUSIC
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:0,306) Rotana Clip
+#EXTINF:0,307) Rotana Clip
 #EXTGRP:3-MUSIC
 http://173.212.193.243:8080/mo3ad3jJ5HV/mo3ad3jJ5HV/1185
 #EXTINF:0,401) CBC
