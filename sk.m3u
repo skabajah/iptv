@@ -52,13 +52,19 @@ http://173.212.193.243:8080/mo3adv4SZ3D/mo3adv4SZ3D/1211
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:0,305) Arabica
 #EXTGRP:3-MUSIC
-http://istream.binarywaves.com:8081/hls/arabica/arabicatv_720/index.m3u8
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0,306) Aghani
 #EXTGRP:3-MUSIC
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:0,307) Rotana Clip
 #EXTGRP:3-MUSIC
 http://173.212.193.243:8080/mo3adv4SZ3D/mo3adv4SZ3D/1185
+#EXTINF:0,308) Rotana M+
+#EXTGRP:3-MUSIC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072632-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=480862f0-a3b1-4a41-ace7-43c6c645f118
+#EXTINF:0,309) Hala Jordan
+#EXTGRP:3-MUSIC
+https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8
 #EXTINF:0,401) CBC
 #EXTGRP:4-EGYPT
 http://173.212.193.243:8080/mo3adv4SZ3D/mo3adv4SZ3D/1220
@@ -98,6 +104,9 @@ http://173.212.193.243:8080/mo3adv4SZ3D/mo3adv4SZ3D/1183
 #EXTINF:0,506) MBC Drama
 #EXTGRP:5-DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:0,507) Roya Jalta
+#EXTGRP:5-DRAMA
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8
 #EXTINF:0,601) MBC 1
 #EXTGRP:6-GULF
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
