@@ -116,7 +116,10 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 #EXTINF:0,603) SBC
 #EXTGRP:6-GULF
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
-#EXTINF:0,604) Dubai
+#EXTINF:0,604) Mashhad
+#EXTGRP:6-GULF
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
+#EXTINF:0,605) Dubai
 #EXTGRP:6-GULF
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1246
 #EXTINF:0,701) Test Kitchen
