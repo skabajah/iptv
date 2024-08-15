@@ -29,18 +29,18 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:0,205) Syria
 #EXTGRP:2-LEVANT
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
-#EXTINF:0,206) Lana
-#EXTGRP:2-LEVANT
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:0,207) LBCI
+#EXTINF:0,206) LBCI
 #EXTGRP:2-LEVANT
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1161
-#EXTINF:0,208) OTV
+#EXTINF:0,207) OTV
 #EXTGRP:2-LEVANT
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1165
-#EXTINF:0,209) MTV
+#EXTINF:0,208) MTV
 #EXTGRP:2-LEVANT
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:0,209) Lana
+#EXTGRP:2-LEVANT
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:0,301) MTV One
 #EXTGRP:3-MUSIC
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
