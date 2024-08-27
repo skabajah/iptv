@@ -143,7 +143,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:0,711) Comedy Central
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#REF!
+#EXTINF:0,712) Starz Comedy
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:0,801) CBS 9
