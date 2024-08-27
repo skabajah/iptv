@@ -59,15 +59,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0,306) Aghani
 #EXTGRP:3-MUSIC
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:0,307) Rotana Clip
-#EXTGRP:3-MUSIC
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1185
-#EXTINF:0,308) Rotana M+
-#EXTGRP:3-MUSIC
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/chunks.m3u8?token=demo
-#EXTINF:0,309) Hala Jordan
-#EXTGRP:3-MUSIC
-https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8
 #EXTINF:0,401) CBC
 #EXTGRP:4-EGYPT
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1220
@@ -107,9 +98,6 @@ http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1183
 #EXTINF:0,506) MBC Drama
 #EXTGRP:5-DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:0,507) Roya Jalta
-#EXTGRP:5-DRAMA
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8
 #EXTINF:0,601) MBC 1
 #EXTGRP:6-GULF
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
@@ -124,7 +112,7 @@ https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/in
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 #EXTINF:0,605) Dubai
 #EXTGRP:6-GULF
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1246
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:0,606) AlAraby 2
 #EXTGRP:6-GULF
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
@@ -161,13 +149,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:0,711) Comedy Central
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:0,712) Comedy Dynamic
-#EXTGRP:7-US
-https://dbrb49pjoymg4.cloudfront.net/10001/99991190/hls/index.m3u8?ads.xumo_channelId=99991190&ads._fw_ifa_type=dpid&ads._fw_did=73fdd4f5-38b8-da0a-f8c3-6459b9b174a4&ads.amznappId=%5BAMZN_APP_ID%5D&ads.lat=%5BLAT%5D&ads.lon=%5BLON%5D&ads.os=%5BOS%5D&ads.osv=%5BOS_VERSION%5D&ads.asnw=&ads.caid=ComedyDynamics&ads.csid=xumo_desktopweb_ComedyDynamics_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Comedy&ads._fw_content_category=IAB1-7&ads._fw_content_language=en&ads._fw_content_genre=Comedy&ads._fw_content_rating=TV-PG&ads.xumo_contentId=127&ads.xumo_contentName=ComedyDynamics&ads.xumo_providerId=127&ads.xumo_providerName=ComedyDynamics&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991190&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.12.2&ads._fw_app_bundle=&ads._fw_app_store_url=
-#EXTINF:0,713) Stand Up
-#EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:0,714) Starz Comedy
+#REF!
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:0,801) CBS 9
@@ -182,21 +164,21 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 #EXTINF:0,804) Bloomberg
 #EXTGRP:8-NEWS
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
-#EXTINF:0,805) NBC Now
+#EXTINF:0,805) Bloomberg +
+#EXTGRP:8-NEWS
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:0,806) NBC Now
 #EXTGRP:8-NEWS
 https://lnc-nbc-news-now.tubi.video/master.m3u8
-#EXTINF:0,806) MSNBC
+#EXTINF:0,807) MSNBC
 #EXTGRP:8-NEWS
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:0,807) CNN
+#EXTINF:0,808) CNN
 #EXTGRP:8-NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,808) CNN International
+#EXTINF:0,809) CNN International
 #EXTGRP:8-NEWS
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,809) SkyNews
-#EXTGRP:8-NEWS
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:0,810) BBC News
 #EXTGRP:8-NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
