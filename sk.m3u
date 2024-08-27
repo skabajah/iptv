@@ -92,10 +92,7 @@ http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1222
 #EXTINF:0,504) ON Drama
 #EXTGRP:5-DRAMA
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1234
-#EXTINF:0,505) Rotana Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1183
-#EXTINF:0,506) MBC Drama
+#EXTINF:0,505) MBC Drama
 #EXTGRP:5-DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:0,601) MBC 1
@@ -110,10 +107,7 @@ https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/in
 #EXTINF:0,604) Mashhad
 #EXTGRP:6-GULF
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
-#EXTINF:0,605) Dubai
-#EXTGRP:6-GULF
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:0,606) AlAraby 2
+#EXTINF:0,605) AlAraby 2
 #EXTGRP:6-GULF
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:0,701) Test Kitchen
