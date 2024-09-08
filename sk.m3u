@@ -38,12 +38,15 @@ http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1161
 #EXTINF:0,208) OTV
 #EXTGRP:2-LEVANT
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1165
-#EXTINF:0,209) MTV
+#EXTINF:0,209) Al Jadeed
 #EXTGRP:2-LEVANT
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1159
+#EXTINF:0,210) MTV
+#EXTGRP:2-LEVANT
+https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0,301) MTV One
 #EXTGRP:3-MUSIC
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+https://media.mtv.com.lb/v1/broadcast/one/playlist.m3u8
 #EXTINF:0,302) Mazzika
 #EXTGRP:3-MUSIC
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1213
