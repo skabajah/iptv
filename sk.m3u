@@ -34,13 +34,13 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:0,207) LBCI
 #EXTGRP:2-LEVANT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1161
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1161
 #EXTINF:0,208) OTV
 #EXTGRP:2-LEVANT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1165
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1165
 #EXTINF:0,209) Al Jadeed
 #EXTGRP:2-LEVANT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1159
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1159
 #EXTINF:0,210) MTV
 #EXTGRP:2-LEVANT
 https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
@@ -49,52 +49,52 @@ https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
 https://media.mtv.com.lb/v1/broadcast/one/playlist.m3u8
 #EXTINF:0,302) Mazzika
 #EXTGRP:3-MUSIC
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1213
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1213
 #EXTINF:0,303) Free Tv
 #EXTGRP:3-MUSIC
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1211
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1211
 #EXTINF:0,304) Nogoum
 #EXTGRP:3-MUSIC
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:0,305) Arabica
 #EXTGRP:3-MUSIC
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1524
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1524
 #EXTINF:0,306) Aghani
 #EXTGRP:3-MUSIC
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:0,401) CBC
 #EXTGRP:4-EGYPT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1220
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1220
 #EXTINF:0,402) DMC
 #EXTGRP:4-EGYPT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1225
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1225
 #EXTINF:0,403) Nahar
 #EXTGRP:4-EGYPT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1221
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1221
 #EXTINF:0,404) Sada
 #EXTGRP:4-EGYPT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1239
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1239
 #EXTINF:0,405) Mehwar
 #EXTGRP:4-EGYPT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1228
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1228
 #EXTINF:0,406) ON E
 #EXTGRP:4-EGYPT
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1226
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1226
 #EXTINF:0,407) MBC Egypt
 #EXTGRP:4-EGYPT
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:0,501) Sada Drama
 #EXTGRP:5-DRAMA
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1238
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1238
 #EXTINF:0,502) DMC Drama
 #EXTGRP:5-DRAMA
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1224
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1224
 #EXTINF:0,503) Nahar Drama
 #EXTGRP:5-DRAMA
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1222
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1222
 #EXTINF:0,504) ON Drama
 #EXTGRP:5-DRAMA
-http://173.212.193.243:8080/oMWbuw3dBk/1mDvo6brpA/1234
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1234
 #EXTINF:0,505) MBC Drama
 #EXTGRP:5-DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
