@@ -143,7 +143,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:0,710) TNT
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,711) Comedy Central
+#EXTINF:0,711) CC
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:0,712) Starz Comedy
@@ -173,10 +173,10 @@ http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:0,808) CNN
 #EXTGRP:8-NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,809) CNN International
+#EXTINF:0,809) CNN Intl
 #EXTGRP:8-NEWS
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,810) BBC News
+#EXTINF:0,810) BBC News World
 #EXTGRP:8-NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:0,811) Al Jazeera (en)
