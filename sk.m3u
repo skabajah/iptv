@@ -82,7 +82,10 @@ http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1228
 http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1226
 #EXTINF:0,407) MBC Egypt
 #EXTGRP:4-EGYPT
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0,408) MBC Egypt 2
+#EXTGRP:4-EGYPT
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:0,501) Sada Drama
 #EXTGRP:5-DRAMA
 http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1238
@@ -103,16 +106,19 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:0,602) MBC 4
 #EXTGRP:6-GULF
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:0,603) SBC
 #EXTGRP:6-GULF
-https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1704
 #EXTINF:0,604) Mashhad
 #EXTGRP:6-GULF
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 #EXTINF:0,605) AlAraby 2
 #EXTGRP:6-GULF
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:0,606) Dubai
+#EXTGRP:6-GULF
+http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1246
 #EXTINF:0,701) Test Kitchen
 #EXTGRP:7-US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
