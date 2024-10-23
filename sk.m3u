@@ -116,9 +116,9 @@ https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313
 #EXTINF:0,605) AlAraby 2
 #EXTGRP:6-GULF
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:0,606) Dubai
-#EXTGRP:6-GULF
-http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/1246
+
+
+
 #EXTINF:0,701) Test Kitchen
 #EXTGRP:7-US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
@@ -173,15 +173,15 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:0,806) NBC Now
 #EXTGRP:8-NEWS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:0,807) MSNBC
-#EXTGRP:8-NEWS
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
+
+
+
 #EXTINF:0,808) CNN
 #EXTGRP:8-NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,809) CNN Intl
-#EXTGRP:8-NEWS
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
 #EXTINF:0,810) BBC News World
 #EXTGRP:8-NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
