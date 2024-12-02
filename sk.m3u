@@ -125,12 +125,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a8
 #EXTINF:0,702) Logo
 #EXTGRP:7-US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:0,703) BBC America
-#EXTGRP:7-US
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:0,704) Showtime
-#EXTGRP:7-US
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+
+
+
+
+
 #EXTINF:0,705) Showtime 2
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -152,9 +152,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:0,711) CC
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:0,712) Starz Comedy
-#EXTGRP:7-US
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+
+
 #EXTINF:0,801) CBS 9
 #EXTGRP:8-NEWS
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
