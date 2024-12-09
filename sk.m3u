@@ -2,118 +2,118 @@
 #EXTINF:0,101) Al Jazeera
 #EXTGRP:1-AKHBAR
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
-#EXTINF:0,102) Al Sharq
+#EXTINF:0,111) Al Sharq
 #EXTGRP:1-AKHBAR
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8
-#EXTINF:0,103) SkyNews Arabia
+#EXTINF:0,121) SkyNews Arabia
 #EXTGRP:1-AKHBAR
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:0,104) TRT
+#EXTINF:0,131) TRT
 #EXTGRP:1-AKHBAR
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,105) Al Araby
+#EXTINF:0,141) Al Araby
 #EXTGRP:1-AKHBAR
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:0,201) PSC
 #EXTGRP:2-LEVANT
 https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
-#EXTINF:0,202) Jordan
+#EXTINF:0,211) Jordan
 #EXTGRP:2-LEVANT
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8
-#EXTINF:0,203) Roya
+#EXTINF:0,221) Roya
 #EXTGRP:2-LEVANT
 https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8
-#EXTINF:0,204) Amman
+#EXTINF:0,231) Amman
 #EXTGRP:2-LEVANT
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
-#EXTINF:0,205) Syria
+#EXTINF:0,241) Syria
 #EXTGRP:2-LEVANT
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
-#EXTINF:0,206) Lana
+#EXTINF:0,251) Lana
 #EXTGRP:2-LEVANT
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
-#EXTINF:0,207) LBCI
+#EXTINF:0,261) LBCI
 #EXTGRP:2-LEVANT
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1161
-#EXTINF:0,208) OTV
+#EXTINF:0,271) OTV
 #EXTGRP:2-LEVANT
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1165
-#EXTINF:0,209) Al Jadeed
+#EXTINF:0,281) Al Jadeed
 #EXTGRP:2-LEVANT
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1159
-#EXTINF:0,210) MTV
+#EXTINF:0,291) MTV
 #EXTGRP:2-LEVANT
 https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0,301) MTV One
 #EXTGRP:3-MUSIC
 https://media.mtv.com.lb/v1/broadcast/one/playlist.m3u8
-#EXTINF:0,302) Mazzika
+#EXTINF:0,311) Mazzika
 #EXTGRP:3-MUSIC
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1213
-#EXTINF:0,303) Free Tv
+#EXTINF:0,321) Free Tv
 #EXTGRP:3-MUSIC
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1211
-#EXTINF:0,304) Nogoum
+#EXTINF:0,331) Nogoum
 #EXTGRP:3-MUSIC
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
-#EXTINF:0,305) Arabica
+#EXTINF:0,341) Arabica
 #EXTGRP:3-MUSIC
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1524
-#EXTINF:0,306) Aghani
+#EXTINF:0,351) Aghani
 #EXTGRP:3-MUSIC
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:0,401) CBC
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1220
-#EXTINF:0,402) DMC
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1225
-#EXTINF:0,403) Nahar
+#EXTINF:0,401) Nahar
 #EXTGRP:4-EGYPT
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1221
-#EXTINF:0,404) Sada
+#EXTINF:0,411) DMC
+#EXTGRP:4-EGYPT
+http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1225
+#EXTINF:0,421) Sada
 #EXTGRP:4-EGYPT
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1239
-#EXTINF:0,405) Mehwar
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1228
-#EXTINF:0,406) ON E
+#EXTINF:0,431) ON E
 #EXTGRP:4-EGYPT
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1226
-#EXTINF:0,407) MBC Egypt
+#EXTINF:0,441) CBC
+#EXTGRP:4-EGYPT
+http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1220
+#EXTINF:0,451) Mehwar
+#EXTGRP:4-EGYPT
+http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1228
+#EXTINF:0,461) MBC Egypt
 #EXTGRP:4-EGYPT
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:0,408) MBC Egypt 2
+#EXTINF:0,462) MBC Egypt 2
 #EXTGRP:4-EGYPT
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:0,501) Sada Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1238
-#EXTINF:0,502) DMC Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1224
-#EXTINF:0,503) Nahar Drama
+#EXTINF:0,501) Nahar Drama
 #EXTGRP:5-DRAMA
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1222
-#EXTINF:0,504) ON Drama
+#EXTINF:0,511) DMC Drama
+#EXTGRP:5-DRAMA
+http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1224
+#EXTINF:0,521) Sada Drama
+#EXTGRP:5-DRAMA
+http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1238
+#EXTINF:0,531) ON Drama
 #EXTGRP:5-DRAMA
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1234
-#EXTINF:0,505) MBC Drama
+#EXTINF:0,561) MBC Drama
 #EXTGRP:5-DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:0,601) MBC 1
 #EXTGRP:6-GULF
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
-#EXTINF:0,602) MBC 4
+#EXTINF:0,614) MBC 4
 #EXTGRP:6-GULF
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:0,603) SBC
+#EXTINF:0,621) SBC
 #EXTGRP:6-GULF
 http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1704
-#EXTINF:0,604) Mashhad
+#EXTINF:0,631) Mashhad
 #EXTGRP:6-GULF
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
-#EXTINF:0,605) AlAraby 2
+#EXTINF:0,641) AlAraby 2
 #EXTGRP:6-GULF
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 
@@ -122,7 +122,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 #EXTINF:0,701) Test Kitchen
 #EXTGRP:7-US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:0,702) Logo
+#EXTINF:0,711) Logo
 #EXTGRP:7-US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
 
@@ -131,25 +131,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954
 
 
 
-#EXTINF:0,705) Showtime 2
+#EXTINF:0,732) Showtime 2
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:0,706) HBO 2
+#EXTINF:0,742) HBO 2
 #EXTGRP:7-US
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:0,707) TV Land Sitcoms
+#EXTINF:0,751) TV Land Sitcoms
 #EXTGRP:7-US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
-#EXTINF:0,708) More Sitcom
+#EXTINF:0,752) More Sitcom
 #EXTGRP:7-US
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36903a12-54e9-4279-a247-c026f64396a8&serverSideAds=false
-#EXTINF:0,709) TBS
+#EXTINF:0,761) TBS
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,710) TNT
+#EXTINF:0,771) TNT
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,711) CC
+#EXTINF:0,781) CC
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
@@ -158,33 +158,36 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:0,801) CBS 9
 #EXTGRP:8-NEWS
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
-#EXTINF:0,802) NBC 4
+#EXTINF:0,811) NBC 4
 #EXTGRP:8-NEWS
 https://bit.ly/nbc4
-#EXTINF:0,803) CBSN
+#EXTINF:0,821) CBSN
 #EXTGRP:8-NEWS
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36903a12-54e9-4279-a247-c026f64396a8&serverSideAds=false
-#EXTINF:0,804) Bloomberg
+#EXTINF:0,822) 60 Minutes
+#EXTGRP:8-NEWS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36903a12-54e9-4279-a247-c026f64396a8&serverSideAds=false
+#EXTINF:0,831) Bloomberg
 #EXTGRP:8-NEWS
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
-#EXTINF:0,805) Bloomberg +
+#EXTINF:0,832) Bloomberg +
 #EXTGRP:8-NEWS
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:0,806) NBC Now
+#EXTINF:0,841) NBC Now
 #EXTGRP:8-NEWS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
 
 
 
-#EXTINF:0,808) CNN
+#EXTINF:0,851) CNN
 #EXTGRP:8-NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
 
-#EXTINF:0,810) BBC News World
+#EXTINF:0,861) BBC News World
 #EXTGRP:8-NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:0,811) Al Jazeera (en)
+#EXTINF:0,871) Al Jazeera (en)
 #EXTGRP:8-NEWS
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
