@@ -8,6 +8,9 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 #EXTINF:0,121) SkyNews Arabia
 #EXTGRP:1-AKHBAR
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0,126) CNBC عربية
+#EXTGRP:1-AKHBAR
+https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:0,131) TRT
 #EXTGRP:1-AKHBAR
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
@@ -121,10 +124,10 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 
 #EXTINF:0,701) Test Kitchen
 #EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
 #EXTINF:0,711) Logo
 #EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
 
 
 
@@ -139,10 +142,10 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:0,751) TV Land Sitcoms
 #EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
 #EXTINF:0,752) More Sitcom
 #EXTGRP:7-US
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36903a12-54e9-4279-a247-c026f64396a8&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
 #EXTINF:0,761) TBS
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
@@ -163,10 +166,10 @@ https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://bit.ly/nbc4
 #EXTINF:0,821) CBSN
 #EXTGRP:8-NEWS
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36903a12-54e9-4279-a247-c026f64396a8&serverSideAds=false
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0,822) 60 Minutes
 #EXTGRP:8-NEWS
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b646f9cd0d3100086af83c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36903a12-54e9-4279-a247-c026f64396a8&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66b646f9cd0d3100086af83clivestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
 #EXTINF:0,831) Bloomberg
 #EXTGRP:8-NEWS
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
@@ -175,7 +178,7 @@ http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:0,841) NBC Now
 #EXTGRP:8-NEWS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
 
 
 
