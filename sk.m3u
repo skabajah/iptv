@@ -124,10 +124,10 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 
 #EXTINF:0,701) Test Kitchen
 #EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:0,711) Logo
 #EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
 
 
@@ -142,10 +142,10 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:0,751) TV Land Sitcoms
 #EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:0,752) More Sitcom
 #EXTGRP:7-US
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86livestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:0,761) TBS
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
@@ -169,7 +169,7 @@ https://bit.ly/nbc4
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0,822) 60 Minutes
 #EXTGRP:8-NEWS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66b646f9cd0d3100086af83clivestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
+https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
 #EXTINF:0,831) Bloomberg
 #EXTGRP:8-NEWS
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
@@ -178,7 +178,7 @@ http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:0,841) NBC Now
 #EXTGRP:8-NEWS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=1&platform=web&appName=rokuchannel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceMake=generic&deviceType=web
+https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
 
 
 
