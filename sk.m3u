@@ -35,7 +35,7 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
 #EXTINF:-1,251) Lana
 #EXTGRP:2-LEVANT
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
+http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1790
 #EXTINF:-1,261) LBCI
 #EXTGRP:2-LEVANT
 http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1820
@@ -69,6 +69,9 @@ https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8r
 #EXTINF:-1,401) Nahar
 #EXTGRP:4-EGYPT
 http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2064
+#EXTINF:-1,406) Hayat
+#EXTGRP:4-EGYPT
+http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2058
 #EXTINF:-1,411) DMC
 #EXTGRP:4-EGYPT
 http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2068
@@ -93,6 +96,9 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1,501) Nahar Drama
 #EXTGRP:5-DRAMA
 http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2065
+#EXTINF:-1,506) Hayat Drama
+#EXTGRP:5-DRAMA
+http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2059
 #EXTINF:-1,511) DMC Drama
 #EXTGRP:5-DRAMA
 http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2070
