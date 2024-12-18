@@ -51,12 +51,12 @@ https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1,301) MTV One
 #EXTGRP:3-MUSIC
 https://media.mtv.com.lb/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1,311) Mazzika
-#EXTGRP:3-MUSIC
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1213
-#EXTINF:-1,321) Free Tv
-#EXTGRP:3-MUSIC
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1211
+
+
+
+
+
+
 #EXTINF:-1,331) Nogoum
 #EXTGRP:3-MUSIC
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
@@ -93,27 +93,27 @@ https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/in
 #EXTINF:-1,462) MBC Egypt 2
 #EXTGRP:4-EGYPT
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1,501) Nahar Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2065
-#EXTINF:-1,506) Hayat Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2059
-#EXTINF:-1,511) DMC Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2070
-#EXTINF:-1,521) Sada Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2073
-#EXTINF:-1,531) ON Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2067
-#EXTINF:-1,541) CBC Drama
-#EXTGRP:5-DRAMA
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2056
-#EXTINF:-1,561) MBC Drama
-#EXTGRP:5-DRAMA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,601) MBC 1
 #EXTGRP:6-GULF
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
