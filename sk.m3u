@@ -9,9 +9,9 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png",121) SkyNews Arabia
 #EXTGRP:1-AKHBAR
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png",126) CNBC Arabia
-#EXTGRP:1-AKHBAR
-https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png",131) TRT
 #EXTGRP:1-AKHBAR
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
