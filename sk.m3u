@@ -33,18 +33,18 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMaLsmi.png",241) Syria
 #EXTGRP:2-LEVANT
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png",251) Lana
-#EXTGRP:2-LEVANT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1790
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",261) LBCI
-#EXTGRP:2-LEVANT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1820
-#EXTINF:-1 tvg-logo="https://i.imgur.com/toxFMeY.png",271) OTV
-#EXTGRP:2-LEVANT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1823
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg",281) Al Jadeed
-#EXTGRP:2-LEVANT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1829
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg",291) MTV
 #EXTGRP:2-LEVANT
 https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
@@ -62,31 +62,31 @@ https://media.mtv.com.lb/v1/broadcast/one/playlist.m3u8
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png",341) Arabica
 #EXTGRP:3-MUSIC
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/1524
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6HSfNg.png",351) Aghani
 #EXTGRP:3-MUSIC
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png",401) Nahar
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2064
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/alhayat1.png",406) Hayat
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2058
-#EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/dmc-logo-sqr-2.png",411) DMC
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2068
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sada_Elbalad.png",421) Sada
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2071
-#EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/on-sqr-2.png",431) ON E
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2066
-#EXTINF:-1 tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png",441) CBC
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2053
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/800px-EL_MEHWAR_TV.png",451) Mehwar
-#EXTGRP:4-EGYPT
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2080
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png",461) MBC Egypt
 #EXTGRP:4-EGYPT
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
@@ -122,28 +122,28 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg",621) SBC
 #EXTGRP:6-GULF
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2119
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/41KkJOZ",631) Mashhad
 #EXTGRP:6-GULF
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gp5mNea.png",641) AlAraby 2
 #EXTGRP:6-GULF
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png",651) Dubai
-#EXTGRP:6-GULF
-http://173.212.193.243:8080/HYricci30o/kgSSftxQUB/2152
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png",701) Test Kitchen
 #EXTGRP:7-US
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/233px-Logo_TV_2015.svg.png",711) Logo
 #EXTGRP:7-US
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:BBC_America_2022.svg",721) BBC America
+#EXTGRP:7-US
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Showtime.svg",731) Showtime
+#EXTGRP:7-US
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/sky-showtime-2-dk.png",732) Showtime 2
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -165,9 +165,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/800px-Comedy_Central_2018.svg.png",781) CC
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Starz_Comedy_Logo_2022.svg",791) Starz Comedy
+#EXTGRP:7-US
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png",801) CBS 9
 #EXTGRP:8-NEWS
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
@@ -177,9 +177,9 @@ https://bit.ly/nbc4
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8fa2395178d18465ab0c7650913e674acc9afab003b2904a7bafbec02b3cab19.png",821) CBSN
 #EXTGRP:8-NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/60_Minutes_logo.png",822) 60 Minutes
-#EXTGRP:8-NEWS
-https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg",831) Bloomberg
 #EXTGRP:8-NEWS
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
