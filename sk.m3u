@@ -1,5 +1,5 @@
 #https://github.com/skabajah/iptv/edit/main/sk.m3u
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v" 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png",101) Al Jazeera
 #EXTGRP:1-AKHBAR
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
