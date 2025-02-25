@@ -1,5 +1,5 @@
 #https://github.com/skabajah/iptv/edit/main/sk.m3u
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v" 
+#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png",101) Al Jazeera
 #EXTGRP:1-AKHBAR
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
@@ -141,9 +141,9 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg",703) HGTV
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/233px-Logo_TV_2015.svg.png",711) Logo
-#EXTGRP:7-US
-https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png",712) Logo
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Logo/index.m3u8
@@ -165,10 +165,10 @@ http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/sky-showtime-2-dk.png",732) Showtime 2
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png",741) HBO
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png",741) HBO
 #EXTGRP:7-US
 https://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",742) HBO 2
+#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",742) HBO 2
 #EXTGRP:7-US
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg",743) HBO Comedy
@@ -189,7 +189,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",771) TNT
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/AMC_%28TV_channel%29#/media/File:AMC_logo_2019.svg",776) AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",776) AMC
 #EXTGRP:7-US
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",778) FX
