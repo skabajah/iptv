@@ -1,250 +1,250 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v"
-#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png",101) Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="1-AKHBAR",101) Al Jazeera
 #EXTGRP:1-AKHBAR
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
-#EXTINF:-1 tvg-id="AsharqNews.uk" tvg-logo="https://i.imgur.com/bqRC3sl.png",111) Al Sharq
+#EXTINF:-1 tvg-id="AsharqNews.uk" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="1-AKHBAR",111) Al Sharq
 #EXTGRP:1-AKHBAR
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-logo="https://i.imgur.com/SvjU4h6.png",121) SkyNews Arabia
+#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="1-AKHBAR",121) SkyNews Arabia
 #EXTGRP:1-AKHBAR
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
+,
 
 
-
-#EXTINF:-1 tvg-id="TRTArabi(English).it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png",131) TRT
+#EXTINF:-1 tvg-id="TRTArabi(English).it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" group-title="1-AKHBAR",131) TRT
 #EXTGRP:1-AKHBAR
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV(English).fr" tvg-logo="https://i.imgur.com/YMqWEe4.png",141) Al Araby
+#EXTINF:-1 tvg-id="AlArabyTV(English).fr" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="1-AKHBAR",141) Al Araby
 #EXTGRP:1-AKHBAR
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png",201) PSC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="2-LEVANT",201) PSC
 #EXTGRP:2-LEVANT
 https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/0XozB5N.png",211) Jordan
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="2-LEVANT",211) Jordan
 #EXTGRP:2-LEVANT
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png",221) Roya
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="2-LEVANT",221) Roya
 #EXTGRP:2-LEVANT
 https://royatv-live.daioncdn.net/royatv/royatv_720p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/5l7kw0b.png",231) Amman
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="2-LEVANT",231) Amman
 #EXTGRP:2-LEVANT
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd_720p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/RMaLsmi.png",241) Syria
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="2-LEVANT",241) Syria
 #EXTGRP:2-LEVANT
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
+,
 
 
+,
 
 
+,
 
 
+,
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg",291) MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="2-LEVANT",291) MTV
 #EXTGRP:2-LEVANT
 https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png",301) MTV One
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png" group-title="3-MUSIC",301) MTV One
 #EXTGRP:3-MUSIC
 https://media.mtv.com.lb/v1/broadcast/one/playlist.m3u8
+,
 
 
+,
 
 
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/krp3kgv.png",331) Nogoum
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="3-MUSIC",331) Nogoum
 #EXTGRP:3-MUSIC
 https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="Arabica.us" tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png",341) Arabica
+#EXTINF:-1 tvg-id="Arabica.us" tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png" group-title="3-MUSIC",341) Arabica
 #EXTGRP:3-MUSIC
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/o6HSfNg.png",351) Aghani
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="3-MUSIC",351) Aghani
 #EXTGRP:3-MUSIC
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+,
 
 
+,
 
 
+,
 
 
+,
 
 
+,
 
 
+,
 
 
+,
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="MBCMasrUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png",461) MBC Egypt
+#EXTINF:-1 tvg-id="MBCMASR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="4-EGYPT",461) MBC Egypt
 #EXTGRP:4-EGYPT
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg",462) MBC Egypt 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="4-EGYPT",462) MBC Egypt 2
 #EXTGRP:4-EGYPT
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+,
 
 
+,
 
 
+,
 
 
+,
 
 
+,
 
 
+,
 
 
+,
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",601) MBC 1
+#EXTINF:-1 tvg-id="MBCUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="6-GULF",601) MBC 1
 #EXTGRP:6-GULF
 https://mbc1-usa-enc.edgenextcdn.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png",614) MBC 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png" group-title="6-GULF",614) MBC 4
 #EXTGRP:6-GULF
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg",621) SBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="6-GULF",621) SBC
 #EXTGRP:6-GULF
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bit.ly/41KkJOZ",631) Mashhad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bit.ly/41KkJOZ" group-title="6-GULF",631) Mashhad
 #EXTGRP:6-GULF
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV2(English).fr" tvg-logo="https://i.imgur.com/Gp5mNea.png",641) AlAraby 2
+#EXTINF:-1 tvg-id="AlArabyTV2(English).fr" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="6-GULF",641) AlAraby 2
 #EXTGRP:6-GULF
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+,
 
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png",701) Test Kitchen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",701) Test Kitchen
 #EXTGRP:7-US
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",702) Food Netowrk
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="7-US",702) Food Netowrk
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",703) HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="7-US",703) HGTV
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/HGTV/index.m3u8
+,
 
 
-
-#EXTINF:-1 tvg-id="Logo.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png",712) Logo
+#EXTINF:-1 tvg-id="Logo.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="7-US",712) Logo
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Logo/index.m3u8
-#EXTINF:-1 tvg-id="Bravo.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",715) Bravo
+#EXTINF:-1 tvg-id="Bravo.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="7-US",715) Bravo
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="MTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",717) MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="7-US",717) MTV
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png",718) MTV 2
+#EXTINF:-1 tvg-id="MTV2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="7-US",718) MTV 2
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",721) BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="7-US",721) BBC America
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png",731) Showtime
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="7-US",731) Showtime
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png",732) Showtime 2
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="7-US",732) Showtime 2
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",741) HBO
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="7-US",741) HBO
 #EXTGRP:7-US
 https://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",742) HBO 2
+#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="7-US",742) HBO 2
 #EXTGRP:7-US
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png",743) HBO Comedy
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="7-US",743) HBO Comedy
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+,
 
 
+,
 
 
-
-
-#EXTINF:-1 tvg-id="TVLand.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png",753) TV Land
+#EXTINF:-1 tvg-id="TVLand.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="7-US",753) TV Land
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 tvg-id="TBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",761) TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="7-US",761) TBS
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",771) TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="7-US",771) TNT
 #EXTGRP:7-US
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",776) AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="7-US",776) AMC
 #EXTGRP:7-US
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",778) FX
+#EXTINF:-1 tvg-id="FX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="7-US",778) FX
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",781) CC
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="7-US",781) CC
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png",791) Starz Comedy
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="7-US",791) Starz Comedy
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",796) Freeform
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="7-US",796) Freeform
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",797) CBS
+#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="7-US",797) CBS
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png",798) NBC
+#EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="7-US",798) NBC
 #EXTGRP:7-US
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WABC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png",799) ABC
+#EXTINF:-1 tvg-id="WABC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="7-US",799) ABC
 #EXTGRP:7-US
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png",801) CBS 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" group-title="8-NEWS",801) CBS 9
 #EXTGRP:8-NEWS
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png",811) NBC 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="8-NEWS",811) NBC 4
 #EXTGRP:8-NEWS
 https://bit.ly/nbc4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/8fa2395178d18465ab0c7650913e674acc9afab003b2904a7bafbec02b3cab19.png",821) CBSN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/8fa2395178d18465ab0c7650913e674acc9afab003b2904a7bafbec02b3cab19.png" group-title="8-NEWS",821) CBSN
 #EXTGRP:8-NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+,
 
 
-
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg",831) Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg" group-title="8-NEWS",831) Bloomberg
 #EXTGRP:8-NEWS
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg",832) Bloomberg +
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/thumbnail.jpg" group-title="8-NEWS",832) Bloomberg +
 #EXTGRP:8-NEWS
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+,
 
 
+,
 
 
-
-
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png",851) CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="8-NEWS",851) CNN
 #EXTGRP:8-NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+,
 
 
-
-#EXTINF:-1 tvg-id="BBCNews.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png",861) BBC News World
+#EXTINF:-1 tvg-id="BBCNews.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png" group-title="8-NEWS",861) BBC News World
 #EXTGRP:8-NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg",871) Al Jazeera (en)
+#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-logo="https://pbs.twimg.com/profile_images/1567510144015106049/6L5e_S1N_400x400.jpg" group-title="8-NEWS",871) Al Jazeera (en)
 #EXTGRP:8-NEWS
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
