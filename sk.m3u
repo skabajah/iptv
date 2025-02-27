@@ -139,7 +139,7 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="7-US",777) NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WFOX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="7-US",779) FOX
+#EXTINF:-1 tvg-id="WNYW.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="7-US",779) FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="7-US",781) ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
