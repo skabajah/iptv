@@ -185,34 +185,34 @@ http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="7-US",761) TBS
 #EXTGRP:7-US
 http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="7-US",771) TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="7-US",763) TNT
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="7-US",776) AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="7-US",765) AMC
 #EXTGRP:7-US
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="7-US",778) FX
+#EXTINF:-1 tvg-id="FX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="7-US",767) FX
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="7-US",781) CC
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="7-US",769) CC
 #EXTGRP:7-US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="7-US",791) Starz Comedy
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="7-US",771) Starz Comedy
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="7-US",796) Freeform
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="7-US",773) Freeform
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="7-US",797) CBS
+#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="7-US",775) CBS
 #EXTGRP:7-US
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="7-US",798) NBC
+#EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="7-US",777) NBC
 #EXTGRP:7-US
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WFOX.us" tvg-logo="" group-title="-US",) NBC
-#EXTGRP:-US
+#EXTINF:-1 tvg-id="WFOX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="7-US",779) FOX
+#EXTGRP:7-US
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WABC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="7-US",799) ABC
+#EXTINF:-1 tvg-id="WABC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="7-US",781) ABC
 #EXTGRP:7-US
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" group-title="8-NEWS",801) CBS 9
