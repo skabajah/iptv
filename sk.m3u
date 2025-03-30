@@ -25,6 +25,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_720p/chunks.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Al_Rasheed_TV_logo.png" group-title="2-LEVANT",255) Rasheed
+https://media1.livaat.com/static/AL-RASHEED-HD/chunklist_w1690916711.m3u8
 
 
 
@@ -45,24 +47,28 @@ https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="3-MUSIC",351) Aghani
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="4-EGYPT",401) Egypt 1
+https://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/dmc-logo-sqr-2.png" group-title="4-EGYPT",411) DMC
+https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sada_Elbalad.png" group-title="4-EGYPT",421) Sada
+https://edge66.magictvbox.com/liveApple/sada_el_balad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/on-sqr-2.png" group-title="4-EGYPT",431) ON E
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" group-title="4-EGYPT",441) CBC
+https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/800px-EL_MEHWAR_TV.png" group-title="4-EGYPT",451) Mehwar
+https://edge66.magictvbox.com/liveApple/el_mehwar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MBCMASR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="4-EGYPT",461) MBC Egypt
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="4-EGYPT",462) MBC Egypt 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="4-EGYPT",463) MBC Egypt Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 
 
 
@@ -79,44 +85,48 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 
 #EXTINF:-1 tvg-id="MBCUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="6-GULF",601) MBC 1
 https://mbc1-usa-enc.edgenextcdn.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="6-GULF",612) MBC 2
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png" group-title="6-GULF",614) MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="6-GULF",615) MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="6-GULF",621) SBC
-https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_7.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bit.ly/41KkJOZ" group-title="6-GULF",631) Mashhad
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2(English).fr" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="6-GULF",641) AlAraby 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="6-GULF",651) Dubai
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",701) Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="7-US",702) Food Netowrk
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="7-US",703) HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/233px-Logo_TV_2015.svg.png" group-title="7-US",711) Logo
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
 
-#EXTINF:-1 tvg-id="Logo.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="7-US",712) Logo
-http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="7-US",715) Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="7-US",717) MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="7-US",718) MTV 2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
+
+
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="7-US",721) BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="7-US",731) Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="7-US",732) Showtime 2
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="7-US",741) HBO
 https://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="7-US",742) HBO 2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="7-US",743) HBO Comedy
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+
+
+
 
 
 
@@ -131,12 +141,18 @@ http://fl2.moveonjoy.com/TNT/index.m3u8
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="7-US",767) FX
 http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="7-US",768) FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="7-US",769) CC
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="7-US",771) Starz Comedy
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?" group-title="7-US",770) Starz
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Freeform.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="7-US",773) Freeform
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="7-US",774) Pop
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
 #EXTINF:-1 tvg-id="WCBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="7-US",775) CBS
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="7-US",777) NBC
