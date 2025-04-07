@@ -47,10 +47,12 @@ https://nogoumtv.nrpstream.com/hls/0/stream.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="3-MUSIC",351) Aghani
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" group-title="3-MUSIC",361) Rotana Clip
+https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="4-EGYPT",401) Egypt 1
 https://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png" group-title="4-EGYPT",403) Nahar
+https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/dmc-logo-sqr-2.png" group-title="4-EGYPT",411) DMC
@@ -73,16 +75,20 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://logo.iptveditor.com/dmcdrama.png" group-title="5-FilmSeries",511) DMC Drama
+https://edge66.magictvbox.com/liveApple/ChannelDMC-Drama/index.m3u8
 
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://logo.iptveditor.com/cbcdrama.png" group-title="5-FilmSeries",526) CBC Drama
+https://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="5-FilmSeries",531) MBC Drama
+https://edge66.magictvbox.com/liveApple/MBC_Drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="5-FilmSeries",551) Rotana Cinema
+https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0075.elcinema.com/tvguide/1218_1.png" group-title="5-FilmSeries",552) Rotana Aflam
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="MBCUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="6-GULF",601) MBC 1
 https://mbc1-usa-enc.edgenextcdn.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="6-GULF",612) MBC 2
@@ -99,6 +105,8 @@ https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="6-GULF",651) Dubai
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dubaione-logo.png/480px-Dubaione-logo.png" group-title="6-GULF",652) Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",701) Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="7-US",702) Food Netowrk
