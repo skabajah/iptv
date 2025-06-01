@@ -143,8 +143,8 @@ https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="7-US",761) TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
-
-
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="7-US",763) TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="7-US",765) AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
@@ -161,16 +161,16 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="POP.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="7-US",774) Pop
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
-#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="7-US",775) CBS NY
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+
+
 #EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="7-US",777) NBC DC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WTTGDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="7-US",779) FOX DC
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="7-US",781) ABC NY
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/WUSA_9_logo.png" group-title="8-NEWS",801) CBS 9
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/8fa2395178d18465ab0c7650913e674acc9afab003b2904a7bafbec02b3cab19.png" group-title="8-NEWS",821) CBSN
