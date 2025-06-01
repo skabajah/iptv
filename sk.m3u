@@ -53,7 +53,7 @@ https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8r
 https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="4-EGYPT",401) Egypt 1
 https://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png" group-title="4-EGYPT",403) Nahar
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Al-Nahar_TV_Logo.png" group-title="4-EGYPT",403) Nahar
 https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
 
 
@@ -65,11 +65,11 @@ https://edge66.magictvbox.com/liveApple/sada_el_balad/tracks-v1a1/mono.m3u8
 https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://ums.com.eg/wp-content/uploads/2023/01/cbc-logo-500x500.png" group-title="4-EGYPT",441) CBC
 https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/800px-EL_MEHWAR_TV.png" group-title="4-EGYPT",451) Mehwar
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ELMEHWAR_TV.png" group-title="4-EGYPT",451) Mehwar
 https://edge66.magictvbox.com/liveApple/el_mehwar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MBCMASR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="4-EGYPT",461) MBC Egypt
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="4-EGYPT",462) MBC Egypt 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MBC_Masr_2_Logo.svg/171px-MBC_Masr_2_Logo.svg.png" group-title="4-EGYPT",462) MBC Egypt 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="4-EGYPT",463) MBC Egypt Drama
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
