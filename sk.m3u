@@ -77,19 +77,19 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://logo.iptveditor.com/dmcdrama.png" group-title="5-FilmSeries",511) DMC Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://logo.iptveditor.com/dmcdrama.png" group-title="5-MEDIA",511) DMC Drama
 https://edge66.magictvbox.com/liveApple/ChannelDMC-Drama/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://logo.iptveditor.com/cbcdrama.png" group-title="5-FilmSeries",526) CBC Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://logo.iptveditor.com/cbcdrama.png" group-title="5-MEDIA",526) CBC Drama
 https://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="5-FilmSeries",531) MBC Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="5-MEDIA",531) MBC Drama
 https://edge66.magictvbox.com/liveApple/MBC_Drama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="5-FilmSeries",551) Rotana Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="5-MEDIA",551) Rotana Cinema
 https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0075.elcinema.com/tvguide/1218_1.png" group-title="5-FilmSeries",552) Rotana Aflam
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0075.elcinema.com/tvguide/1218_1.png" group-title="5-MEDIA",552) Rotana Aflam
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="MBCUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="6-GULF",601) MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
