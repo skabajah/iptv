@@ -14,10 +14,10 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Install xmltv (xmltvcat)
+      - name: Install xmltv-utils (xmltvcat)
         run: |
           sudo apt-get update
-          sudo apt-get install -y xmltv
+          sudo apt-get install -y xmltv-utils
 
       - name: Download EPG sources
         run: |
@@ -25,25 +25,30 @@ jobs:
           gunzip -f pluto.xml.gz
           curl -L 'http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v' -o bloomberg.xml
 
-      - name: Merge XMLTV into combined.xml
+      - name: Merge XMLTV into m3u4u.xml
         run: |
-          xmltvcat pluto.xml bloomberg.xml > combined.xml
+          xmltvcat pluto.xml bloomberg.xml > m3u4u.xml
 
-      - name: Verify combined.xml
+      - name: Compress m3u4u.xml to m3u4u.xml.gz
         run: |
-          if [ ! -s combined.xml ]; then
-            echo "Error: combined.xml is missing or empty" >&2
+          gzip -9 -f m3u4u.xml
+
+      - name: Verify m3u4u.xml.gz exists
+        run: |
+          if [ ! -s m3u4u.xml.gz ]; then
+            echo "Error: m3u4u.xml.gz is missing or empty" >&2
             exit 1
           fi
 
-      - name: Commit and push combined.xml
+      - name: Commit and push m3u4u.xml.gz
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [[ `git status --porcelain combined.xml` ]]; then
-            git add combined.xml
-            git commit -m "Automated: merge Pluto & Bloomberg XMLTV → combined.xml"
+          git rm -f m3u4u.xml || true
+          git add m3u4u.xml.gz
+          if [[ `git status --porcelain m3u4u.xml.gz` ]]; then
+            git commit -m "Automated: merge+compress Pluto & Bloomberg → m3u4u.xml.gz"
             git push
           else
-            echo "No changes to combined.xml"
+            echo "No changes to m3u4u.xml.gz"
           fi
