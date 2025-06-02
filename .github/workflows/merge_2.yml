@@ -1,4 +1,4 @@
-name: Merge EPG 2
+name: Merge EPG Streams
 
 permissions:
   contents: write
@@ -9,7 +9,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  merge‐simplified:
+  merge_simplified:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,60 +21,44 @@ jobs:
       - name: Ensure source EPG files exist
         run: |
           if [ ! -f epg/pluto.xml ] || [ ! -f epg/m3u4u.xml ]; then
-            echo "Missing epg/pluto.xml or epg/m3u4u.xml → cannot merge"
+            echo "Missing epg/pluto.xml or epg/m3u4u.xml"
             exit 1
           fi
 
-      - name: Merge only <programme> + <title> into epg/combined.xml
+      - name: Merge only <programme> and <title> into epg/combined.xml
         run: |
           python3 - << 'EOF'
 import xml.etree.ElementTree as ET
 
-# Parse both XMLTV sources
 pluto_tree = ET.parse('epg/pluto.xml')
 m3u4u_tree = ET.parse('epg/m3u4u.xml')
 
 pluto_root = pluto_tree.getroot()
 m3u4u_root = m3u4u_tree.getroot()
 
-# Create a new <tv> element
 combined_root = ET.Element('tv')
 
-# Function to extract simplified programmes
-def extract_simple_programmes(source_root):
-    for prog in source_root.findall('programme'):
-        # Copy only start, stop, channel attributes
-        attrs = {}
-        for key in ('start', 'stop', 'channel'):
-            val = prog.get(key)
-            if val:
-                attrs[key] = val
+def extract_simple_programmes(root):
+    for prog in root.findall('programme'):
+        attrs = {key: prog.get(key) for key in ('start', 'stop', 'channel') if prog.get(key)}
         new_prog = ET.Element('programme', attrs)
-
-        # Copy only <title> (preserving any attributes like lang="en")
         title_elem = prog.find('title')
         if title_elem is not None:
             title = ET.SubElement(new_prog, 'title', title_elem.attrib)
             title.text = title_elem.text
-
         combined_root.append(new_prog)
 
-# Extract from both sources
 extract_simple_programmes(pluto_root)
 extract_simple_programmes(m3u4u_root)
 
-# Write out a single valid XMLTV file
 combined_tree = ET.ElementTree(combined_root)
 combined_tree.write('epg/combined.xml', encoding='utf-8', xml_declaration=True)
 EOF
 
-      - name: Commit & push epg/combined.xml (if changed)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push epg/combined.xml if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           if git diff --quiet epg/combined.xml; then
             echo "No changes in epg/combined.xml"
           else
@@ -82,3 +66,5 @@ EOF
             git commit -m "Update simplified combined EPG"
             git push
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
