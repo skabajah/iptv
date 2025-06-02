@@ -1,0 +1,49 @@
+name: Merge EPG Files
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  merge-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ensure epg/ exists
+        run: |
+          mkdir -p epg
+
+      - name: Merge pluto.xml and m3u4u.xml into combined.xml using built-in tools
+        run: |
+          # 1) Write XML declaration and opening <tv> from pluto.xml
+          head -n 2 epg/pluto.xml > epg/combined.xml
+          # 2) Append all <channel>/<programme> elements from pluto.xml (skip first 2 lines and last </tv>)
+          sed '1,2d; $d' epg/pluto.xml >> epg/combined.xml
+          # 3) Append all <channel>/<programme> elements from m3u4u.xml (skip first 2 lines and last </tv>)
+          sed '1,2d; $d' epg/m3u4u.xml >> epg/combined.xml
+          # 4) Close the root <tv> element
+          echo '</tv>' >> epg/combined.xml
+
+      - name: Commit and push epg/combined.xml (if changed)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet epg/combined.xml; then
+            echo "No changes in epg/combined.xml"
+          else
+            git add epg/combined.xml
+            git commit -m "Update combined EPG"
+            git push
+          fi
