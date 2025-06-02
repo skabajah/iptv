@@ -1,4 +1,4 @@
-name: Merge EPG Streams
+name: merge 2
 
 permissions:
   contents: write
@@ -25,22 +25,19 @@ jobs:
             exit 1
           fi
 
-      - name: Merge only <programme> and <title> into epg/combined.xml
+      - name: Merge <programme> and <title> only into epg/combined.xml
         run: |
           python3 - << 'EOF'
 import xml.etree.ElementTree as ET
 
-pluto_tree = ET.parse('epg/pluto.xml')
-m3u4u_tree = ET.parse('epg/m3u4u.xml')
-
-pluto_root = pluto_tree.getroot()
-m3u4u_root = m3u4u_tree.getroot()
+pluto_root = ET.parse('epg/pluto.xml').getroot()
+m3u4u_root = ET.parse('epg/m3u4u.xml').getroot()
 
 combined_root = ET.Element('tv')
 
 def extract_simple_programmes(root):
     for prog in root.findall('programme'):
-        attrs = {key: prog.get(key) for key in ('start', 'stop', 'channel') if prog.get(key)}
+        attrs = {k: prog.get(k) for k in ('start','stop','channel') if prog.get(k)}
         new_prog = ET.Element('programme', attrs)
         title_elem = prog.find('title')
         if title_elem is not None:
@@ -51,11 +48,12 @@ def extract_simple_programmes(root):
 extract_simple_programmes(pluto_root)
 extract_simple_programmes(m3u4u_root)
 
-combined_tree = ET.ElementTree(combined_root)
-combined_tree.write('epg/combined.xml', encoding='utf-8', xml_declaration=True)
+ET.ElementTree(combined_root).write('epg/combined.xml', encoding='utf-8', xml_declaration=True)
 EOF
 
       - name: Commit and push epg/combined.xml if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -66,5 +64,3 @@ EOF
             git commit -m "Update simplified combined EPG"
             git push
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
