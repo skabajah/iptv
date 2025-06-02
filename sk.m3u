@@ -101,7 +101,7 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://sbctv.sa/assets/images/SBClogo.jpg" group-title="6-GULF",621) SBC
 https://live20.bozztv.com/gin-36bay3/ga-sbc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bit.ly/41KkJOZ" group-title="6-GULF",631) Mashhad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF.png" group-title="6-GULF",631) Mashhad
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2(English).fr" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="6-GULF",641) AlAraby 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
