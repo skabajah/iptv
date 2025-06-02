@@ -25,7 +25,7 @@ jobs:
             exit 1
           fi
 
-      - name: Merge <programme> and <title> only into epg/combined.xml
+      - name: Merge programme and title
         run: |
           python3 - << 'EOF'
 import xml.etree.ElementTree as ET
