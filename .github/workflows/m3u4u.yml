@@ -31,8 +31,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           if git diff --quiet epg/m3u4u.xml; then
             echo "No changes in epg/m3u4u.xml"
           else
             git add epg/m3u4u.xml
+            git commit -m "Update m3u4u EPG"
+            git push
+          fi
