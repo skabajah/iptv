@@ -1,8 +1,8 @@
-name: Download PlutoTV EPG (2)
+name: Download PlutoTV EPG
 
 permissions:
   contents: write
-  
+
 on:
   workflow_dispatch:
   schedule:

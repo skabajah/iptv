@@ -1,4 +1,4 @@
-name: Add PlutoTV EPG to epg Folder
+name: Download m3u4u EPG
 
 permissions:
   contents: write
@@ -9,34 +9,30 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  add-pluto-epg:
+  download-m3u4u:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create epg/ folder
         run: |
           mkdir -p epg
 
-      - name: Download PlutoTV EPG into epg/
+      - name: Download and decompress m3u4u EPG into epg/
         run: |
-          curl -L "https://i.mjh.nz/PlutoTV/us.xml.gz" -o epg/us.xml.gz
+          curl -L "http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v" -o epg/m3u4u.xml.gz
+          gunzip -f epg/m3u4u.xml.gz
 
-      - name: Commit and push epg/us.xml.gz (if changed)
+      - name: Commit and push epg/m3u4u.xml (if changed)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet epg/us.xml.gz; then
-            echo "No changes in epg/us.xml.gz"
+          if git diff --quiet epg/m3u4u.xml; then
+            echo "No changes in epg/m3u4u.xml"
           else
-            git add epg/us.xml.gz
-            git commit -m "Add/update PlutoTV EPG"
-            git push origin HEAD:main
-          fi
+            git add epg/m3u4u.xml
