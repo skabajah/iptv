@@ -14,8 +14,9 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Install xmltv-utils (xmltvcat)
+      - name: Ensure universe repo and install xmltv-utils
         run: |
+          sudo add-apt-repository universe
           sudo apt-get update
           sudo apt-get install -y xmltv-utils
 
