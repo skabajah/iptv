@@ -1,0 +1,38 @@
+name: Download PlutoTV EPG (2)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  download-pluto:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create epg/ folder
+        run: |
+          mkdir -p epg
+
+      - name: Download and decompress PlutoTV EPG into epg/
+        run: |
+          curl -L "https://i.mjh.nz/PlutoTV/us.xml.gz" -o epg/pluto.xml.gz
+          gunzip -f epg/pluto.xml.gz
+
+      - name: Commit and push epg/pluto.xml (if changed)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet epg/pluto.xml; then
+            echo "No changes in epg/pluto.xml"
+          else
+            git add epg/pluto.xml
+            git commit -m "Update PlutoTV EPG"
+            git push
+          fi
