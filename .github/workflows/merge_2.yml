@@ -25,31 +25,31 @@ jobs:
             exit 1
           fi
 
-      - name: Merge programme and title
+      - name: Merge programme and title only into epg/combined.xml
         run: |
           python3 - << 'EOF'
-import xml.etree.ElementTree as ET
+            import xml.etree.ElementTree as ET
 
-pluto_root = ET.parse('epg/pluto.xml').getroot()
-m3u4u_root = ET.parse('epg/m3u4u.xml').getroot()
+            pluto_root = ET.parse('epg/pluto.xml').getroot()
+            m3u4u_root = ET.parse('epg/m3u4u.xml').getroot()
 
-combined_root = ET.Element('tv')
+            combined_root = ET.Element('tv')
 
-def extract_simple_programmes(root):
-    for prog in root.findall('programme'):
-        attrs = {k: prog.get(k) for k in ('start','stop','channel') if prog.get(k)}
-        new_prog = ET.Element('programme', attrs)
-        title_elem = prog.find('title')
-        if title_elem is not None:
-            title = ET.SubElement(new_prog, 'title', title_elem.attrib)
-            title.text = title_elem.text
-        combined_root.append(new_prog)
+            def extract_simple_programmes(root):
+                for prog in root.findall('programme'):
+                    attrs = {k: prog.get(k) for k in ('start', 'stop', 'channel') if prog.get(k)}
+                    new_prog = ET.Element('programme', attrs)
+                    title_elem = prog.find('title')
+                    if title_elem is not None:
+                        title = ET.SubElement(new_prog, 'title', title_elem.attrib)
+                        title.text = title_elem.text
+                    combined_root.append(new_prog)
 
-extract_simple_programmes(pluto_root)
-extract_simple_programmes(m3u4u_root)
+            extract_simple_programmes(pluto_root)
+            extract_simple_programmes(m3u4u_root)
 
-ET.ElementTree(combined_root).write('epg/combined.xml', encoding='utf-8', xml_declaration=True)
-EOF
+            ET.ElementTree(combined_root).write('epg/combined.xml', encoding='utf-8', xml_declaration=True)
+          EOF
 
       - name: Commit and push epg/combined.xml if changed
         env:
