@@ -1,0 +1,42 @@
+name: Add PlutoTV EPG to epg Folder
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  add-pluto-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create epg/ folder
+        run: |
+          mkdir -p epg
+
+      - name: Download PlutoTV EPG into epg/
+        run: |
+          curl -L "https://i.mjh.nz/PlutoTV/us.xml.gz" -o epg/us.xml.gz
+
+      - name: Commit and push epg/us.xml.gz (if changed)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet epg/us.xml.gz; then
+            echo "No changes in epg/us.xml.gz"
+          else
+            git add epg/us.xml.gz
+            git commit -m "Add/update PlutoTV EPG"
+            git push origin HEAD:main
+          fi
