@@ -1,4 +1,4 @@
-name: Merge EPG (Programmes + Titles Only)
+name: Merge EPG 2
 
 permissions:
   contents: write
