@@ -1,4 +1,4 @@
-name: Merge EPG Files
+name: Merge EPG Files (2)
 
 on:
   schedule:
