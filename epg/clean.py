@@ -1,37 +1,51 @@
 import xml.etree.ElementTree as ET
+import xml.dom.minidom as minidom
 
-# Input and output files
-input_file = 'combined.xml'
-output_file = 'cleaned.xml'
+# Files
+tvg_id_file = 'tvg-id'
+input_xml = 'combined.xml'
+output_xml = 'cleaned.xml'
+
+# Read channel IDs from tvg-id file
+with open(tvg_id_file, 'r', encoding='utf-8') as file:
+    channels_to_keep = [
+        line.strip() for line in file
+        if line.strip() and line.strip() != '(no tvg-id)' and line.strip() != 'tvg-id'
+    ]
 
 # Parse input XML
-tree = ET.parse(input_file)
+tree = ET.parse(input_xml)
 root = tree.getroot()
 
-# Create a new root for cleaned XML
+# New filtered root
 new_root = ET.Element('tv', attrib=root.attrib)
 
-# Copy channel elements (only id and display-name)
+# Filter channels
 for channel in root.findall('channel'):
-    new_channel = ET.SubElement(new_root, 'channel', id=channel.get('id'))
-    display_name = channel.find('display-name')
-    if display_name is not None:
-        new_display_name = ET.SubElement(new_channel, 'display-name')
-        new_display_name.text = display_name.text
+    channel_id = channel.get('id')
+    if channel_id in channels_to_keep:
+        new_channel = ET.SubElement(new_root, 'channel', id=channel_id)
+        display_name = channel.find('display-name')
+        if display_name is not None:
+            ET.SubElement(new_channel, 'display-name').text = display_name.text
 
-# Copy programme elements (only start, stop, channel, title)
+# Filter programmes
 for programme in root.findall('programme'):
-    new_programme = ET.SubElement(new_root, 'programme', {
-        'start': programme.get('start'),
-        'stop': programme.get('stop'),
-        'channel': programme.get('channel')
-    })
-    
-    title = programme.find('title')
-    if title is not None:
-        new_title = ET.SubElement(new_programme, 'title')
-        new_title.text = title.text
+    if programme.get('channel') in channels_to_keep:
+        new_programme = ET.SubElement(new_root, 'programme', {
+            'start': programme.get('start'),
+            'stop': programme.get('stop'),
+            'channel': programme.get('channel')
+        })
+        title = programme.find('title')
+        if title is not None:
+            ET.SubElement(new_programme, 'title').text = title.text
 
-# Write cleaned XML to output file
-cleaned_tree = ET.ElementTree(new_root)
-cleaned_tree.write(output_file, encoding='utf-8', xml_declaration=True)
+# Pretty print and save XML
+xml_str = ET.tostring(new_root, encoding='utf-8')
+pretty_xml = minidom.parseString(xml_str).toprettyxml(indent="  ")
+
+with open(output_xml, "w", encoding="utf-8") as f:
+    f.write(pretty_xml)
+
+print(f"Filtered XML written to {output_xml}")
