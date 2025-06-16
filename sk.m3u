@@ -13,6 +13,8 @@ https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="2-LEVANT",201) PSC
 https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" group-title="2-LEVANT",206) Makan
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="2-LEVANT",211) Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="2-LEVANT",221) Roya
@@ -109,13 +111,13 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dubaione-logo.png/480px-Dubaione-logo.png" group-title="6-GULF",652) Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",701) Test Kitchen
+#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",701) Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/thumbnail.jpg" group-title="7-US",711) Logo
+#EXTINF:-1 tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/thumbnail.jpg" group-title="7-US",711) Logo
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
 
