@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v"
+#EXTM3U 
 #EXTINF:-1 tvg-id="AlJazeera(Arabic).uk" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="1-AKHBAR",101) Al Jazeera
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.uk" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="1-AKHBAR",111) Al Sharq
@@ -53,8 +53,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" group-title="3-MUSIC",361) Rotana Clip
 https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="4-EGYPT",401) Egypt 1
-https://edge66.magictvbox.com/liveApple/al_oula_egypt/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Al-Nahar_TV_Logo.png" group-title="4-EGYPT",403) Nahar
 https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
 
@@ -71,8 +71,8 @@ https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
 https://edge66.magictvbox.com/liveApple/el_mehwar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MBCMASR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="4-EGYPT",461) MBC Egypt
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MBC_Masr_2_Logo.svg/171px-MBC_Masr_2_Logo.svg.png" group-title="4-EGYPT",462) MBC Egypt 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="4-EGYPT",463) MBC Egypt Drama
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 
@@ -113,6 +113,12 @@ https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunkli
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",701) Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",702) Test Kitchen 2
+https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/03/cooks-country-logo-vector.png" group-title="7-US",703) Cook"s Country
+https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
+
+
 
 
 
@@ -123,6 +129,8 @@ https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="7-US",716) Bravo Vault
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
 
 
 
@@ -139,6 +147,10 @@ https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ytimg.com/vi/Uf_FEx7CCUA/maxresdefault.jpg" group-title="7-US",741) NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://thedesk.net/wp-content/uploads/2024/06/BLANK-SNL-Vault-Updated-Graphic-Samsung-TV-WEBP-TD.webp" group-title="7-US",741) SNL Vault
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/thumbnail.jpg" group-title="7-US",751) TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
@@ -149,8 +161,8 @@ https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="7-US",763) TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="7-US",765) AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+
 
 
 
@@ -163,8 +175,8 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="POP.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="7-US",774) Pop
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
+
+
 
 
 #EXTINF:-1 tvg-id="WNBC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="7-US",777) NBC DC
@@ -185,8 +197,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="8-NEWS",841) NBC Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="8-NEWS",851) CNN
