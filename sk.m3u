@@ -1,10 +1,10 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v"
 #EXTINF:-1 tvg-id="AlJazeera(Arabic).uk" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="1-AKHBAR",101) Al Jazeera
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.uk" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="1-AKHBAR",111) Al Sharq
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="1-AKHBAR",121) SkyNews Arabia
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
+https://stream.skynewsarabia.com/hls/sna.m3u8
 
 
 #EXTINF:-1 tvg-id="TRTArabi(English).it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" group-title="1-AKHBAR",131) TRT
@@ -98,13 +98,13 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="6-GULF",612) MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png" group-title="6-GULF",614) MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="6-GULF",615) MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://pbs.twimg.com/profile_images/1714633231004233728/KE-De-63_400x400.jpg" group-title="6-GULF",631) Mashhad
-https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/ap-south-1/6313884884001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2(English).fr" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="6-GULF",641) AlAraby 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="6-GULF",651) Dubai
@@ -197,12 +197,12 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 http://dai.google.com/linear/hls/event/PwTJe4aZRvSBjbWY7_VSzA/master.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="8-NEWS",841) NBC Now
-https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="8-NEWS",851) CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="8-NEWS",841) CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="8-NEWS",851) NBC Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
 
 #EXTINF:-1 tvg-id="BBCNews.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png" group-title="8-NEWS",861) BBC News World
