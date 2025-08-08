@@ -36,6 +36,9 @@
 <channel id="MBCUSA.us">
 <display-name>601) MBC 1</display-name>
 </channel>
+<channel id="SkyNewsArabia.uk">
+<display-name>121) SkyNews Arabia</display-name>
+</channel>
 <channel id="TBS.us">
 <display-name>761) TBS</display-name>
 </channel>
@@ -518,258 +521,6 @@
 <title lang="en">lil khabar Baqia</title>
 <desc lang="en"></desc>
 </programme>
-<programme start="20250805000000 +0000" stop="20250805000500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Summary</title>
-<desc lang="en">World news and Arab world developments.</desc>
-</programme>
-<programme start="20250805000500 +0000" stop="20250805005500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">The Interview</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250805005500 +0000" stop="20250805010000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Weather Forecast</title>
-<desc lang="en">Bringing the latest weather news and the forecast.</desc>
-</programme>
-<programme start="20250805010000 +0000" stop="20250805020000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805020000 +0000" stop="20250805020500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Summary</title>
-<desc lang="en">World news and Arab world developments.</desc>
-</programme>
-<programme start="20250805020500 +0000" stop="20250805030000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Doc</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250805030000 +0000" stop="20250805033000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805033000 +0000" stop="20250805040000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">The Observatory</title>
-<desc lang="en">A weekly media-oriented show that features up-to-date Arab and world media issues.</desc>
-</programme>
-<programme start="20250805040000 +0000" stop="20250805043000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805043000 +0000" stop="20250805050000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Behind the News</title>
-<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
-</programme>
-<programme start="20250805050000 +0000" stop="20250805060000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805060000 +0000" stop="20250805060500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805060500 +0000" stop="20250805070000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Al Jazeera This Morning</title>
-<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
-</programme>
-<programme start="20250805070000 +0000" stop="20250805073000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805073000 +0000" stop="20250805080000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">The Traveller</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250805080000 +0000" stop="20250805110000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">This Day</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250805110000 +0000" stop="20250805115500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805115500 +0000" stop="20250805120000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Weather Forecast</title>
-<desc lang="en">Bringing the latest weather news and the forecast.</desc>
-</programme>
-<programme start="20250805120000 +0000" stop="20250805150000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Al Jazeera Midday</title>
-<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
-</programme>
-<programme start="20250805150000 +0000" stop="20250805150300 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805150300 +0000" stop="20250805160000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">The Network</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250805160000 +0000" stop="20250805163000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805163000 +0000" stop="20250805170000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Contemplation</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250805170000 +0000" stop="20250805173000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805173000 +0000" stop="20250805180000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Behind the News</title>
-<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
-</programme>
-<programme start="20250805180000 +0000" stop="20250805200000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805200000 +0000" stop="20250805210000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Today's Harvest</title>
-<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
-</programme>
-<programme start="20250805210000 +0000" stop="20250805225500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Mid Night</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250805225500 +0000" stop="20250805230000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Weather Forecast</title>
-<desc lang="en">Bringing the latest weather news and the forecast.</desc>
-</programme>
-<programme start="20250805230000 +0000" stop="20250805233000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250805233000 +0000" stop="20250806000000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Behind the News</title>
-<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
-</programme>
-<programme start="20250806000000 +0000" stop="20250806000500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Summary</title>
-<desc lang="en">World news and Arab world developments.</desc>
-</programme>
-<programme start="20250806000500 +0000" stop="20250806005500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">A Story and Follow Up</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806005500 +0000" stop="20250806010000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Weather Forecast</title>
-<desc lang="en">Bringing the latest weather news and the forecast.</desc>
-</programme>
-<programme start="20250806010000 +0000" stop="20250806013000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806013000 +0000" stop="20250806020000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">The Observatory</title>
-<desc lang="en">A weekly media-oriented show that features up-to-date Arab and world media issues.</desc>
-</programme>
-<programme start="20250806020000 +0000" stop="20250806020500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Summary</title>
-<desc lang="en">World news and Arab world developments.</desc>
-</programme>
-<programme start="20250806020500 +0000" stop="20250806030000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">The Interview</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806030000 +0000" stop="20250806033000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806033000 +0000" stop="20250806040000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Contemplation</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806040000 +0000" stop="20250806043000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806043000 +0000" stop="20250806050000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Behind the News</title>
-<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
-</programme>
-<programme start="20250806050000 +0000" stop="20250806060000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806060000 +0000" stop="20250806060500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806060500 +0000" stop="20250806070000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Al Jazeera This Morning</title>
-<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
-</programme>
-<programme start="20250806070000 +0000" stop="20250806080000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806080000 +0000" stop="20250806110000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">This Day</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806110000 +0000" stop="20250806115500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806115500 +0000" stop="20250806120000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Weather Forecast</title>
-<desc lang="en">Bringing the latest weather news and the forecast.</desc>
-</programme>
-<programme start="20250806120000 +0000" stop="20250806150000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Al Jazeera Midday</title>
-<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
-</programme>
-<programme start="20250806150000 +0000" stop="20250806150300 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806150300 +0000" stop="20250806160000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">The Network</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806160000 +0000" stop="20250806163000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806163000 +0000" stop="20250806170000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Smart Life</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806170000 +0000" stop="20250806173000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806173000 +0000" stop="20250806180000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Behind the News</title>
-<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
-</programme>
-<programme start="20250806180000 +0000" stop="20250806190500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806190500 +0000" stop="20250806200000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">On the Scale</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806200000 +0000" stop="20250806210000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Today's Harvest</title>
-<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
-</programme>
-<programme start="20250806210000 +0000" stop="20250806225500 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Mid Night</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250806225500 +0000" stop="20250806230000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Weather Forecast</title>
-<desc lang="en">Bringing the latest weather news and the forecast.</desc>
-</programme>
-<programme start="20250806230000 +0000" stop="20250806233000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">News Bulletin</title>
-<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
-</programme>
-<programme start="20250806233000 +0000" stop="20250807000000 +0000" channel="AlJazeera(Arabic).uk">
-<title lang="en">Behind the News</title>
-<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
-</programme>
 <programme start="20250807000000 +0000" stop="20250807000500 +0000" channel="AlJazeera(Arabic).uk">
 <title lang="en">News Summary</title>
 <desc lang="en">World news and Arab world developments.</desc>
@@ -1030,329 +781,257 @@
 <title lang="en">Behind the News</title>
 <desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
 </programme>
-<programme start="20250805000000 +0000" stop="20250805003000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805003000 +0000" stop="20250805010000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250805010000 +0000" stop="20250805020000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Witness</title>
-<desc lang="en-GB">Episode 2 of a doomsday political thriller about brutal consequences of evangelical Christian influence on U.S. foreign policy in the Middle East.</desc>
-</programme>
-<programme start="20250805020000 +0000" stop="20250805023000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805023000 +0000" stop="20250805030000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Talk to Al Jazeera</title>
-<desc lang="en-GB">The world's worst humanitarian crisis, driven by Sudan's war, has displaced a million into Chad. Refugees and UN officials warn: the system is near collapse.</desc>
-</programme>
-<programme start="20250805030000 +0000" stop="20250805033000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805033000 +0000" stop="20250805040000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">India-Pakistan: The New Red Line</title>
-<desc lang="en-GB"></desc>
-</programme>
-<programme start="20250805040000 +0000" stop="20250805043000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805043000 +0000" stop="20250805050000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">The Stream</title>
-<desc lang="en-GB">The Stream is where Al Jazeera's audience becomes a global community.</desc>
-</programme>
-<programme start="20250805050000 +0000" stop="20250805053000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805053000 +0000" stop="20250805060000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250805060000 +0000" stop="20250805063000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805063000 +0000" stop="20250805070000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Egypt Through The Lens</title>
-<desc lang="en-GB">Egypt's leaders seen through pictures from a vast photographic archive, from the earliest images of the royal family in 1836 to the country's first presidents.</desc>
-</programme>
-<programme start="20250805070000 +0000" stop="20250805080000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805080000 +0000" stop="20250805083000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805083000 +0000" stop="20250805090000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Witness</title>
-<desc lang="en-GB">Shurina, cast as a Kamikaze pilot in a school play, travels to WWII memorial sites across Japan to prepare for a performance in Okinawa.</desc>
-</programme>
-<programme start="20250805090000 +0000" stop="20250805093000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805093000 +0000" stop="20250805100000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">The Listening Post</title>
-<desc lang="en-GB">A state backed drive to deport Bengali Muslims from India is being justified and cheered on by the media. Plus: fraught times for US media in Trump's America.</desc>
-</programme>
-<programme start="20250805100000 +0000" stop="20250805110000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805110000 +0000" stop="20250805113000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805113000 +0000" stop="20250805120000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250805120000 +0000" stop="20250805125500 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Al Jazeera World</title>
-<desc lang="en-GB">The dramatic story of the 1988 extra-judicial killing of Yasser Arafat's right-hand man, Khalil al-Wazir, aka Abu Jihad, by Israeli intelligence and commandos.</desc>
-</programme>
-<programme start="20250805125500 +0000" stop="20250805130000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Postscript Plus: A Few Good Hens</title>
-<desc lang="en-GB">An animal therapy program uses hens to ward off loneliness and depression amongst pensioners.</desc>
-</programme>
-<programme start="20250805130000 +0000" stop="20250805140000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805140000 +0000" stop="20250805143000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805143000 +0000" stop="20250805150000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">The Stream</title>
-<desc lang="en-GB">The Stream is where Al Jazeera's audience becomes a global community.</desc>
-</programme>
-<programme start="20250805150000 +0000" stop="20250805160000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805160000 +0000" stop="20250805163000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805163000 +0000" stop="20250805170000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Dying Earth</title>
-<desc lang="en-GB">A look at the environmental challenges for those fighting to save the vital eco-systems of Costa Rica's oceans.</desc>
-</programme>
-<programme start="20250805170000 +0000" stop="20250805173000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805173000 +0000" stop="20250805180000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250805180000 +0000" stop="20250805190000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805190000 +0000" stop="20250805193000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805193000 +0000" stop="20250805200000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">The Bottom Line</title>
-<desc lang="en-GB">The Knight Institute's Jameel Jaffer explains how the U.S. government is imprisoning and expelling people based on their political viewpoints.</desc>
-</programme>
-<programme start="20250805200000 +0000" stop="20250805203000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805203000 +0000" stop="20250805210000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250805210000 +0000" stop="20250805220000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805220000 +0000" stop="20250805223000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805223000 +0000" stop="20250805230000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Al Jazeera Untangles</title>
-<desc lang="en-GB">We are constantly online, but more disconnected than ever.</desc>
-</programme>
-<programme start="20250805230000 +0000" stop="20250805233000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250805233000 +0000" stop="20250806000000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Counting the Cost</title>
-<desc lang="en-GB">The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
-</programme>
-<programme start="20250806000000 +0000" stop="20250806003000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806003000 +0000" stop="20250806010000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250806010000 +0000" stop="20250806020000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Head to Head</title>
-<desc lang="en-GB">Mehdi Hasan goes Head to Head with fmr White House Chief of Staff Mick Mulvaney on his record &amp; Trump's second term in office.</desc>
-</programme>
-<programme start="20250806020000 +0000" stop="20250806023000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806023000 +0000" stop="20250806030000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">The Listening Post</title>
-<desc lang="en-GB">A state backed drive to deport Bengali Muslims from India is being justified and cheered on by the media. Plus: fraught times for US media in Trump's America.</desc>
-</programme>
-<programme start="20250806030000 +0000" stop="20250806033000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806033000 +0000" stop="20250806040000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Witness</title>
-<desc lang="en-GB">Shurina, cast as a Kamikaze pilot in a school play, travels to WWII memorial sites across Japan to prepare for a performance in Okinawa.</desc>
-</programme>
-<programme start="20250806040000 +0000" stop="20250806043000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806043000 +0000" stop="20250806050000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">101 East</title>
-<desc lang="en-GB">101 East investigates the underground surrogacy industry in the Philippines.</desc>
-</programme>
-<programme start="20250806050000 +0000" stop="20250806053000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806053000 +0000" stop="20250806060000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250806060000 +0000" stop="20250806063000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806063000 +0000" stop="20250806070000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Counting the Cost</title>
-<desc lang="en-GB">The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
-</programme>
-<programme start="20250806070000 +0000" stop="20250806080000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806080000 +0000" stop="20250806083000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806083000 +0000" stop="20250806090000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Al Jazeera Untangles</title>
-<desc lang="en-GB">We are constantly online, but more disconnected than ever.</desc>
-</programme>
-<programme start="20250806090000 +0000" stop="20250806093000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806093000 +0000" stop="20250806100000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">The Stream</title>
-<desc lang="en-GB">The Stream is where Al Jazeera's audience becomes a global community.</desc>
-</programme>
-<programme start="20250806100000 +0000" stop="20250806110000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806110000 +0000" stop="20250806113000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806113000 +0000" stop="20250806120000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250806120000 +0000" stop="20250806130000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Witness</title>
-<desc lang="en-GB">A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.</desc>
-</programme>
-<programme start="20250806130000 +0000" stop="20250806140000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806140000 +0000" stop="20250806143000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806143000 +0000" stop="20250806150000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Talk to Al Jazeera</title>
-<desc lang="en-GB">The world's worst humanitarian crisis, driven by Sudan's war, has displaced a million into Chad. Refugees and UN officials warn: the system is near collapse.</desc>
-</programme>
-<programme start="20250806150000 +0000" stop="20250806160000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806160000 +0000" stop="20250806163000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806163000 +0000" stop="20250806170000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">India-Pakistan: The New Red Line</title>
-<desc lang="en-GB"></desc>
-</programme>
-<programme start="20250806170000 +0000" stop="20250806173000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806173000 +0000" stop="20250806180000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250806180000 +0000" stop="20250806190000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806190000 +0000" stop="20250806193000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806193000 +0000" stop="20250806200000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Egypt Through The Lens</title>
-<desc lang="en-GB">Egypt's leaders seen through pictures from a vast photographic archive, from the earliest images of the royal family in 1836 to the country's first presidents.</desc>
-</programme>
-<programme start="20250806200000 +0000" stop="20250806203000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806203000 +0000" stop="20250806210000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Inside Story</title>
-<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-</programme>
-<programme start="20250806210000 +0000" stop="20250806220000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Newshour</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806220000 +0000" stop="20250806223000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806223000 +0000" stop="20250806230000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">People and Power</title>
-<desc lang="en-GB">To privatise or not ? People and Power explores the ideological debate over Argentina's most beloved sport.</desc>
-</programme>
-<programme start="20250806230000 +0000" stop="20250806233000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">News</title>
-<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
-</programme>
-<programme start="20250806233000 +0000" stop="20250807000000 +0000" channel="AlJazeeraEnglish.uk">
-<title lang="en-GB">Dying Earth</title>
-<desc lang="en-GB">A look at the environmental challenges for those fighting to save the vital eco-systems of Costa Rica's oceans.</desc>
+<programme start="20250809000000 +0000" stop="20250809000500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20250809000500 +0000" stop="20250809005500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Scenarios</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809005500 +0000" stop="20250809010000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20250809010000 +0000" stop="20250809010500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20250809010500 +0000" stop="20250809020000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">From Washington</title>
+<desc lang="en">(Arabic) Journalists, analysts and decision-makers talk about the United States.</desc>
+</programme>
+<programme start="20250809020000 +0000" stop="20250809020500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20250809020500 +0000" stop="20250809030000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">On the Scale</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Beyond Authority</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809043000 +0000" stop="20250809050000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20250809050000 +0000" stop="20250809060000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809060000 +0000" stop="20250809060500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809060500 +0000" stop="20250809070000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Al Jazeera This Morning</title>
+<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
+</programme>
+<programme start="20250809070000 +0000" stop="20250809073000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809073000 +0000" stop="20250809080000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Smart Life</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809080000 +0000" stop="20250809110000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">This Day</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809110000 +0000" stop="20250809115500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809115500 +0000" stop="20250809120000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20250809120000 +0000" stop="20250809150000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Al Jazeera Midday</title>
+<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
+</programme>
+<programme start="20250809150000 +0000" stop="20250809160000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809160000 +0000" stop="20250809163000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809163000 +0000" stop="20250809170000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">The Traveller</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809170000 +0000" stop="20250809173000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809173000 +0000" stop="20250809180000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20250809180000 +0000" stop="20250809200000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809200000 +0000" stop="20250809210000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Today's Harvest</title>
+<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
+</programme>
+<programme start="20250809210000 +0000" stop="20250809225500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Mid Night</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809225500 +0000" stop="20250809230000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20250809230000 +0000" stop="20250809233000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250809233000 +0000" stop="20250810000000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20250810000000 +0000" stop="20250810000500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20250810000500 +0000" stop="20250810005500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Private Investigation</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810005500 +0000" stop="20250810010000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20250810010000 +0000" stop="20250810013000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810013000 +0000" stop="20250810020000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Beyond Authority</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810020000 +0000" stop="20250810020500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20250810020500 +0000" stop="20250810030000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Scenarios</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810033000 +0000" stop="20250810040000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">The Traveller</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810040000 +0000" stop="20250810043000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810043000 +0000" stop="20250810050000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20250810050000 +0000" stop="20250810060000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810060000 +0000" stop="20250810060500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810060500 +0000" stop="20250810070000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Al Jazeera This Morning</title>
+<desc lang="en">Starting the day with news brought to you with interviews from Al Jazeera's global teams.</desc>
+</programme>
+<programme start="20250810070000 +0000" stop="20250810070500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Summary</title>
+<desc lang="en">World news and Arab world developments.</desc>
+</programme>
+<programme start="20250810070500 +0000" stop="20250810080000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">From Washington</title>
+<desc lang="en">(Arabic) Journalists, analysts and decision-makers talk about the United States.</desc>
+</programme>
+<programme start="20250810080000 +0000" stop="20250810110000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">This Day</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810110000 +0000" stop="20250810115500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810115500 +0000" stop="20250810120000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20250810120000 +0000" stop="20250810150000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Al Jazeera Midday</title>
+<desc lang="en">Al Jazeera's global team provides today's news and interviews.</desc>
+</programme>
+<programme start="20250810150000 +0000" stop="20250810150300 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810150300 +0000" stop="20250810160000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">The Network</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810160000 +0000" stop="20250810170000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810170000 +0000" stop="20250810173000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810173000 +0000" stop="20250810180000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
+</programme>
+<programme start="20250810180000 +0000" stop="20250810190500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810190500 +0000" stop="20250810200000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">The Interview</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810200000 +0000" stop="20250810210000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Today's Harvest</title>
+<desc lang="en">(Arabic) Combines major headline news of the day with in-depth analysis.</desc>
+</programme>
+<programme start="20250810210000 +0000" stop="20250810225500 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Mid Night</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810225500 +0000" stop="20250810230000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Weather Forecast</title>
+<desc lang="en">Bringing the latest weather news and the forecast.</desc>
+</programme>
+<programme start="20250810230000 +0000" stop="20250810233000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">News Bulletin</title>
+<desc lang="en">(Arabic) International news emphasizing Arabic world developments.</desc>
+</programme>
+<programme start="20250810233000 +0000" stop="20250811000000 +0000" channel="AlJazeera(Arabic).uk">
+<title lang="en">Behind the News</title>
+<desc lang="en">A current affairs daily program looking at a major news story of the day.</desc>
 </programme>
 <programme start="20250807000000 +0000" stop="20250807003000 +0000" channel="AlJazeeraEnglish.uk">
 <title lang="en-GB">News</title>
@@ -1678,6 +1357,334 @@
 <title lang="en-GB">Witness</title>
 <desc lang="en-GB">Shurina, cast as a Kamikaze pilot in a school play, travels to WWII memorial sites across Japan to prepare for a performance in Okinawa.</desc>
 </programme>
+<programme start="20250809000000 +0000" stop="20250809003000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809003000 +0000" stop="20250809010000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250809010000 +0000" stop="20250809020000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Head to Head</title>
+<desc lang="en-GB">Interviews with attitude, tackling the big issues of our time with Mehdi Hasan.</desc>
+</programme>
+<programme start="20250809020000 +0000" stop="20250809023000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809023000 +0000" stop="20250809030000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">People and Power</title>
+<desc lang="en-GB">To privatise or not ? People and Power explores the ideological debate over Argentina's most beloved sport.</desc>
+</programme>
+<programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">101 East</title>
+<desc lang="en-GB">101 East meets the conservationists determined to bring leopard sharks back from the brink of extinction in Indonesia.</desc>
+</programme>
+<programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809043000 +0000" stop="20250809050000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">This Is Europe</title>
+<desc lang="en-GB">On a French housing estate, residents are getting behind the camera to challenge negative stereotypes of the country's multicultural banlieues.</desc>
+</programme>
+<programme start="20250809050000 +0000" stop="20250809053000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809053000 +0000" stop="20250809060000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250809060000 +0000" stop="20250809063000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809063000 +0000" stop="20250809070000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">The Bottom Line</title>
+<desc lang="en-GB">Discussions on US politics and policies.</desc>
+</programme>
+<programme start="20250809070000 +0000" stop="20250809080000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809080000 +0000" stop="20250809083000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809083000 +0000" stop="20250809090000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Counting the Cost</title>
+<desc lang="en-GB">The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.</desc>
+</programme>
+<programme start="20250809090000 +0000" stop="20250809093000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809093000 +0000" stop="20250809100000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">The Stream</title>
+<desc lang="en-GB">The Stream is where Al Jazeera's audience becomes a global community.</desc>
+</programme>
+<programme start="20250809100000 +0000" stop="20250809110000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809110000 +0000" stop="20250809113000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809113000 +0000" stop="20250809120000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250809120000 +0000" stop="20250809125500 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Al Jazeera World</title>
+<desc lang="en-GB">The dramatic story of the 1988 extra-judicial killing of Yasser Arafat's right-hand man, Khalil al-Wazir, aka Abu Jihad, by Israeli intelligence and commandos.</desc>
+</programme>
+<programme start="20250809125500 +0000" stop="20250809130000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Postscript Plus: A Few Good Hens</title>
+<desc lang="en-GB">An animal therapy program uses hens to ward off loneliness and depression amongst pensioners.</desc>
+</programme>
+<programme start="20250809130000 +0000" stop="20250809140000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809140000 +0000" stop="20250809143000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809143000 +0000" stop="20250809150000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">This Is Europe</title>
+<desc lang="en-GB">On a French housing estate, residents are getting behind the camera to challenge negative stereotypes of the country's multicultural banlieues.</desc>
+</programme>
+<programme start="20250809150000 +0000" stop="20250809160000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809160000 +0000" stop="20250809163000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809163000 +0000" stop="20250809170000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">People and Power</title>
+<desc lang="en-GB">To privatise or not ? People and Power explores the ideological debate over Argentina's most beloved sport.</desc>
+</programme>
+<programme start="20250809170000 +0000" stop="20250809173000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809173000 +0000" stop="20250809180000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250809180000 +0000" stop="20250809190000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809190000 +0000" stop="20250809193000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809193000 +0000" stop="20250809200000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Talk to Al Jazeera</title>
+<desc lang="en-GB">A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.</desc>
+</programme>
+<programme start="20250809200000 +0000" stop="20250809203000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809203000 +0000" stop="20250809210000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250809210000 +0000" stop="20250809220000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809220000 +0000" stop="20250809223000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809223000 +0000" stop="20250809230000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Dying Earth</title>
+<desc lang="en-GB">Exploring the impact of Costa Rica's pioneering efforts to prioritise environment over economic growth for its people.</desc>
+</programme>
+<programme start="20250809230000 +0000" stop="20250809233000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250809233000 +0000" stop="20250810000000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Al Jazeera Untangles</title>
+<desc lang="en-GB">We are constantly online, but more disconnected than ever.</desc>
+</programme>
+<programme start="20250810000000 +0000" stop="20250810003000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810003000 +0000" stop="20250810010000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250810010000 +0000" stop="20250810013000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">The Bottom Line</title>
+<desc lang="en-GB">Discussions on US politics and policies.</desc>
+</programme>
+<programme start="20250810013000 +0000" stop="20250810020000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Egypt Through The Lens</title>
+<desc lang="en-GB">Egypt's military history in pictures from a huge photographic archive, from British occupation to the Suez crisis and the Arab-Israeli wars of 1967 and 1973.</desc>
+</programme>
+<programme start="20250810020000 +0000" stop="20250810023000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810023000 +0000" stop="20250810030000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">The Stream</title>
+<desc lang="en-GB">The Stream is where Al Jazeera's audience becomes a global community.</desc>
+</programme>
+<programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810033000 +0000" stop="20250810040000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Counting the Cost</title>
+<desc lang="en-GB">The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.</desc>
+</programme>
+<programme start="20250810040000 +0000" stop="20250810043000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810043000 +0000" stop="20250810050000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Talk to Al Jazeera</title>
+<desc lang="en-GB">A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.</desc>
+</programme>
+<programme start="20250810050000 +0000" stop="20250810053000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810053000 +0000" stop="20250810060000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250810060000 +0000" stop="20250810063000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810063000 +0000" stop="20250810070000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Al Jazeera Untangles</title>
+<desc lang="en-GB">We are constantly online, but more disconnected than ever.</desc>
+</programme>
+<programme start="20250810070000 +0000" stop="20250810080000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810080000 +0000" stop="20250810083000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810083000 +0000" stop="20250810090000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Dying Earth</title>
+<desc lang="en-GB">Exploring the impact of Costa Rica's pioneering efforts to prioritise environment over economic growth for its people.</desc>
+</programme>
+<programme start="20250810090000 +0000" stop="20250810093000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810093000 +0000" stop="20250810100000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">This Is Europe</title>
+<desc lang="en-GB">On a French housing estate, residents are getting behind the camera to challenge negative stereotypes of the country's multicultural banlieues.</desc>
+</programme>
+<programme start="20250810100000 +0000" stop="20250810110000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810110000 +0000" stop="20250810113000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810113000 +0000" stop="20250810120000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250810120000 +0000" stop="20250810130000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Witness</title>
+<desc lang="en-GB">A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.</desc>
+</programme>
+<programme start="20250810130000 +0000" stop="20250810140000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810140000 +0000" stop="20250810143000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810143000 +0000" stop="20250810150000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Talk to Al Jazeera</title>
+<desc lang="en-GB">A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.</desc>
+</programme>
+<programme start="20250810150000 +0000" stop="20250810160000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810160000 +0000" stop="20250810163000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810163000 +0000" stop="20250810170000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">101 East</title>
+<desc lang="en-GB">101 East meets the conservationists determined to bring leopard sharks back from the brink of extinction in Indonesia.</desc>
+</programme>
+<programme start="20250810170000 +0000" stop="20250810173000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810173000 +0000" stop="20250810180000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250810180000 +0000" stop="20250810190000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810190000 +0000" stop="20250810193000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810193000 +0000" stop="20250810200000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Business of War</title>
+<desc lang="en-GB">Hind Hassan explores the US weapons industry - the largest of them all - tracing its impacts on American democracy and beyond.</desc>
+</programme>
+<programme start="20250810200000 +0000" stop="20250810203000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810203000 +0000" stop="20250810210000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Inside Story</title>
+<desc lang="en-GB">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20250810210000 +0000" stop="20250810220000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Newshour</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810220000 +0000" stop="20250810223000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810223000 +0000" stop="20250810230000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">Studio B: Unscripted</title>
+<desc lang="en-GB">Bringing together two people, with different life experiences, in front of a small studio audience. The focus is on what brings people together rather than on differences, and on how people can thoughtfully tackle some of the big issues of our time.</desc>
+</programme>
+<programme start="20250810230000 +0000" stop="20250810233000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">News</title>
+<desc lang="en-GB">Up-to-date news and analysis from around the world.</desc>
+</programme>
+<programme start="20250810233000 +0000" stop="20250811000000 +0000" channel="AlJazeeraEnglish.uk">
+<title lang="en-GB">People and Power</title>
+<desc lang="en-GB">To privatise or not ? People and Power explores the ideological debate over Argentina's most beloved sport.</desc>
+</programme>
 <programme start="20250806000000 +0000" stop="20250806040000 +0000" channel="Arabica.us">
 <title lang="en">Top 10</title>
 <desc lang="en"></desc>
@@ -1870,533 +1877,513 @@
 <title lang="en">Top 10</title>
 <desc lang="en"></desc>
 </programme>
-<programme start="20250805010000 +0000" stop="20250805030000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sabah Asharq</title>
-<desc lang="en-GB">A comprehensive compilation of the latest economic news and updates that concern business leaders and investors around the world, along with an in-depth analysis of the stock market.</desc>
-</programme>
-<programme start="20250805030000 +0000" stop="20250805040000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Jalsah Al Oola</title>
-<desc lang="en-GB">As the KSA market opens at 11 AM, examining the key market movers and the latest business news, including deals and major announcements, with updates on GCC market and timely information on the Egyptian stock market.</desc>
-</programme>
-<programme start="20250805040000 +0000" stop="20250805050000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Mo'asherat Asharq</title>
-<desc lang="en-GB">Covers the opening of the Saudi market, key company news, and updates on Gulf markets, as well as the opening of the Egyptian and European markets. Overview of major macroeconomic stories and data from the region and around the world.</desc>
-</programme>
-<programme start="20250805050000 +0000" stop="20250805060000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Radar Al Aswaq</title>
-<desc lang="en-GB">A thorough roundup of all major financial markets, starting with KSA and GCC markets, followed by European markets and US futures. It includes updates on oil and commodities, with a focus on significant statements and reports.</desc>
-</programme>
-<programme start="20250805060000 +0000" stop="20250805063000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Tahdethat Al Souq</title>
-<desc lang="en-GB">The hosts present the latest news and updates in stock and exchange markets and analyse indicators, charts and activities.</desc>
-</programme>
-<programme start="20250805063000 +0000" stop="20250805083000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Aswaq Asharq</title>
-<desc lang="en-GB">An in-depth analysis of key movers and sectors in the Saudi stock market, complemented by specialised coverage of Saudi-focused topics, ranging from macroeconomics and real estate to the business of sports and entrepreneurship.</desc>
-</programme>
-<programme start="20250805083000 +0000" stop="20250805090000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Tahdethat Al Souq</title>
-<desc lang="en-GB">The hosts present the latest news and updates in stock and exchange markets and analyse indicators, charts and activities.</desc>
-</programme>
-<programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250805100000 +0000" stop="20250805110000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250805110000 +0000" stop="20250805115000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sharq Gharb</title>
-<desc lang="en-GB">A comprehensive magazine covering market movements from KSA and GCC closures to European and US markets, including oil, gold, and cryptocurrencies. It also features key topics like AI, ESG, real estate, and women empowerment.</desc>
-</programme>
-<programme start="20250805115000 +0000" stop="20250805120000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Hakaya Wa Nas</title>
-<desc lang="en-GB">Short stories, around five minutes each, told by regular people. What makes them special are the important events and experiences that changed their lives and made them unique in their communities.</desc>
-</programme>
-<programme start="20250805120000 +0000" stop="20250805125000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Jalsat Al Masa'</title>
-<desc lang="en-GB">Focuses on the American markets, news of major tech, energy, and global banking companies, and wealth management. It also covers the closing of European exchanges and movements in commodities and currencies.</desc>
-</programme>
-<programme start="20250805125000 +0000" stop="20250805130000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Hakaya Wa Nas</title>
-<desc lang="en-GB">Short stories, around five minutes each, told by regular people. What makes them special are the important events and experiences that changed their lives and made them unique in their communities.</desc>
-</programme>
-<programme start="20250805130000 +0000" stop="20250805135000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Bu'd Al Rabi'</title>
-<desc lang="en-GB">The hosts invite prominent personalities to discuss an array of political topics and highlight the latest regional and international updates, news and developments.</desc>
-</programme>
-<programme start="20250805135000 +0000" stop="20250805140000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Hakaya Wa Nas</title>
-<desc lang="en-GB">Short stories, around five minutes each, told by regular people. What makes them special are the important events and experiences that changed their lives and made them unique in their communities.</desc>
-</programme>
-<programme start="20250805140000 +0000" stop="20250805145000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Masaa' Asharq</title>
-<desc lang="en-GB">The presenter reviews the most important daily news related to various fields, with the aim of informing the viewer of the most important events around the world.</desc>
-</programme>
-<programme start="20250805145000 +0000" stop="20250805150000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Hakaya Wa Nas</title>
-<desc lang="en-GB">Short stories, around five minutes each, told by regular people. What makes them special are the important events and experiences that changed their lives and made them unique in their communities.</desc>
-</programme>
-<programme start="20250805150000 +0000" stop="20250805155000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Da'erat Asharq</title>
-<desc lang="en-GB">The host sheds light on the latest news updates and current affairs in the region and the world to highlight different perspectives with experts.</desc>
-</programme>
-<programme start="20250805155000 +0000" stop="20250805160000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Hakaya Wa Nas</title>
-<desc lang="en-GB">Short stories, around five minutes each, told by regular people. What makes them special are the important events and experiences that changed their lives and made them unique in their communities.</desc>
-</programme>
-<programme start="20250805160000 +0000" stop="20250805170000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Alwan Asharq</title>
-<desc lang="en-GB">A colourful visual news magazine, where red represents politics. Various colours and topics are presented including socio-economic issues, sports, technology, science, health, art and culture.</desc>
-</programme>
-<programme start="20250805170000 +0000" stop="20250805175000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Ertedad Sharqan</title>
-<desc lang="en-GB">Examines the most prominent global developments that take place daily in terms of their expected impacts on the Arab region.</desc>
-</programme>
-<programme start="20250805175000 +0000" stop="20250805180000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Hakaya Wa Nas</title>
-<desc lang="en-GB">Short stories, around five minutes each, told by regular people. What makes them special are the important events and experiences that changed their lives and made them unique in their communities.</desc>
-</programme>
-<programme start="20250805180000 +0000" stop="20250805190000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250805190000 +0000" stop="20250805190500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250805190500 +0000" stop="20250805200000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Bu'd Al Rabi'</title>
-<desc lang="en-GB">The hosts invite prominent personalities to discuss an array of political topics and highlight the latest regional and international updates, news and developments.</desc>
-</programme>
-<programme start="20250805200000 +0000" stop="20250805200500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250805200500 +0000" stop="20250805210000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Da'erat Asharq</title>
-<desc lang="en-GB">The host sheds light on the latest news updates and current affairs in the region and the world to highlight different perspectives with experts.</desc>
-</programme>
-<programme start="20250805210000 +0000" stop="20250805210500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250805210500 +0000" stop="20250805220000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sharq Gharb</title>
-<desc lang="en-GB">A comprehensive magazine covering market movements from KSA and GCC closures to European and US markets, including oil, gold, and cryptocurrencies. It also features key topics like AI, ESG, real estate, and women empowerment.</desc>
-</programme>
-<programme start="20250805220000 +0000" stop="20250805220500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250805220500 +0000" stop="20250805230000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ala Al Houdod</title>
-<desc lang="en-GB">After confidential negotiations, the US-Iran prisoner deal comes out over Qatar and Oman role and funds. How does Biden manage opponents in heated elections after enrichment peaked and what are the agreement's regional dimensions?</desc>
-</programme>
-<programme start="20250805230000 +0000" stop="20250806010000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">The Asia Trade</title>
-<desc lang="en-GB">The hosts interact with entrepreneurs and experts who share their perspectives on several topics pertaining to finance and business topics.</desc>
-</programme>
-<programme start="20250806010000 +0000" stop="20250806030000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sabah Asharq</title>
-<desc lang="en-GB">A comprehensive compilation of the latest economic news and updates that concern business leaders and investors around the world, along with an in-depth analysis of the stock market.</desc>
-</programme>
-<programme start="20250806030000 +0000" stop="20250806040000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Jalsah Al Oola</title>
-<desc lang="en-GB">As the KSA market opens at 11 AM, examining the key market movers and the latest business news, including deals and major announcements, with updates on GCC market and timely information on the Egyptian stock market.</desc>
-</programme>
-<programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Mo'asherat Asharq</title>
-<desc lang="en-GB">Covers the opening of the Saudi market, key company news, and updates on Gulf markets, as well as the opening of the Egyptian and European markets. Overview of major macroeconomic stories and data from the region and around the world.</desc>
-</programme>
-<programme start="20250806050000 +0000" stop="20250806060000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Radar Al Aswaq</title>
-<desc lang="en-GB">A thorough roundup of all major financial markets, starting with KSA and GCC markets, followed by European markets and US futures. It includes updates on oil and commodities, with a focus on significant statements and reports.</desc>
-</programme>
-<programme start="20250806060000 +0000" stop="20250806063000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Tahdethat Al Souq</title>
-<desc lang="en-GB">The hosts present the latest news and updates in stock and exchange markets and analyse indicators, charts and activities.</desc>
-</programme>
-<programme start="20250806063000 +0000" stop="20250806083000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Aswaq Asharq</title>
-<desc lang="en-GB">An in-depth analysis of key movers and sectors in the Saudi stock market, complemented by specialised coverage of Saudi-focused topics, ranging from macroeconomics and real estate to the business of sports and entrepreneurship.</desc>
-</programme>
-<programme start="20250806083000 +0000" stop="20250806090000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Tahdethat Al Souq</title>
-<desc lang="en-GB">The hosts present the latest news and updates in stock and exchange markets and analyse indicators, charts and activities.</desc>
-</programme>
-<programme start="20250806090000 +0000" stop="20250806100000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250806100000 +0000" stop="20250806100500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250806100500 +0000" stop="20250806110000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Dhayfi Ma' Moataz El Demerdash</title>
-<desc lang="en-GB">The host invites various prominent personalities from different walks of life to talk about their professional and personal lives while highlighting their success stories.</desc>
-</programme>
-<programme start="20250806110000 +0000" stop="20250806115000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sharq Gharb</title>
-<desc lang="en-GB">A comprehensive magazine covering market movements from KSA and GCC closures to European and US markets, including oil, gold, and cryptocurrencies. It also features key topics like AI, ESG, real estate, and women empowerment.</desc>
-</programme>
-<programme start="20250806115000 +0000" stop="20250806120000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Asharq Cinema</title>
-<desc lang="en-GB">A closer look at the world of cinema in all its details. A review of the most prominent and recent films on the Arab and international levels, special interviews with filmmakers and pioneers of the cinema world, and a critical look at artworks.</desc>
-</programme>
-<programme start="20250806120000 +0000" stop="20250806125000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Jalsat Al Masa'</title>
-<desc lang="en-GB">Focuses on the American markets, news of major tech, energy, and global banking companies, and wealth management. It also covers the closing of European exchanges and movements in commodities and currencies.</desc>
-</programme>
-<programme start="20250806125000 +0000" stop="20250806130000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Asharq Cinema</title>
-<desc lang="en-GB">A closer look at the world of cinema in all its details. A review of the most prominent and recent films on the Arab and international levels, special interviews with filmmakers and pioneers of the cinema world, and a critical look at artworks.</desc>
-</programme>
-<programme start="20250806130000 +0000" stop="20250806135000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Bu'd Al Rabi'</title>
-<desc lang="en-GB">The hosts invite prominent personalities to discuss an array of political topics and highlight the latest regional and international updates, news and developments.</desc>
-</programme>
-<programme start="20250806135000 +0000" stop="20250806140000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Asharq Cinema</title>
-<desc lang="en-GB">A closer look at the world of cinema in all its details. A review of the most prominent and recent films on the Arab and international levels, special interviews with filmmakers and pioneers of the cinema world, and a critical look at artworks.</desc>
-</programme>
-<programme start="20250806140000 +0000" stop="20250806145000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Masaa' Asharq</title>
-<desc lang="en-GB">The presenter reviews the most important daily news related to various fields, with the aim of informing the viewer of the most important events around the world.</desc>
-</programme>
-<programme start="20250806145000 +0000" stop="20250806150000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Asharq Cinema</title>
-<desc lang="en-GB">A closer look at the world of cinema in all its details. A review of the most prominent and recent films on the Arab and international levels, special interviews with filmmakers and pioneers of the cinema world, and a critical look at artworks.</desc>
-</programme>
-<programme start="20250806150000 +0000" stop="20250806155000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Da'erat Asharq</title>
-<desc lang="en-GB">The host sheds light on the latest news updates and current affairs in the region and the world to highlight different perspectives with experts.</desc>
-</programme>
-<programme start="20250806155000 +0000" stop="20250806160000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Asharq Cinema</title>
-<desc lang="en-GB">A closer look at the world of cinema in all its details. A review of the most prominent and recent films on the Arab and international levels, special interviews with filmmakers and pioneers of the cinema world, and a critical look at artworks.</desc>
-</programme>
-<programme start="20250806160000 +0000" stop="20250806170000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Alwan Asharq</title>
-<desc lang="en-GB">A colourful visual news magazine, where red represents politics. Various colours and topics are presented including socio-economic issues, sports, technology, science, health, art and culture.</desc>
-</programme>
-<programme start="20250806170000 +0000" stop="20250806175000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Ertedad Sharqan</title>
-<desc lang="en-GB">Examines the most prominent global developments that take place daily in terms of their expected impacts on the Arab region.</desc>
-</programme>
-<programme start="20250806175000 +0000" stop="20250806180000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Asharq Cinema</title>
-<desc lang="en-GB">A closer look at the world of cinema in all its details. A review of the most prominent and recent films on the Arab and international levels, special interviews with filmmakers and pioneers of the cinema world, and a critical look at artworks.</desc>
-</programme>
-<programme start="20250806180000 +0000" stop="20250806190000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250806190000 +0000" stop="20250806190500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250806190500 +0000" stop="20250806200000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Bu'd Al Rabi'</title>
-<desc lang="en-GB">The hosts invite prominent personalities to discuss an array of political topics and highlight the latest regional and international updates, news and developments.</desc>
-</programme>
-<programme start="20250806200000 +0000" stop="20250806200500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250806200500 +0000" stop="20250806210000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Da'erat Asharq</title>
-<desc lang="en-GB">The host sheds light on the latest news updates and current affairs in the region and the world to highlight different perspectives with experts.</desc>
-</programme>
-<programme start="20250806210000 +0000" stop="20250806210500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250806210500 +0000" stop="20250806220000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sharq Gharb</title>
-<desc lang="en-GB">A comprehensive magazine covering market movements from KSA and GCC closures to European and US markets, including oil, gold, and cryptocurrencies. It also features key topics like AI, ESG, real estate, and women empowerment.</desc>
-</programme>
-<programme start="20250806220000 +0000" stop="20250806220500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250806220500 +0000" stop="20250806230000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Kilfat Al Thaka' Al Estena'i</title>
-<desc lang="en-GB">What lies behind the allure of Artificial Intelligence? We explore the reality of Silicon Valley's AI industry, revealing its environmental impact and exploitation of labour, as it demands vast resources to fuel its growth.</desc>
-</programme>
-<programme start="20250806230000 +0000" stop="20250807010000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">The Asia Trade</title>
-<desc lang="en-GB">The hosts interact with entrepreneurs and experts who share their perspectives on several topics pertaining to finance and business topics.</desc>
+<programme start="20250807000000 +0000" stop="20250807010000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
 <programme start="20250807010000 +0000" stop="20250807030000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sabah Asharq</title>
-<desc lang="en-GB">A comprehensive compilation of the latest economic news and updates that concern business leaders and investors around the world, along with an in-depth analysis of the stock market.</desc>
+<title lang="en">Da'erat Asharq</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250807030000 +0000" stop="20250807040000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Jalsah Al Oola</title>
-<desc lang="en-GB">As the KSA market opens at 11 AM, examining the key market movers and the latest business news, including deals and major announcements, with updates on GCC market and timely information on the Egyptian stock market.</desc>
+<title lang="en">Alwan Ashaq</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250807040000 +0000" stop="20250807050000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Mo'asherat Asharq</title>
-<desc lang="en-GB">Covers the opening of the Saudi market, key company news, and updates on Gulf markets, as well as the opening of the Egyptian and European markets. Overview of major macroeconomic stories and data from the region and around the world.</desc>
+<title lang="en">Al Itidad Shaqan</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250807050000 +0000" stop="20250807060000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Radar Al Aswaq</title>
-<desc lang="en-GB">A thorough roundup of all major financial markets, starting with KSA and GCC markets, followed by European markets and US futures. It includes updates on oil and commodities, with a focus on significant statements and reports.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250807060000 +0000" stop="20250807063000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Taqreer Asia</title>
-<desc lang="en-GB">Developments in Asian economies and markets, key issues and updates. Real estate, financial, technology, and banking companies news.</desc>
+<programme start="20250807060000 +0000" stop="20250807060500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250807063000 +0000" stop="20250807083000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Aswaq Asharq</title>
-<desc lang="en-GB">An in-depth analysis of key movers and sectors in the Saudi stock market, complemented by specialised coverage of Saudi-focused topics, ranging from macroeconomics and real estate to the business of sports and entrepreneurship.</desc>
+<programme start="20250807060500 +0000" stop="20250807070000 +0000" channel="AsharqNews.uk">
+<title lang="en">Jalsat Al Masa'</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
 </programme>
-<programme start="20250807083000 +0000" stop="20250807090000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Tahdethat Al Souq</title>
-<desc lang="en-GB">The hosts present the latest news and updates in stock and exchange markets and analyse indicators, charts and activities.</desc>
+<programme start="20250807070000 +0000" stop="20250807070500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250807070500 +0000" stop="20250807080000 +0000" channel="AsharqNews.uk">
+<title lang="en">Da'eat Ashaq PT 1</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250807080000 +0000" stop="20250807080500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250807080500 +0000" stop="20250807081500 +0000" channel="AsharqNews.uk">
+<title lang="en">Da'eat Ashaq PT 2</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250807081500 +0000" stop="20250807090000 +0000" channel="AsharqNews.uk">
+<title lang="en">Ma' Wa Dhed</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250807090000 +0000" stop="20250807093000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250807093000 +0000" stop="20250807100000 +0000" channel="AsharqNews.uk">
+<title lang="en">Mo'a Sheat Ashaq</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<title lang="en">Aswaq Ashaq</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250807110000 +0000" stop="20250807115000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sharq Gharb</title>
-<desc lang="en-GB">A comprehensive magazine covering market movements from KSA and GCC closures to European and US markets, including oil, gold, and cryptocurrencies. It also features key topics like AI, ESG, real estate, and women empowerment.</desc>
+<programme start="20250807110000 +0000" stop="20250807120000 +0000" channel="AsharqNews.uk">
+<title lang="en">Sharq W Gharb</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250807115000 +0000" stop="20250807120000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ayam Saudia</title>
-<desc lang="en-GB">From an early age, Mahmoud Zaini was fascinated by the world of images and animation. This passion wasn't just a passing hobby, it turned into a goal that he pursued with determination.</desc>
+<programme start="20250807120000 +0000" stop="20250807130000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250807120000 +0000" stop="20250807125000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Jalsat Al Masa'</title>
-<desc lang="en-GB">Focuses on the American markets, news of major tech, energy, and global banking companies, and wealth management. It also covers the closing of European exchanges and movements in commodities and currencies.</desc>
+<programme start="20250807130000 +0000" stop="20250807140000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250807125000 +0000" stop="20250807130000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ayam Saudia</title>
-<desc lang="en-GB">From an early age, Mahmoud Zaini was fascinated by the world of images and animation. This passion wasn't just a passing hobby, it turned into a goal that he pursued with determination.</desc>
+<programme start="20250807140000 +0000" stop="20250807141000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250807130000 +0000" stop="20250807135000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250807141000 +0000" stop="20250807150000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al abet</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250807135000 +0000" stop="20250807140000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ayam Saudia</title>
-<desc lang="en-GB">From an early age, Mahmoud Zaini was fascinated by the world of images and animation. This passion wasn't just a passing hobby, it turned into a goal that he pursued with determination.</desc>
-</programme>
-<programme start="20250807140000 +0000" stop="20250807145000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Masaa' Asharq</title>
-<desc lang="en-GB">The presenter reviews the most important daily news related to various fields, with the aim of informing the viewer of the most important events around the world.</desc>
-</programme>
-<programme start="20250807145000 +0000" stop="20250807150000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ayam Saudia</title>
-<desc lang="en-GB">From an early age, Mahmoud Zaini was fascinated by the world of images and animation. This passion wasn't just a passing hobby, it turned into a goal that he pursued with determination.</desc>
-</programme>
-<programme start="20250807150000 +0000" stop="20250807155000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Da'erat Asharq</title>
-<desc lang="en-GB">The host sheds light on the latest news updates and current affairs in the region and the world to highlight different perspectives with experts.</desc>
-</programme>
-<programme start="20250807155000 +0000" stop="20250807160000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ayam Saudia</title>
-<desc lang="en-GB">From an early age, Mahmoud Zaini was fascinated by the world of images and animation. This passion wasn't just a passing hobby, it turned into a goal that he pursued with determination.</desc>
+<programme start="20250807150000 +0000" stop="20250807160000 +0000" channel="AsharqNews.uk">
+<title lang="en">Jalsat Al Masa'</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
 </programme>
 <programme start="20250807160000 +0000" stop="20250807170000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Alwan Asharq</title>
-<desc lang="en-GB">A colourful visual news magazine, where red represents politics. Various colours and topics are presented including socio-economic issues, sports, technology, science, health, art and culture.</desc>
+<title lang="en">Alwan Ashaq</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250807170000 +0000" stop="20250807175000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Ertedad Sharqan</title>
-<desc lang="en-GB">Examines the most prominent global developments that take place daily in terms of their expected impacts on the Arab region.</desc>
+<programme start="20250807170000 +0000" stop="20250807190000 +0000" channel="AsharqNews.uk">
+<title lang="en">Da'eat Ashaq PT 1</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250807175000 +0000" stop="20250807180000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ayam Saudia</title>
-<desc lang="en-GB">From an early age, Mahmoud Zaini was fascinated by the world of images and animation. This passion wasn't just a passing hobby, it turned into a goal that he pursued with determination.</desc>
+<programme start="20250807190000 +0000" stop="20250807200000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250807180000 +0000" stop="20250807190000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250807200000 +0000" stop="20250807210000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Itidad Shaqan</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250807190000 +0000" stop="20250807190500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250807190500 +0000" stop="20250807200000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Jalsat Al Masa'</title>
-<desc lang="en-GB">Focuses on the American markets, news of major tech, energy, and global banking companies, and wealth management. It also covers the closing of European exchanges and movements in commodities and currencies.</desc>
-</programme>
-<programme start="20250807200000 +0000" stop="20250807200500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250807200500 +0000" stop="20250807210000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Da'erat Asharq</title>
-<desc lang="en-GB">The host sheds light on the latest news updates and current affairs in the region and the world to highlight different perspectives with experts.</desc>
-</programme>
-<programme start="20250807210000 +0000" stop="20250807210500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250807210500 +0000" stop="20250807220000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Sharq Gharb</title>
-<desc lang="en-GB">A comprehensive magazine covering market movements from KSA and GCC closures to European and US markets, including oil, gold, and cryptocurrencies. It also features key topics like AI, ESG, real estate, and women empowerment.</desc>
+<programme start="20250807210000 +0000" stop="20250807220000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
 <programme start="20250807220000 +0000" stop="20250807220500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
 <programme start="20250807220500 +0000" stop="20250807230000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Rihlat Ma'a Al Taqa</title>
-<desc lang="en-GB">Exploring clean energy investments, oil market challenges, electric vehicle advancements, and countries' experiences with renewable energy and modern technologies.</desc>
+<title lang="en">Jalsat Al Masa'</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
 </programme>
-<programme start="20250807230000 +0000" stop="20250808010000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">The Asia Trade</title>
-<desc lang="en-GB">The hosts interact with entrepreneurs and experts who share their perspectives on several topics pertaining to finance and business topics.</desc>
+<programme start="20250807230000 +0000" stop="20250807230500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808010000 +0000" stop="20250808013000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250807230500 +0000" stop="20250808000000 +0000" channel="AsharqNews.uk">
+<title lang="en">Da'eat Ashaq PT 1</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808013000 +0000" stop="20250808020000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Kayfa Dalat T'aerat Boeing T'reqha</title>
-<desc lang="en-GB">Boeing is an American institution, but one year after the grounding of the 737 Max, the company's future is anything but certain. So what were Boeing's failures in the aftermath of two tragedies in which the flawed plane crashed, killing 346 people?</desc>
+<programme start="20250808000000 +0000" stop="20250808000500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808020000 +0000" stop="20250808025000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808000500 +0000" stop="20250808010000 +0000" channel="AsharqNews.uk">
+<title lang="en">Da'eat Ashaq PT 2</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808025000 +0000" stop="20250808030000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Hakaya Wa Nas</title>
-<desc lang="en-GB">Short stories, around five minutes each, told by regular people. What makes them special are the important events and experiences that changed their lives and made them unique in their communities.</desc>
+<programme start="20250808010000 +0000" stop="20250808011500 +0000" channel="AsharqNews.uk">
+<title lang="en">NEWS 15 Minutes</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
 </programme>
-<programme start="20250808030000 +0000" stop="20250808035000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808011500 +0000" stop="20250808020000 +0000" channel="AsharqNews.uk">
+<title lang="en">Health Prog/Doc</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808035000 +0000" stop="20250808040000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Le Al Najah Qessah</title>
-<desc lang="en-GB">Individuals from various backgrounds talk about their journey towards success and how they have managed to achieve what they want despite the obstacles they come across.</desc>
+<programme start="20250808020000 +0000" stop="20250808021000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250808021000 +0000" stop="20250808030000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al abet</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250808030000 +0000" stop="20250808033000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250808033000 +0000" stop="20250808040000 +0000" channel="AsharqNews.uk">
+<title lang="en">DOC</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250808040000 +0000" stop="20250808043000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
 <programme start="20250808043000 +0000" stop="20250808050000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Souq E'adat Al Bayh</title>
-<desc lang="en-GB"></desc>
+<title lang="en">In House Fillers</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808050000 +0000" stop="20250808060000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808050000 +0000" stop="20250808053000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808060000 +0000" stop="20250808063000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Tahdethat Al Souq</title>
-<desc lang="en-GB">The hosts present the latest news and updates in stock and exchange markets and analyse indicators, charts and activities.</desc>
+<programme start="20250808053000 +0000" stop="20250808060000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808063000 +0000" stop="20250808070000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">The David Rubenstein Show</title>
-<desc lang="en-GB">Financier and philanthropist David Rubenstein talks with his peers - leaders of some of America's biggest companies - in this interview show that aims to answer the question of what makes a great leader. Rubenstein uses his chats to explore successful leadership skills through the personal and professional choices made by the business world's most influential people. Rubenstein travels across the country to find out about the business leaders' stories and uncover information about their paths to success. The interview subjects include Microsoft co-founder Bill Gates, Berkshire Hathaway chairman Warren Buffett, and Pepsi CEO Indra Nooyi.</desc>
+<programme start="20250808060000 +0000" stop="20250808070000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808070000 +0000" stop="20250808080000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Asharq Business Week</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and most important news stories, updates and developments from the world of business from around the globe.</desc>
+<programme start="20250808070000 +0000" stop="20250808073000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808080000 +0000" stop="20250808083000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808073000 +0000" stop="20250808080000 +0000" channel="AsharqNews.uk">
+<title lang="en">Documentary</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808083000 +0000" stop="20250808090000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Taqa Plus</title>
-<desc lang="en-GB">Covers the latest developments in the energy economy and its main drivers, focusing on the future of the sector in the region and the world. it explores energy issues, the environment, clean energy, and sector technologies.</desc>
+<programme start="20250808080000 +0000" stop="20250808080500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250808080500 +0000" stop="20250808090000 +0000" channel="AsharqNews.uk">
+<title lang="en">Thur Slot Health Segment</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250808090000 +0000" stop="20250808100000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808100000 +0000" stop="20250808100500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808100000 +0000" stop="20250808110000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808100500 +0000" stop="20250808110000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Kilfat Al Thaka' Al Estena'i</title>
-<desc lang="en-GB">What lies behind the allure of Artificial Intelligence? We explore the reality of Silicon Valley's AI industry, revealing its environmental impact and exploitation of labour, as it demands vast resources to fuel its growth.</desc>
+<programme start="20250808110000 +0000" stop="20250808110500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808110000 +0000" stop="20250808120000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808110500 +0000" stop="20250808120000 +0000" channel="AsharqNews.uk">
+<title lang="en">TAQA PLUS</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250808120000 +0000" stop="20250808130000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Jalsat Al Masa'</title>
-<desc lang="en-GB">Focuses on the American markets, news of major tech, energy, and global banking companies, and wealth management. It also covers the closing of European exchanges and movements in commodities and currencies.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
 <programme start="20250808130000 +0000" stop="20250808130500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
 <programme start="20250808130500 +0000" stop="20250808140000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Dhayfi Ma' Moataz El Demerdash</title>
-<desc lang="en-GB">The host invites various prominent personalities from different walks of life to talk about their professional and personal lives while highlighting their success stories.</desc>
+<title lang="en">Documentary</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808140000 +0000" stop="20250808150000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808140000 +0000" stop="20250808141000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808150000 +0000" stop="20250808150500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808141000 +0000" stop="20250808150000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al abet</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808150500 +0000" stop="20250808160000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ala Al Houdod</title>
-<desc lang="en-GB">After confidential negotiations, the US-Iran prisoner deal comes out over Qatar and Oman role and funds. How does Biden manage opponents in heated elections after enrichment peaked and what are the agreement's regional dimensions?</desc>
+<programme start="20250808150000 +0000" stop="20250808160000 +0000" channel="AsharqNews.uk">
+<title lang="en">Jalsat Al Masa'</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
 </programme>
 <programme start="20250808160000 +0000" stop="20250808170000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Alwan Asharq</title>
-<desc lang="en-GB">A colourful visual news magazine, where red represents politics. Various colours and topics are presented including socio-economic issues, sports, technology, science, health, art and culture.</desc>
+<title lang="en">Alwan Ashaq</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250808170000 +0000" stop="20250808180000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Al Ertedad Sharqan</title>
-<desc lang="en-GB">Examines the most prominent global developments that take place daily in terms of their expected impacts on the Arab region.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808180000 +0000" stop="20250808190000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808180000 +0000" stop="20250808181500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250808181500 +0000" stop="20250808190000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Madar</title>
+<desc lang="en">News and news analysis.</desc>
 </programme>
 <programme start="20250808190000 +0000" stop="20250808200000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808200000 +0000" stop="20250808200500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808200000 +0000" stop="20250808210000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Itidad Shaqan</title>
+<desc lang="en"></desc>
 </programme>
-<programme start="20250808200500 +0000" stop="20250808210000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Dhayfi Ma' Moataz El Demerdash</title>
-<desc lang="en-GB">The host invites various prominent personalities from different walks of life to talk about their professional and personal lives while highlighting their success stories.</desc>
+<programme start="20250808210000 +0000" stop="20250808220000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808210000 +0000" stop="20250808210500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808220000 +0000" stop="20250808220500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
-<programme start="20250808210500 +0000" stop="20250808220000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Ala Al Houdod</title>
-<desc lang="en-GB">After confidential negotiations, the US-Iran prisoner deal comes out over Qatar and Oman role and funds. How does Biden manage opponents in heated elections after enrichment peaked and what are the agreement's regional dimensions?</desc>
-</programme>
-<programme start="20250808220000 +0000" stop="20250808230000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<programme start="20250808220500 +0000" stop="20250808230000 +0000" channel="AsharqNews.uk">
+<title lang="en">DOC</title>
+<desc lang="en"></desc>
 </programme>
 <programme start="20250808230000 +0000" stop="20250808230500 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Akhbar Asharq</title>
-<desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
 </programme>
 <programme start="20250808230500 +0000" stop="20250809000000 +0000" channel="AsharqNews.uk">
-<title lang="en-GB">Dhayfi Ma' Moataz El Demerdash</title>
-<desc lang="en-GB">The host invites various prominent personalities from different walks of life to talk about their professional and personal lives while highlighting their success stories.</desc>
+<title lang="en">Ba'ad Heen / DOC</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809000000 +0000" stop="20250809000500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809000500 +0000" stop="20250809100000 +0000" channel="AsharqNews.uk">
+<title lang="en">DOC</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809100000 +0000" stop="20250809110000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809110000 +0000" stop="20250809110500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809110500 +0000" stop="20250809120000 +0000" channel="AsharqNews.uk">
+<title lang="en">Prog RPT</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809120000 +0000" stop="20250809130000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809130000 +0000" stop="20250809130500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809130500 +0000" stop="20250809140000 +0000" channel="AsharqNews.uk">
+<title lang="en">Documentary</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809140000 +0000" stop="20250809141000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809141000 +0000" stop="20250809150000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al abet</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809150000 +0000" stop="20250809153000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809153000 +0000" stop="20250809160000 +0000" channel="AsharqNews.uk">
+<title lang="en">TAQA PLUS</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809160000 +0000" stop="20250809170000 +0000" channel="AsharqNews.uk">
+<title lang="en">Alwan Ashaq</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809170000 +0000" stop="20250809180000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809180000 +0000" stop="20250809181500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809181500 +0000" stop="20250809190000 +0000" channel="AsharqNews.uk">
+<title lang="en">Aboud Ala Al Hudoud</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809190000 +0000" stop="20250809200000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809200000 +0000" stop="20250809210000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Itidad Shaqan</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809210000 +0000" stop="20250809220000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809220000 +0000" stop="20250809220500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809220500 +0000" stop="20250809230000 +0000" channel="AsharqNews.uk">
+<title lang="en">TAQA PLUS</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250809230000 +0000" stop="20250809230500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250809230500 +0000" stop="20250810000000 +0000" channel="AsharqNews.uk">
+<title lang="en">Ma' Wa Dhed</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810000000 +0000" stop="20250810000500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810000500 +0000" stop="20250810010000 +0000" channel="AsharqNews.uk">
+<title lang="en">DOC</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810010000 +0000" stop="20250810011500 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810011500 +0000" stop="20250810020000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810020000 +0000" stop="20250810021000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810021000 +0000" stop="20250810030000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810033000 +0000" stop="20250810040000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810040000 +0000" stop="20250810043000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810043000 +0000" stop="20250810050000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810050000 +0000" stop="20250810053000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810053000 +0000" stop="20250810070000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810070000 +0000" stop="20250810070500 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810070500 +0000" stop="20250810071500 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810071500 +0000" stop="20250810073000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810073000 +0000" stop="20250810080000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810080000 +0000" stop="20250810080500 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810080500 +0000" stop="20250810083000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810083000 +0000" stop="20250810084500 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810084500 +0000" stop="20250810100000 +0000" channel="AsharqNews.uk">
+<title lang="en">Series</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810100000 +0000" stop="20250810100500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810100500 +0000" stop="20250810110000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Rabeta</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810110000 +0000" stop="20250810113000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810113000 +0000" stop="20250810120000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810120000 +0000" stop="20250810140000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Sabah Ma'a Cyba</title>
+<desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+</programme>
+<programme start="20250810140000 +0000" stop="20250810150000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810150000 +0000" stop="20250810170000 +0000" channel="AsharqNews.uk">
+<title lang="en">Mo'a Sheat Ashaq</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810170000 +0000" stop="20250810180000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810180000 +0000" stop="20250810190000 +0000" channel="AsharqNews.uk">
+<title lang="en">Aswaq Ashaq</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810190000 +0000" stop="20250810200000 +0000" channel="AsharqNews.uk">
+<title lang="en">Sharq W Gharb</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810200000 +0000" stop="20250810210000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810210000 +0000" stop="20250810210500 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810210500 +0000" stop="20250810220000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Madar</title>
+<desc lang="en">News and news analysis.</desc>
+</programme>
+<programme start="20250810220000 +0000" stop="20250810230000 +0000" channel="AsharqNews.uk">
+<title lang="en">Al Rabeta</title>
+<desc lang="en"></desc>
+</programme>
+<programme start="20250810230000 +0000" stop="20250810233000 +0000" channel="AsharqNews.uk">
+<title lang="en">News</title>
+<desc lang="en">News from DD News Channel.</desc>
+</programme>
+<programme start="20250810233000 +0000" stop="20250811000000 +0000" channel="AsharqNews.uk">
+<title lang="en">The David Rubenstein Show</title>
+<desc lang="en">David Rubenstein interviews important people from the business world and talks to them about their professional journeys and leadership-related topics.</desc>
 </programme>
 <programme start="20250806000000 +0000" stop="20250806003000 +0000" channel="BBCNews.us">
 <title lang="en-GB">BBC News</title>
@@ -6053,6 +6040,654 @@
 <programme start="20250809230000 +0000" stop="20250810000000 +0000" channel="MBCUSA.us">
 <title lang="en">To Be Announced</title>
 <desc lang="en">The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.</desc>
+</programme>
+<programme start="20250807003000 +0000" stop="20250807013000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250807013000 +0000" stop="20250807022000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807022000 +0000" stop="20250807023000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250807023000 +0000" stop="20250807033000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807033000 +0000" stop="20250807040000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807040000 +0000" stop="20250807043000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250807043000 +0000" stop="20250807050000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807050000 +0000" stop="20250807053000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Manasaat</title>
+<desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
+</programme>
+<programme start="20250807053000 +0000" stop="20250807060000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807060000 +0000" stop="20250807063000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Studio One</title>
+<desc lang="en-GB">The host invites prominent experts and analysts to discuss an array of the latest and most important news and updates from around the world.</desc>
+</programme>
+<programme start="20250807063000 +0000" stop="20250807070000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807070000 +0000" stop="20250807073000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Watha'eqeyaat Sky</title>
+<desc lang="en-GB">A compilation of factual and thought-provoking documentaries that revolve around interesting or important stories, events and personalities from around the world.</desc>
+</programme>
+<programme start="20250807073000 +0000" stop="20250807080000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807080000 +0000" stop="20250807083000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250807083000 +0000" stop="20250807093000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250807093000 +0000" stop="20250807102000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807102000 +0000" stop="20250807103000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250807103000 +0000" stop="20250807113000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Sabah Show</title>
+<desc lang="en-GB">The hosts present the latest news stories from around the world that intrigue the viewers and introduce them to new perspectives.</desc>
+</programme>
+<programme start="20250807113000 +0000" stop="20250807123000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Sabah Show</title>
+<desc lang="en-GB">The hosts present the latest news stories from around the world that intrigue the viewers and introduce them to new perspectives.</desc>
+</programme>
+<programme start="20250807123000 +0000" stop="20250807131500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807131500 +0000" stop="20250807133000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Eqtesad</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, updates, developments and events taking place around the world.</desc>
+</programme>
+<programme start="20250807133000 +0000" stop="20250807142500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807142500 +0000" stop="20250807143000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250807143000 +0000" stop="20250807151500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250807151500 +0000" stop="20250807153000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Eqtesad</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, updates, developments and events taking place around the world.</desc>
+</programme>
+<programme start="20250807153000 +0000" stop="20250807163000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250807163000 +0000" stop="20250807170000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807170000 +0000" stop="20250807173000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Eqtesad Ma' Lubna</title>
+<desc lang="en-GB">The host presents the latest business and finance-related top stories and trends in the international share and currency markets.</desc>
+</programme>
+<programme start="20250807173000 +0000" stop="20250807183000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Studio One</title>
+<desc lang="en-GB">The host invites prominent experts and analysts to discuss an array of the latest and most important news and updates from around the world.</desc>
+</programme>
+<programme start="20250807183000 +0000" stop="20250807192500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Studio One</title>
+<desc lang="en-GB">The host invites prominent experts and analysts to discuss an array of the latest and most important news and updates from around the world.</desc>
+</programme>
+<programme start="20250807192500 +0000" stop="20250807193000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250807193000 +0000" stop="20250807203000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250807203000 +0000" stop="20250807210000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250807210000 +0000" stop="20250807213000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Manasaat</title>
+<desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
+</programme>
+<programme start="20250807213000 +0000" stop="20250807220000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250807220000 +0000" stop="20250807223000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'lam Al Taqah</title>
+<desc lang="en-GB">The presenter analysis and discusses with experts the latest news updates from the world of energy sources and development.</desc>
+</programme>
+<programme start="20250807223000 +0000" stop="20250807232500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Tase'ah</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250807232500 +0000" stop="20250807233000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250807233000 +0000" stop="20250808003000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250808003000 +0000" stop="20250808013000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250808013000 +0000" stop="20250808022000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808022000 +0000" stop="20250808023000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250808023000 +0000" stop="20250808033000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808033000 +0000" stop="20250808040000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808040000 +0000" stop="20250808043000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250808043000 +0000" stop="20250808050000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808050000 +0000" stop="20250808053000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Manasaat</title>
+<desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
+</programme>
+<programme start="20250808053000 +0000" stop="20250808060000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808060000 +0000" stop="20250808063000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Studio One</title>
+<desc lang="en-GB">The host invites prominent experts and analysts to discuss an array of the latest and most important news and updates from around the world.</desc>
+</programme>
+<programme start="20250808063000 +0000" stop="20250808070000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808070000 +0000" stop="20250808073000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'lam Al Taqah</title>
+<desc lang="en-GB">The presenter analysis and discusses with experts the latest news updates from the world of energy sources and development.</desc>
+</programme>
+<programme start="20250808073000 +0000" stop="20250808080000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808080000 +0000" stop="20250808083000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250808083000 +0000" stop="20250808093000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250808093000 +0000" stop="20250808102000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808102000 +0000" stop="20250808103000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250808103000 +0000" stop="20250808113000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Sabah Show</title>
+<desc lang="en-GB">The hosts present the latest news stories from around the world that intrigue the viewers and introduce them to new perspectives.</desc>
+</programme>
+<programme start="20250808113000 +0000" stop="20250808123000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Sabah Show</title>
+<desc lang="en-GB">The hosts present the latest news stories from around the world that intrigue the viewers and introduce them to new perspectives.</desc>
+</programme>
+<programme start="20250808123000 +0000" stop="20250808130000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808130000 +0000" stop="20250808133000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Eqtesad</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, updates, developments and events taking place around the world.</desc>
+</programme>
+<programme start="20250808133000 +0000" stop="20250808142500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808142500 +0000" stop="20250808143000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250808143000 +0000" stop="20250808151500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250808151500 +0000" stop="20250808153000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Eqtesad</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, updates, developments and events taking place around the world.</desc>
+</programme>
+<programme start="20250808153000 +0000" stop="20250808163000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250808163000 +0000" stop="20250808170000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808170000 +0000" stop="20250808173000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Eqtesad</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, updates, developments and events taking place around the world.</desc>
+</programme>
+<programme start="20250808173000 +0000" stop="20250808183000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Studio One</title>
+<desc lang="en-GB">The host invites prominent experts and analysts to discuss an array of the latest and most important news and updates from around the world.</desc>
+</programme>
+<programme start="20250808183000 +0000" stop="20250808192500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Studio One</title>
+<desc lang="en-GB">The host invites prominent experts and analysts to discuss an array of the latest and most important news and updates from around the world.</desc>
+</programme>
+<programme start="20250808192500 +0000" stop="20250808193000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250808193000 +0000" stop="20250808203000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250808203000 +0000" stop="20250808210000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250808210000 +0000" stop="20250808213000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Manasaat</title>
+<desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
+</programme>
+<programme start="20250808213000 +0000" stop="20250808220000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250808220000 +0000" stop="20250808223000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Hadeeth Al A'rab</title>
+<desc lang="en-GB">The host has a one-on-one talk with the invited guests from different fields on topics related to culture and other issues.</desc>
+</programme>
+<programme start="20250808223000 +0000" stop="20250808232500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Tase'ah</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250808232500 +0000" stop="20250808233000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250808233000 +0000" stop="20250809003000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250809003000 +0000" stop="20250809013000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250809013000 +0000" stop="20250809020000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809020000 +0000" stop="20250809023000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Hajmah Mortadah</title>
+<desc lang="en-GB">The host invites sports experts to analyse the latest news and updates for local and international football.</desc>
+</programme>
+<programme start="20250809023000 +0000" stop="20250809030000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809030000 +0000" stop="20250809033000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al So'al Al Sa'b</title>
+<desc lang="en-GB">The host invites public figures from different walks of life to talk about their experiences and answer some questions that are open to doubt.</desc>
+</programme>
+<programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250809043000 +0000" stop="20250809050000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809050000 +0000" stop="20250809053000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Manasaat</title>
+<desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
+</programme>
+<programme start="20250809053000 +0000" stop="20250809060000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809060000 +0000" stop="20250809063000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Studio One</title>
+<desc lang="en-GB">The host invites prominent experts and analysts to discuss an array of the latest and most important news and updates from around the world.</desc>
+</programme>
+<programme start="20250809063000 +0000" stop="20250809070000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809070000 +0000" stop="20250809073000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Hadeeth Al A'rab</title>
+<desc lang="en-GB">The host has a one-on-one talk with the invited guests from different fields on topics related to culture and other issues.</desc>
+</programme>
+<programme start="20250809073000 +0000" stop="20250809080000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809080000 +0000" stop="20250809083000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Hajmah Mortadah</title>
+<desc lang="en-GB">The host invites sports experts to analyse the latest news and updates for local and international football.</desc>
+</programme>
+<programme start="20250809083000 +0000" stop="20250809093000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250809093000 +0000" stop="20250809102000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809102000 +0000" stop="20250809103000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250809103000 +0000" stop="20250809110000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809110000 +0000" stop="20250809113000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Sabah Show</title>
+<desc lang="en-GB">The hosts present the latest news stories from around the world that intrigue the viewers and introduce them to new perspectives.</desc>
+</programme>
+<programme start="20250809113000 +0000" stop="20250809120000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809120000 +0000" stop="20250809123000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Sabah Show</title>
+<desc lang="en-GB">The hosts present the latest news stories from around the world that intrigue the viewers and introduce them to new perspectives.</desc>
+</programme>
+<programme start="20250809123000 +0000" stop="20250809130000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809130000 +0000" stop="20250809133000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'lam Al Taqah</title>
+<desc lang="en-GB">The presenter analysis and discusses with experts the latest news updates from the world of energy sources and development.</desc>
+</programme>
+<programme start="20250809133000 +0000" stop="20250809142500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809142500 +0000" stop="20250809143000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250809143000 +0000" stop="20250809153000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250809153000 +0000" stop="20250809163000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250809163000 +0000" stop="20250809170000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809170000 +0000" stop="20250809173000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Hajmah Mortadah</title>
+<desc lang="en-GB">The host invites sports experts to analyse the latest news and updates for local and international football.</desc>
+</programme>
+<programme start="20250809173000 +0000" stop="20250809180000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809180000 +0000" stop="20250809183000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al So'al Al Sa'b</title>
+<desc lang="en-GB">The host invites public figures from different walks of life to talk about their experiences and answer some questions that are open to doubt.</desc>
+</programme>
+<programme start="20250809183000 +0000" stop="20250809190000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809190000 +0000" stop="20250809192500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Lana Wa Al Nojoom</title>
+<desc lang="en-GB">The host sheds light on the latest and most important news and updates revolving around prominent stars and artists from around the Arab world.</desc>
+</programme>
+<programme start="20250809192500 +0000" stop="20250809193000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250809193000 +0000" stop="20250809203000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250809203000 +0000" stop="20250809210000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250809210000 +0000" stop="20250809213000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Manasaat</title>
+<desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
+</programme>
+<programme start="20250809213000 +0000" stop="20250809220000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250809220000 +0000" stop="20250809223000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al E'yadah</title>
+<desc lang="en-GB">The host invites different doctors and specialists to talk about health-related topics and provides the viewers with valuable tips to help them lead a healthy lifestyle.</desc>
+</programme>
+<programme start="20250809223000 +0000" stop="20250809232500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Tase'ah</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250809232500 +0000" stop="20250809233000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250809233000 +0000" stop="20250810003000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250810003000 +0000" stop="20250810013000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250810013000 +0000" stop="20250810023000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Emad Al Deen Adeeb</title>
+<desc lang="en-GB">The host invites prominent political personalities and analysts to discuss the latest and most important political news and events in the Middle East and the world.</desc>
+</programme>
+<programme start="20250810023000 +0000" stop="20250810030000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810030000 +0000" stop="20250810033000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'la Al Khareetah</title>
+<desc lang="en-GB">The host sheds light on the latest updates and news regarding the Russian invasion of Ukraine while highlighting the advancement of the military troops of each country on the map.</desc>
+</programme>
+<programme start="20250810033000 +0000" stop="20250810040000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810040000 +0000" stop="20250810043000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250810043000 +0000" stop="20250810050000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810050000 +0000" stop="20250810053000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Manasaat</title>
+<desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
+</programme>
+<programme start="20250810053000 +0000" stop="20250810062000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810062000 +0000" stop="20250810063000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250810063000 +0000" stop="20250810070000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810070000 +0000" stop="20250810073000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al E'yadah</title>
+<desc lang="en-GB">The host invites different doctors and specialists to talk about health-related topics and provides the viewers with valuable tips to help them lead a healthy lifestyle.</desc>
+</programme>
+<programme start="20250810073000 +0000" stop="20250810080000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810080000 +0000" stop="20250810083000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250810083000 +0000" stop="20250810093000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250810093000 +0000" stop="20250810102000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810102000 +0000" stop="20250810103000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250810103000 +0000" stop="20250810110000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810110000 +0000" stop="20250810113000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Hadeeth Al A'rab</title>
+<desc lang="en-GB">The host has a one-on-one talk with the invited guests from different fields on topics related to culture and other issues.</desc>
+</programme>
+<programme start="20250810113000 +0000" stop="20250810120000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810120000 +0000" stop="20250810123000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Lana Wa Al Nojoom</title>
+<desc lang="en-GB">The host sheds light on the latest and most important news and updates revolving around prominent stars and artists from around the Arab world.</desc>
+</programme>
+<programme start="20250810123000 +0000" stop="20250810130000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810130000 +0000" stop="20250810133000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Technologya</title>
+<desc lang="en-GB">A comprehensive compilation of the latest news stories, updates and development from the world of technology and innovation.</desc>
+</programme>
+<programme start="20250810133000 +0000" stop="20250810142500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810142500 +0000" stop="20250810143000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250810143000 +0000" stop="20250810153000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250810153000 +0000" stop="20250810163000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Akhbar Al Dhaheerah</title>
+<desc lang="en-GB">The hosts present the latest and biggest news and updates and interview experts to discuss and analyse events around the world for the midday period.</desc>
+</programme>
+<programme start="20250810163000 +0000" stop="20250810170000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810170000 +0000" stop="20250810173000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al E'yadah</title>
+<desc lang="en-GB">The host invites different doctors and specialists to talk about health-related topics and provides the viewers with valuable tips to help them lead a healthy lifestyle.</desc>
+</programme>
+<programme start="20250810173000 +0000" stop="20250810180000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810180000 +0000" stop="20250810183000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Watha'eqeyaat Sky</title>
+<desc lang="en-GB">A compilation of factual and thought-provoking documentaries that revolve around interesting or important stories, events and personalities from around the world.</desc>
+</programme>
+<programme start="20250810183000 +0000" stop="20250810192500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Emad Al Deen Adeeb</title>
+<desc lang="en-GB">The host invites prominent political personalities and analysts to discuss the latest and most important political news and events in the Middle East and the world.</desc>
+</programme>
+<programme start="20250810192500 +0000" stop="20250810193000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250810193000 +0000" stop="20250810203000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250810203000 +0000" stop="20250810210000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Radar</title>
+<desc lang="en-GB">The hosts present and analyse the latest and most important daily news in the Middle East and the world and interview various experts and personalities.</desc>
+</programme>
+<programme start="20250810210000 +0000" stop="20250810213000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Bayn Al Shawtayn</title>
+<desc lang="en-GB">The host invites various popular personalities and experts to talk about different topics from the world of sports from around the world.</desc>
+</programme>
+<programme start="20250810213000 +0000" stop="20250810220000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Akhbar</title>
+<desc lang="en-GB">The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+</programme>
+<programme start="20250810220000 +0000" stop="20250810223000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Technologya</title>
+<desc lang="en-GB">A comprehensive compilation of the latest news stories, updates and development from the world of technology and innovation.</desc>
+</programme>
+<programme start="20250810223000 +0000" stop="20250810232500 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Al Tase'ah</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
+</programme>
+<programme start="20250810232500 +0000" stop="20250810233000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">A'rdh Sagheer</title>
+<desc lang="en-GB">Bringing the best in television.</desc>
+</programme>
+<programme start="20250810233000 +0000" stop="20250811003000 +0000" channel="SkyNewsArabia.uk">
+<title lang="en-GB">Ghorfat Al Akhbar</title>
+<desc lang="en-GB">The reporters present the latest news updates and current affairs from around the world to highlight various developments and issues.</desc>
 </programme>
 <programme start="20250806000000 +0000" stop="20250806030000 +0000" channel="TBS.us">
 <title lang="en">Cincinnati Reds vs. Chicago Cubs</title>
