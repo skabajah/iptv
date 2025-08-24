@@ -27,16 +27,16 @@ https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/64
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.althania.tv/images/logo2.png" group-title="2-LEVANT",242) Syria 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="2-LEVANT",251) Lana
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
 
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="2-LEVANT",271) OTV
+https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="2-LEVANT",281) Al Jadeed
+http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.mtv.com.lb/images/header/logo-header.jpg" group-title="2-LEVANT",291) MTV
 https://media.mtv.com.lb/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.mtv.com.lb/images/header/onetv-logo.webp" group-title="3-MUSIC",301) MTV One
@@ -53,12 +53,14 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://magictvbox.com/wp-content/uploads/2018/03/Clip.png" group-title="3-MUSIC",361) Rotana Clip
 https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="3-MUSIC",371) Panorama FM
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Al-Nahar_TV_Logo.png" group-title="4-EGYPT",403) Nahar
 https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="4-EGYPT",406) Hayat
+https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://ums.com.eg/wp-content/uploads/2023/04/dmc-logo-sqr-2.png" group-title="4-EGYPT",411) DMC
 https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sada_Elbalad.png" group-title="4-EGYPT",421) Sada
@@ -69,10 +71,10 @@ https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/60579
 https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ELMEHWAR_TV.png" group-title="4-EGYPT",451) Mehwar
 https://edge66.magictvbox.com/liveApple/el_mehwar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MBCMASR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="4-EGYPT",461) MBC Egypt
-https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-
-
+#EXTINF:-1 tvg-id="MBCMASR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="4-EGYPT",461) MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MBC_Masr_2_Logo.svg/171px-MBC_Masr_2_Logo.svg.png" group-title="4-EGYPT",462) MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="4-EGYPT",463) MBC Egypt Drama
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 
@@ -93,16 +95,18 @@ https://edge66.magictvbox.com/liveApple/MBC_Drama/tracks-v1a1/mono.m3u8
 https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://media0075.elcinema.com/tvguide/1218_1.png" group-title="5-MEDIA",552) Rotana Aflam
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="5-MEDIA",561) Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="MBCUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="6-GULF",601) MBC 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="6-GULF",612) MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png" group-title="6-GULF",614) MBC 4
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="6-GULF",615) MBC 5
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="6-GULF",621) SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://pbs.twimg.com/profile_images/1714633231004233728/KE-De-63_400x400.jpg" group-title="6-GULF",631) Mashhad
 https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/ap-south-1/6313884884001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2(English).fr" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="6-GULF",641) AlAraby 2
@@ -115,7 +119,7 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn-radiotime-logos.tunein.com/p287034d.png" group-title="7-US",702) Test Kitchen 2
 https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/03/cooks-country-logo-vector.png" group-title="7-US",703) Cook"s Country
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/03/cooks-country-logo-vector.png" group-title="7-US",703) Cook`s Country
 https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
 
 
