@@ -1670,26 +1670,6 @@
 <title lang="en-GB">War Hotels</title>
 <desc lang="en-GB">A look at the hotels that have witness dramatic stories of war and geo-politics.</desc>
 </programme>
-<programme start="20250826000000 +0000" stop="20250826040000 +0000" channel="Arabica.us">
-<title lang="en">Top 10</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826050000 +0000" channel="Arabica.us">
-<title lang="en">Top 10</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826064500 +0000" channel="Arabica.us">
-<title lang="en">Video Clip</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826064500 +0000" stop="20250826073000 +0000" channel="Arabica.us">
-<title lang="en">New Albums</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826073000 +0000" stop="20250826081500 +0000" channel="Arabica.us">
-<title lang="en">Music Videos</title>
-<desc lang="en">Music videos and performances from across the region.</desc>
-</programme>
 <programme start="20250826081500 +0000" stop="20250826085900 +0000" channel="Arabica.us">
 <title lang="en">Top 10</title>
 <desc lang="en"></desc>
@@ -2457,90 +2437,6 @@
 <programme start="20250830230000 +0000" stop="20250831010000 +0000" channel="AsharqNews.uk">
 <title lang="en-GB">Akhbar Asharq</title>
 <desc lang="en-GB">Comprehensive news bulletin, presenting the news in their context, explaining their background and various dimensions, to provide viewers with the full picture.</desc>
-</programme>
-<programme start="20250826000000 +0000" stop="20250826003000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC News</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
-</programme>
-<programme start="20250826003000 +0000" stop="20250826010000 +0000" channel="BBCNews.us">
-<title lang="en-GB">Talking Business</title>
-<desc lang="en-GB">Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.</desc>
-</programme>
-<programme start="20250826010000 +0000" stop="20250826013000 +0000" channel="BBCNews.us">
-<title lang="en-GB">Newsday</title>
-<desc lang="en-GB">The latest international news from London and Singapore.</desc>
-</programme>
-<programme start="20250826013000 +0000" stop="20250826014500 +0000" channel="BBCNews.us">
-<title lang="en-GB">Business Today</title>
-<desc lang="en-GB">Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-</programme>
-<programme start="20250826014500 +0000" stop="20250826020000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC Sport</title>
-<desc lang="en-GB">Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.</desc>
-</programme>
-<programme start="20250826020000 +0000" stop="20250826023000 +0000" channel="BBCNews.us">
-<title lang="en-GB">Newsday</title>
-<desc lang="en-GB">The latest international news from London and Singapore.</desc>
-</programme>
-<programme start="20250826023000 +0000" stop="20250826024500 +0000" channel="BBCNews.us">
-<title lang="en-GB">Business Today</title>
-<desc lang="en-GB">Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-</programme>
-<programme start="20250826024500 +0000" stop="20250826030000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC Sport</title>
-<desc lang="en-GB">Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826033000 +0000" channel="BBCNews.us">
-<title lang="en-GB">Newsday</title>
-<desc lang="en-GB">The latest international news from London and Singapore.</desc>
-</programme>
-<programme start="20250826033000 +0000" stop="20250826034500 +0000" channel="BBCNews.us">
-<title lang="en-GB">Business Today</title>
-<desc lang="en-GB">Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-</programme>
-<programme start="20250826034500 +0000" stop="20250826040000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC Sport</title>
-<desc lang="en-GB">Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.</desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826043000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC News</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
-</programme>
-<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="BBCNews.us">
-<title lang="en-GB">Business Today</title>
-<desc lang="en-GB">Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC News</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
-</programme>
-<programme start="20250826053000 +0000" stop="20250826055500 +0000" channel="BBCNews.us">
-<title lang="en-GB">Business Today</title>
-<desc lang="en-GB">Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-</programme>
-<programme start="20250826055500 +0000" stop="20250826060000 +0000" channel="BBCNews.us">
-<title lang="en-GB">The Travel Show</title>
-<desc lang="en-GB">The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC News</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
-</programme>
-<programme start="20250826063000 +0000" stop="20250826065500 +0000" channel="BBCNews.us">
-<title lang="en-GB">Business Today</title>
-<desc lang="en-GB">Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-</programme>
-<programme start="20250826065500 +0000" stop="20250826070000 +0000" channel="BBCNews.us">
-<title lang="en-GB">The Travel Show</title>
-<desc lang="en-GB">The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.</desc>
-</programme>
-<programme start="20250826070000 +0000" stop="20250826073000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC News</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
-</programme>
-<programme start="20250826073000 +0000" stop="20250826080000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC News</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="BBCNews.us">
 <title lang="en-GB">BBC News</title>
@@ -3434,26 +3330,6 @@
 <title lang="en-GB">Talking Business</title>
 <desc lang="en-GB">Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.</desc>
 </programme>
-<programme start="20250826010000 +0000" stop="20250826030000 +0000" channel="Bloomberg.us">
-<title lang="en">Bloomberg: The China Show</title>
-<desc lang="en">From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors insight into the world's second-biggest economy, delivering in-depth discussions with newsmakers.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826040000 +0000" channel="Bloomberg.us">
-<title lang="en">Insight with Haslinda Amin</title>
-<desc lang="en">In a volatile and unpredictable world, the show will be the definitive guide for the global news audience to get the complete picture on the biggest story of the day. With news making executives, officials and thought-leaders from the world of business, politics and academia we will explore a story through probing interviews and nuanced conversations. The hour of programming will also highlight the most relevant stories from India which is currently one of the hottest investment destinations, but also has compelling stories that play into the Bloomberg's priority issues such as Climate change, Diversity and Technological innovation.</desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826050000 +0000" channel="Bloomberg.us">
-<title lang="en">Bloomberg Horizons Middle East &amp; Africa</title>
-<desc lang="en">A spotlight on the fast paced growth and major deals happening across the Middle East and Africa, linking the market drivers from overnight in the U.S. and across Asia into the region's trading day, with deep-dive analysis of the top businesses.</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826060000 +0000" channel="Bloomberg.us">
-<title lang="en">Bloomberg Daybreak: Europe</title>
-<desc lang="en">From London, essential morning viewing to stay ahead of the day's market trends with news stories from the U.S. and Asia in the lead-up to the opening of European markets.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826080000 +0000" channel="Bloomberg.us">
-<title lang="en">Bloomberg The Opening Trade</title>
-<desc lang="en">"The Opening Trade" explores things to know as markets open across Europe; analysis that isn't available anywhere else, a break down of the biggest stories of the day and top guests who have skin in the game.</desc>
-</programme>
 <programme start="20250826080000 +0000" stop="20250826090000 +0000" channel="Bloomberg.us">
 <title lang="en">The Pulse with Francine Lacqua</title>
 <desc lang="en">Based in London, Francine Lacqua speaks with guests about global business, economics, finance and politics.</desc>
@@ -3749,38 +3625,6 @@
 <programme start="20250829230000 +0000" stop="20250830000000 +0000" channel="Bloomberg.us">
 <title lang="en">The Deal With Alex Rodriguez and Jason Kelly</title>
 <desc lang="en">Alex Rodriguez and Jason Kelly host conversations with business moguls, entrepreneurs and sports champions who reveal the secrets behind their success.</desc>
-</programme>
-<programme start="20250826000000 +0000" stop="20250826010000 +0000" channel="CNN.us">
-<title lang="en">Anderson Cooper 360</title>
-<desc lang="en">Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
-</programme>
-<programme start="20250826010000 +0000" stop="20250826020000 +0000" channel="CNN.us">
-<title lang="en">The Source With Kaitlan Collins</title>
-<desc lang="en">Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
-</programme>
-<programme start="20250826020000 +0000" stop="20250826030000 +0000" channel="CNN.us">
-<title lang="en">CNN NewsNight With Abby Phillip</title>
-<desc lang="en">Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826040000 +0000" channel="CNN.us">
-<title lang="en">Laura Coates Live</title>
-<desc lang="en">Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826050000 +0000" channel="CNN.us">
-<title lang="en">Anderson Cooper 360</title>
-<desc lang="en">Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826060000 +0000" channel="CNN.us">
-<title lang="en">Erin Burnett OutFront</title>
-<desc lang="en">Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826070000 +0000" channel="CNN.us">
-<title lang="en">CNN NewsNight With Abby Phillip</title>
-<desc lang="en">Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-</programme>
-<programme start="20250826070000 +0000" stop="20250826080000 +0000" channel="CNN.us">
-<title lang="en">The Source With Kaitlan Collins</title>
-<desc lang="en">Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826090000 +0000" channel="CNN.us">
 <title lang="en">American Pulse</title>
@@ -4133,70 +3977,6 @@
 <programme start="20250829230000 +0000" stop="20250830000000 +0000" channel="CNN.us">
 <title lang="en">Erin Burnett OutFront</title>
 <desc lang="en">Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-</programme>
-<programme start="20250826000000 +0000" stop="20250826003000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Michael comes up with an idea that causes a huge problem in the office; Pam, Jim and Andy each give Kevin different advice on wooing a woman.</desc>
-</programme>
-<programme start="20250826003000 +0000" stop="20250826010000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Michael makes big plans for his 15th anniversary party at Dunder Mifflin; Jim plays a prank on Dwight that has unexpected results.</desc>
-</programme>
-<programme start="20250826010000 +0000" stop="20250826013000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Michael's relationship with the new vice president gets increasingly tense; Pam finds the new copier a challenge.</desc>
-</programme>
-<programme start="20250826013000 +0000" stop="20250826020000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Jim faces Charles during a soccer game in the Dunder Mifflin parking lot; Michael finds himself afraid to face the workday.</desc>
-</programme>
-<programme start="20250826020000 +0000" stop="20250826023000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Dwight and Andy plan a hunting trip; Charles asks Jim for a "rundown", and Jim tries to figure out what that is; Michael hosts a paper and pancakes luncheon.</desc>
-</programme>
-<programme start="20250826023000 +0000" stop="20250826030000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Dwight's devotion to Michael is tested; Andy tries to fulfill Jim's emotional needs.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826033000 +0000" channel="ComedyCentral.us">
-<title lang="en">Family Guy</title>
-<desc lang="en">A drunken Brian and Peter devour the holiday turkey the night before Thanksgiving; Chris becomes the man of the house in Peter's absence.</desc>
-</programme>
-<programme start="20250826033000 +0000" stop="20250826040000 +0000" channel="ComedyCentral.us">
-<title lang="en">Family Guy</title>
-<desc lang="en">Joe decides to embrace life by taking the guys on a road trip to Niagra Falls, where he makes an unexpected decision; Peter is hailed a hero after finding a missing boy.</desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826043000 +0000" channel="ComedyCentral.us">
-<title lang="en">Family Guy</title>
-<desc lang="en">When Brian becomes more submissive as a result of obedience school, Peter realizes his misses the old Brian; Chris discovers his new friend was just using him to get closer to Meg.</desc>
-</programme>
-<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="ComedyCentral.us">
-<title lang="en">Digman!</title>
-<desc lang="en">Rip attempts to repair Saltine's relationship with her parents, but inadvertently leads them into a massive treasure hunt; will they find Blackbeard's gold before Zane does or will the only thing they dig up be some dark secret?</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="ComedyCentral.us">
-<title lang="en">Mike Judge's Beavis and Butt-Head</title>
-<desc lang="en">Beavis and Butt-Head try to empty their minds and find they are surprisingly good at it; Beavis and Butt-Head mistake their neighborhood polling place for a strip club.</desc>
-</programme>
-<programme start="20250826053000 +0000" stop="20250826060000 +0000" channel="ComedyCentral.us">
-<title lang="en">Mike Judge's Beavis and Butt-Head</title>
-<desc lang="en">Middle-aged Beavis and Butt-Head attend a city council meeting to get their apartment demolished; Beavis and Butt-Head struggle to prank a neighborhood home.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="ComedyCentral.us">
-<title lang="en">South Park</title>
-<desc lang="en">Randy sees an opportunity for Tegridy in China.</desc>
-</programme>
-<programme start="20250826063000 +0000" stop="20250826070000 +0000" channel="ComedyCentral.us">
-<title lang="en">South Park</title>
-<desc lang="en">Randy celebrates the success of Tegridy Farms; Cartman refuses to get a shot.</desc>
-</programme>
-<programme start="20250826070000 +0000" stop="20250826073000 +0000" channel="ComedyCentral.us">
-<title lang="en">South Park</title>
-<desc lang="en">Cartman is sure the new plant-based diet in the school cafeteria gave him a heart attack.</desc>
-</programme>
-<programme start="20250826073000 +0000" stop="20250826080000 +0000" channel="ComedyCentral.us">
-<title lang="en">South Park</title>
-<desc lang="en">Randy tries to deal with his daughter's marijuana problem on Halloween.</desc>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="ComedyCentral.us">
 <title lang="en">South Park</title>
@@ -4898,30 +4678,6 @@
 <title lang="en">Family Guy</title>
 <desc lang="en">Peter falls into a coma and meets God face to face; he asks God some of life's tough questions.</desc>
 </programme>
-<programme start="20250826000000 +0000" stop="20250826010000 +0000" channel="MBCMASR.us">
-<title lang="en">Afrah Ebles</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826010000 +0000" stop="20250826030000 +0000" channel="MBCMASR.us">
-<title lang="en">El Hekaya Ma' Amr Adib</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826040000 +0000" channel="MBCMASR.us">
-<title lang="en">Kasr Al-Nile</title>
-<desc lang="en">Following their dad's death three sons await their uncle's return to distribute the inheritance but a mysterious woman's appearance tips the scales.</desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826050000 +0000" channel="MBCMASR.us">
-<title lang="en">Meen Qal?!</title>
-<desc lang="en">An ambitious young man casts aside his family's wish for him to be an engineer when a business idea involving paper benches pops into his head.</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826060000 +0000" channel="MBCMASR.us">
-<title lang="en">Al Halal</title>
-<desc lang="en">A beautiful impostor who works as an exorcist and conjures blessings faces very difficult situations alone.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826070000 +0000" channel="MBCMASR.us">
-<title lang="en">Afrah Ebles</title>
-<desc lang="en"></desc>
-</programme>
 <programme start="20250826070000 +0000" stop="20250826083000 +0000" channel="MBCMASR.us">
 <title lang="en">Masrah Masr</title>
 <desc lang="en"></desc>
@@ -5272,42 +5028,6 @@
 </programme>
 <programme start="20250829235400 +0000" stop="20250830010000 +0000" channel="MBCMASR.us">
 <title lang="en">Masrah Masr</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826000000 +0000" stop="20250826010000 +0000" channel="MBCUSA.us">
-<title lang="en">Hakim Basha</title>
-<desc lang="en">Hakim, an ambitious antiquities dealer, takes control of his family's fortune, only to find himself surrounded by betrayal and enemies lurking in the shadows. In a game of power and survival, trust is a dangerous gamble.</desc>
-</programme>
-<programme start="20250826010000 +0000" stop="20250826020000 +0000" channel="MBCUSA.us">
-<title lang="en">Ommi</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826020000 +0000" stop="20250826023000 +0000" channel="MBCUSA.us">
-<title lang="en">Studio 21</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826023000 +0000" stop="20250826030000 +0000" channel="MBCUSA.us">
-<title lang="en">Holm Esref</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826040000 +0000" channel="MBCUSA.us">
-<title lang="en">Salma</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826050000 +0000" channel="MBCUSA.us">
-<title lang="en">Khwaty Ghanaty</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826060000 +0000" channel="MBCUSA.us">
-<title lang="en">Al Nisyan</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826073000 +0000" channel="MBCUSA.us">
-<title lang="en">Nadina</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826073000 +0000" stop="20250826080000 +0000" channel="MBCUSA.us">
-<title lang="en">Ahla Ma Tash</title>
 <desc lang="en"></desc>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826090000 +0000" channel="MBCUSA.us">
@@ -6338,70 +6058,6 @@
 <title lang="en-GB">Manasaat</title>
 <desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
 </programme>
-<programme start="20250826000000 +0000" stop="20250826003000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">Raj and Sheldon try to simulate a dark-matter research expedition; after a fight about money, Penny and Leonard turn to Bernadette and Wolowitz for advice.</desc>
-</programme>
-<programme start="20250826003000 +0000" stop="20250826010000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">The guys try to help when Penny is faced with an awkward dilemma at work; Bernadette and Amy discuss sexuality and female scientists.</desc>
-</programme>
-<programme start="20250826010000 +0000" stop="20250826013000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">Sheldon feels pressured to participate in romantic traditions when the gang re-creates a high-school prom on the roof.</desc>
-</programme>
-<programme start="20250826013000 +0000" stop="20250826020000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">Leonard has minor surgery on his nose, causing Sheldon to overreact; Bernadette and Howard work on their marriage.</desc>
-</programme>
-<programme start="20250826020000 +0000" stop="20250826023000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">Sheldon says goodbye to Fun With Flags; Howard, Leonard and Raj look through their dead professor's research; Bernadette learns her co-workers' true feelings.</desc>
-</programme>
-<programme start="20250826023000 +0000" stop="20250826030000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">Leonard and Wolowitz clash over a work emergency; Amy throws a Victorian Christmas party which Sheldon resents.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826033000 +0000" channel="TBS.us">
-<title lang="en">Impractical Jokers</title>
-<desc lang="en">Attention shoppers; the Jokers make mischief by taking unflattering pictures of grocery store patrons, then posing as horrible employees at the Yeti store; tonight's loser must meat his fate in a punishment.</desc>
-</programme>
-<programme start="20250826033000 +0000" stop="20250826040000 +0000" channel="TBS.us">
-<title lang="en">Impractical Jokers</title>
-<desc lang="en">The Jokers can't contain the laughs as they answer survey questions for a new snack food and present the world's worst pharmaceutical ads; the loser will work up a sweat in a punishment that's all pain, no gain.</desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826043000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">When Stan's old high school wrestling record is threatened by Barry, he enlists Roger to help defend it.</desc>
-</programme>
-<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">When Roger is sent to fight in the war and can no longer counsel the Smith family, Klaus takes the opportunity to become their new therapist.</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">When Steve's new dog suffers a terrible accident, memories of a traumatic incident make Stan refuse to take the dog off life support.</desc>
-</programme>
-<programme start="20250826053000 +0000" stop="20250826060000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">When Stan learns that Francine was once unfaithful before they were married, he travels back in time to find out if Hayley is his biological daughter.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">Roger rediscovers an alter ego, who continues to be the most-despised man in town; the African child that Francine and Stan sponsored shows up on their doorstep.</desc>
-</programme>
-<programme start="20250826063000 +0000" stop="20250826070000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">Stan takes Steve to Mexico to help him become a man, but when they are kidnapped by a drug cartel, it is up to Steve to break them out.</desc>
-</programme>
-<programme start="20250826070000 +0000" stop="20250826073000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">When Roger hires Hayley as a singer in his new bar, he becomes enthralled by her voice; Stan tries to prove his masculinity by negotiating a good deal on a new car.</desc>
-</programme>
-<programme start="20250826073000 +0000" stop="20250826080000 +0000" channel="TBS.us">
-<title lang="en">American Dad!</title>
-<desc lang="en">During the Smith family's tropical vacation, Stan is ordered to kill the activities director at their resort; Jeff and Hayley try to rekindle their romance.</desc>
-</programme>
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="TBS.us">
 <title lang="en">Family Matters</title>
 <desc lang="en">In a school play, Romeo Steve anticipates kissing Juliet Laura.</desc>
@@ -7037,26 +6693,6 @@
 <programme start="20250829233000 +0000" stop="20250830000000 +0000" channel="TBS.us">
 <title lang="en">The Big Bang Theory</title>
 <desc lang="en">The gang celebrates news of Bernadette's pregnancy by singing karaoke; Wolowitz's reaction to the pregnancy announcement worries Bernadette; Wolowitz believes he needs to make more money to support his growing family.</desc>
-</programme>
-<programme start="20250826003000 +0000" stop="20250826030000 +0000" channel="TNT.us">
-<title lang="en">Just Go With It</title>
-<desc lang="en">His heart recently broken, plastic surgeon Danny Maccabee (Adam Sandler) pretends to be married so he can enjoy future dates with no strings attached. His web of lies works, but when he meets Palmer (Brooklyn Decker) -- the gal of his dreams -- she resists involvement. Instead of coming clean, Danny enlists Katherine (Jennifer Aniston), his assistant, to pose as his soon-to-be-ex-wife. Instead of solving Danny's problems, the lies create more trouble.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826050000 +0000" channel="TNT.us">
-<title lang="en">Bad Teacher</title>
-<desc lang="en">For most, teaching is an honorable profession -- except for Elizabeth (Cameron Diaz). The foul-mouthed, boozy woman can't wait to marry a rich man and quit her job, but she has to rethink her plans when her sugar daddy dumps her. Then Scott Delacorte (Justin Timberlake), a substitute teacher who's cute and rich, arrives. Elizabeth can't wait to sink her teeth into a new meal ticket, but she faces stiff competition from Amy (Lucy Punch), a popular and perky colleague.</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826060000 +0000" channel="TNT.us">
-<title lang="en">Cold Case</title>
-<desc lang="en">The team takes on the high-stakes world of high-school cheerleading when an anonymous confession to a teen girl's murder turns up at an art exhibit.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826070000 +0000" channel="TNT.us">
-<title lang="en">Cold Case</title>
-<desc lang="en">The team investigates the 1919 death of a young girl who wanted more rights for women.</desc>
-</programme>
-<programme start="20250826070000 +0000" stop="20250826080000 +0000" channel="TNT.us">
-<title lang="en">Cold Case</title>
-<desc lang="en">The team reopens the 2005 murder of a longshoreman who got in the middle of a profitable human-trafficking ring led by the Russian mob.</desc>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826090000 +0000" channel="TNT.us">
 <title lang="en">Cold Case</title>
@@ -7978,42 +7614,6 @@
 <title lang="en-GB">For MY Right</title>
 <desc lang="en-GB">Coverage and highlights of the latest news on different topics.</desc>
 </programme>
-<programme start="20250826000000 +0000" stop="20250826020200 +0000" channel="WABC.us">
-<title lang="en">Bachelor in Paradise</title>
-<desc lang="en">The group trades cocktails for critters when a new twist sends them into the jungle; a relationship intervention throws couples into a tailspin; the next test turns the beach into a battlefield of red flags.</desc>
-</programme>
-<programme start="20250826020200 +0000" stop="20250826030000 +0000" channel="WABC.us">
-<title lang="en">Match Game</title>
-<desc lang="en">Celebrity contestants Joel McHale, Amy Sedaris, Lamorne Morris, Kevin Nealon, Ziwe and Annie Murphy.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826033500 +0000" channel="WABC.us">
-<title lang="en">Eyewitness News at 11</title>
-<desc lang="en">Breaking news.</desc>
-</programme>
-<programme start="20250826033500 +0000" stop="20250826043700 +0000" channel="WABC.us">
-<title lang="en">Jimmy Kimmel Live!</title>
-<desc lang="en">Guest host Nicole Byer; actor Terry Crews; comic Ben Schwartz; Rico Nasty performs.</desc>
-</programme>
-<programme start="20250826043700 +0000" stop="20250826050600 +0000" channel="WABC.us">
-<title lang="en">Nightline</title>
-<desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
-</programme>
-<programme start="20250826050600 +0000" stop="20250826060600 +0000" channel="WABC.us">
-<title lang="en">Live with Kelly and Mark</title>
-<desc lang="en">Danielle Brooks; Benito Skinner; shopping day.</desc>
-</programme>
-<programme start="20250826060600 +0000" stop="20250826063600 +0000" channel="WABC.us">
-<title lang="en">Daytime Jeopardy</title>
-<desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-</programme>
-<programme start="20250826063600 +0000" stop="20250826070600 +0000" channel="WABC.us">
-<title lang="en">ABC World News Tonight With David Muir</title>
-<desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
-</programme>
-<programme start="20250826070600 +0000" stop="20250826080000 +0000" channel="WABC.us">
-<title lang="en">Tamron Hall</title>
-<desc lang="en">Nancy Reddy (book "The Good Mother Myth"); Melanie Fiona, Felicia La Tour, Ashley Chea, Codie Elaine Oliver (podcast "The Mama's Den").</desc>
-</programme>
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="WABC.us">
 <title lang="en">Good Morning America First Look</title>
 <desc lang="en">Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
@@ -8405,42 +8005,6 @@
 <programme start="20250829233000 +0000" stop="20250830000000 +0000" channel="WABC.us">
 <title lang="en">Wheel of Fortune</title>
 <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
-</programme>
-<programme start="20250826000000 +0000" stop="20250826020000 +0000" channel="WNBC.us">
-<title lang="en">American Ninja Warrior</title>
-<desc lang="en">The finals conclude in Las Vegas where the nation's top ninjas go head-to-head in high-stakes, side-by-side races; a new bracket-style tournament crowns the next American Ninja Warrior champion, earning them the grand prize of $250,000.</desc>
-</programme>
-<programme start="20250826020000 +0000" stop="20250826030000 +0000" channel="WNBC.us">
-<title lang="en">Survival Mode</title>
-<desc lang="en">As Superstorm Sandy crashes into the East Coast, a city braces for chaos, and ordinary people find extraordinary courage as they face unprecedented threats from wind, fire and flood.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826033400 +0000" channel="WNBC.us">
-<title lang="en">News 4 NY at 11</title>
-<desc lang="en">Local and regional news.</desc>
-</programme>
-<programme start="20250826033400 +0000" stop="20250826043700 +0000" channel="WNBC.us">
-<title lang="en">The Tonight Show Starring Jimmy Fallon</title>
-<desc lang="en">Actor Pete Davidson; Kid Cudi talks and performs.</desc>
-</programme>
-<programme start="20250826043700 +0000" stop="20250826053700 +0000" channel="WNBC.us">
-<title lang="en">Late Night With Seth Meyers</title>
-<desc lang="en">Actor Billy Porter; soccer players Midge Purce and Emily Sonnett.</desc>
-</programme>
-<programme start="20250826053700 +0000" stop="20250826060700 +0000" channel="WNBC.us">
-<title lang="en">News 4 NY at 11</title>
-<desc lang="en">Local and regional news.</desc>
-</programme>
-<programme start="20250826060700 +0000" stop="20250826063700 +0000" channel="WNBC.us">
-<title lang="en">NBC Nightly News With Tom Llamas</title>
-<desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-</programme>
-<programme start="20250826063700 +0000" stop="20250826070700 +0000" channel="WNBC.us">
-<title lang="en">Access Hollywood</title>
-<desc lang="en">Netflix's "KPop Demon Hunters" cast; in Las Vegas with New Kids on the Block; "The Thursday Murder Club Is on the Case" star-studded red carpet.</desc>
-</programme>
-<programme start="20250826070700 +0000" stop="20250826080000 +0000" channel="WNBC.us">
-<title lang="en">The Kelly Clarkson Show</title>
-<desc lang="en">Kellyoke encore: "Always Remember Us This Way"; Simon Cowell, Howie Mandel, Mel B, Sofía Vergara and Terry Crews ("America's Got Talent"); Maury Povich; FairShare; a performance from Broadway's "Smash"; America's fittest cat.</desc>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="WNBC.us">
 <title lang="en">Early Today</title>
@@ -8877,58 +8441,6 @@
 <programme start="20250829233000 +0000" stop="20250830000000 +0000" channel="WNBC.us">
 <title lang="en">Access Hollywood</title>
 <desc lang="en">Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
-</programme>
-<programme start="20250826000000 +0000" stop="20250826010000 +0000" channel="WTTGDT.us">
-<title lang="en">LEGO Masters Jr.</title>
-<desc lang="en">Each team has five hours to build a vehicle and their celebrity teammates' stunt double out of LEGO bricks; the teams send their brick-built stunt double and vehicles off the launchpad and complete an epic action movie stunt.</desc>
-</programme>
-<programme start="20250826010000 +0000" stop="20250826020000 +0000" channel="WTTGDT.us">
-<title lang="en">The Quiz With Balls</title>
-<desc lang="en">Contestants test their knowledge of sports, lifestyle, movies and more.</desc>
-</programme>
-<programme start="20250826020000 +0000" stop="20250826030000 +0000" channel="WTTGDT.us">
-<title lang="en">Fox 5 at 10</title>
-<desc lang="en">Local and regional news coverage.</desc>
-</programme>
-<programme start="20250826030000 +0000" stop="20250826033000 +0000" channel="WTTGDT.us">
-<title lang="en">Fox 5 at 11</title>
-<desc lang="en">Local and regional news.</desc>
-</programme>
-<programme start="20250826033000 +0000" stop="20250826040000 +0000" channel="WTTGDT.us">
-<title lang="en">The Final 5</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826040000 +0000" stop="20250826043000 +0000" channel="WTTGDT.us">
-<title lang="en">Fox 5's Like it or Not</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="WTTGDT.us">
-<title lang="en">True Crime News</title>
-<desc lang="en">In the trial for the murder of celebrity hairstylist Fabio Sementilli, details are unveiled about how an affair and money led to his demise.</desc>
-</programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="WTTGDT.us">
-<title lang="en">Crime Exposé With Nancy O'Dell</title>
-<desc lang="en">Taking viewers through all aspects of a murder investigation.</desc>
-</programme>
-<programme start="20250826053000 +0000" stop="20250826060000 +0000" channel="WTTGDT.us">
-<title lang="en">Who Has Access to Your Personal Data?</title>
-<desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
-</programme>
-<programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="WTTGDT.us">
-<title lang="en">PrettyLitter Health-Monitoring Cat Litter</title>
-<desc lang="en">PrettyLitter Health-Monitoring Cat Litter: Litter that wont break your back, or the bank.</desc>
-</programme>
-<programme start="20250826063000 +0000" stop="20250826070000 +0000" channel="WTTGDT.us">
-<title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-<desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-</programme>
-<programme start="20250826070000 +0000" stop="20250826073000 +0000" channel="WTTGDT.us">
-<title lang="en">POOF! Bye Bye Under Eye Bags!</title>
-<desc lang="en">Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-</programme>
-<programme start="20250826073000 +0000" stop="20250826080000 +0000" channel="WTTGDT.us">
-<title lang="en">TMZ</title>
-<desc lang="en">TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="WTTGDT.us">
 <title lang="en">The First 5</title>
