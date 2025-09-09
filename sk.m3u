@@ -1,8 +1,10 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8mr4zuqr983ng1v"
+#EXTM3U 
 #EXTINF:-1 tvg-id="AlJazeera(Arabic).uk" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="1-AKHBAR",101) Al Jazeera
 https://live-hls-web-aja-fa.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.uk" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="1-AKHBAR",111) Al Sharq
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/512px-Al-Arabiya_new_logo.svg.png" group-title="1-AKHBAR",116) Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="1-AKHBAR",121) SkyNews Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
