@@ -2981,26 +2981,6 @@
 <title lang="en-GB">Dhayfi Ma' Moataz El Demerdash</title>
 <desc lang="en-GB">The host invites various prominent personalities from different walks of life to talk about their professional and personal lives while highlighting their success stories.</desc>
 </programme>
-<programme start="20250908000000 +0000" stop="20250908003000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC News</title>
-<desc lang="en-GB">A comprehensive compilation of the latest and the most important news stories, updates and developments from the UK and different parts of the world.</desc>
-</programme>
-<programme start="20250908003000 +0000" stop="20250908010000 +0000" channel="BBCNews.us">
-<title lang="en-GB">Ukrainecast</title>
-<desc lang="en-GB">In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
-</programme>
-<programme start="20250908010000 +0000" stop="20250908013000 +0000" channel="BBCNews.us">
-<title lang="en-GB">Newsday</title>
-<desc lang="en-GB">The latest international news from London and Singapore.</desc>
-</programme>
-<programme start="20250908013000 +0000" stop="20250908014500 +0000" channel="BBCNews.us">
-<title lang="en-GB">Business Today</title>
-<desc lang="en-GB">Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-</programme>
-<programme start="20250908014500 +0000" stop="20250908020000 +0000" channel="BBCNews.us">
-<title lang="en-GB">BBC Sport</title>
-<desc lang="en-GB">Coverage, commentary highlights and more from the world's biggest sporting events on the BBC.</desc>
-</programme>
 <programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="BBCNews.us">
 <title lang="en-GB">Newsday</title>
 <desc lang="en-GB">The latest international news from London and Singapore.</desc>
@@ -4265,14 +4245,6 @@
 <title lang="en">Bloomberg The Asia Trade</title>
 <desc lang="en">Bringing global investors everything you need to know as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders.</desc>
 </programme>
-<programme start="20250908000000 +0000" stop="20250908010000 +0000" channel="CNN.us">
-<title lang="en">CNN Newsroom</title>
-<desc lang="en">Updates of news from around the world.</desc>
-</programme>
-<programme start="20250908010000 +0000" stop="20250908020000 +0000" channel="CNN.us">
-<title lang="en">Dr. Sanjay Gupta Reports: It Doesn't Have to Hurt</title>
-<desc lang="en">Nearly a quarter of American adults live with chronic pain. Dr. Sanjay Gupta travels the country to investigate its hidden causes and explore groundbreaking treatments transforming how we understand, manage and prevent lifelong pain.</desc>
-</programme>
 <programme start="20250908020000 +0000" stop="20250908030000 +0000" channel="CNN.us">
 <title lang="en">The Windsors: Inside the Royal Dynasty</title>
 <desc lang="en">With the marriages of Prince William to Kate Middleton and Prince Harry to Meghan Markle, a new generation reenergizes the royal brand, but in the modern media age the pressures of being a royal are more intense than ever.</desc>
@@ -4648,22 +4620,6 @@
 <programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="CNN.us">
 <title lang="en">Erin Burnett OutFront</title>
 <desc lang="en">Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-</programme>
-<programme start="20250908000000 +0000" stop="20250908003000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Andy crashes a fundraiser and ends up adopting 12 dogs; Dwight learns that an auction winner loses money; Nellie learns how to eat a taco.</desc>
-</programme>
-<programme start="20250908003000 +0000" stop="20250908010000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Andy tries to jumpstart his comeback; after Robert drunkenly shuts down a local branch, Jim and Dwight join forces in hope of outsmarting a salesman.</desc>
-</programme>
-<programme start="20250908010000 +0000" stop="20250908013000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">A former boss helps Andy go under cover and stage a coup; a new opportunity arises for Robert.</desc>
-</programme>
-<programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="ComedyCentral.us">
-<title lang="en">The Office</title>
-<desc lang="en">Two new, young employees throw Dwight and Jim off balance; Andy returns from leadership training with a desire for revenge.</desc>
 </programme>
 <programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="ComedyCentral.us">
 <title lang="en">The Office</title>
@@ -5421,10 +5377,6 @@
 <title lang="en">The Office</title>
 <desc lang="en">Andy decides to quit his job and pursue his dream; Dwight has his best day ever at work; Jim comes back to Scranton to spend more time with Pam.</desc>
 </programme>
-<programme start="20250908000000 +0000" stop="20250908005000 +0000" channel="MBCMASR.us">
-<title lang="en">Afrah Ebles</title>
-<desc lang="en"></desc>
-</programme>
 <programme start="20250908005000 +0000" stop="20250908031600 +0000" channel="MBCMASR.us">
 <title lang="en">El Hekaya Ma' Amr Adib</title>
 <desc lang="en"></desc>
@@ -5755,14 +5707,6 @@
 </programme>
 <programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="MBCMASR.us">
 <title lang="en">Lahm Ghazal</title>
-<desc lang="en"></desc>
-</programme>
-<programme start="20250908000000 +0000" stop="20250908010000 +0000" channel="MBCUSA.us">
-<title lang="en">Hakim Basha</title>
-<desc lang="en">Hakim, an ambitious antiquities dealer, takes control of his family's fortune, only to find himself surrounded by betrayal and enemies lurking in the shadows. In a game of power and survival, trust is a dangerous gamble.</desc>
-</programme>
-<programme start="20250908010000 +0000" stop="20250908020000 +0000" channel="MBCUSA.us">
-<title lang="en">Ommi</title>
 <desc lang="en"></desc>
 </programme>
 <programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="MBCUSA.us">
@@ -6816,18 +6760,6 @@
 <programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="SkyNewsArabia.uk">
 <title lang="en-GB">Manasaat</title>
 <desc lang="en-GB">The host discusses and highlights the most recent trending news, headlines and updates across the social media platforms.</desc>
-</programme>
-<programme start="20250908000000 +0000" stop="20250908003000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">When Amy's parents and Sheldon's family arrive, everybody is focused on making sure the wedding arrangements go according to plan -- everyone except the bride and groom.</desc>
-</programme>
-<programme start="20250908003000 +0000" stop="20250908010000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">Sheldon and Amy's honeymoon runs aground in New York; Penny and Leonard discover they are uncomfortably similar to Amy's parents; Koothrappali insults physicist Neil deGrasse Tyson and starts a Twitter war.</desc>
-</programme>
-<programme start="20250908010000 +0000" stop="20250908013000 +0000" channel="TBS.us">
-<title lang="en">The Big Bang Theory</title>
-<desc lang="en">Sheldon and Amy go crazy trying to figure out what "perfect gift" Leonard and Penny gave them for their wedding; Koothrappali decides to settle down and asks his father to arrange a marriage for him.</desc>
 </programme>
 <programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="TBS.us">
 <title lang="en">The Big Bang Theory</title>
@@ -9328,18 +9260,6 @@
 <programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="WNBC.us">
 <title lang="en">Access Hollywood</title>
 <desc lang="en">Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
-</programme>
-<programme start="20250908000000 +0000" stop="20250908003100 +0000" channel="WTTGDT.us">
-<title lang="en">The Simpsons</title>
-<desc lang="en">The new and improved Pin Pals travel to Capital City for their first ever state bowling championship.</desc>
-</programme>
-<programme start="20250908003100 +0000" stop="20250908010000 +0000" channel="WTTGDT.us">
-<title lang="en">Krapopolis</title>
-<desc lang="en">Ty plots to skip out on his own wedding day; Stupe bonds with her future uncle-in-law; Shlub puts on his dancing horseshoes.</desc>
-</programme>
-<programme start="20250908010000 +0000" stop="20250908013100 +0000" channel="WTTGDT.us">
-<title lang="en">Animal Control</title>
-<desc lang="en">Frank is tasked with taking a dog to "the farm," but instead jailbreaks the pup to find it a new forever home; Victoria tries to teach Shred how to break the rules; Patel has a life-changing encounter with a therapy goat.</desc>
 </programme>
 <programme start="20250908013100 +0000" stop="20250908020000 +0000" channel="WTTGDT.us">
 <title lang="en">The Great North</title>
